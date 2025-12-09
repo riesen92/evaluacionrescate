@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Entrenamiento Operador R-1 | Bomberos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="main-container">
+        
+        <header class="quiz-header">
+            <h1>Evaluación Técnica R-1</h1>
+            <div class="progress-container">
+                <div class="progress-bar" id="progress-bar"></div>
+            </div>
+        </header>
+
+        <main id="quiz-screen" class="screen active">
+            <div class="question-info">
+                <span id="question-number">Cargando...</span>
+                <span id="question-category">Categoría</span>
+            </div>
+
+            <h2 id="question-text" class="question-text">Cargando pregunta...</h2>
+
+            <div id="options-container" class="options-grid">
+                </div>
+
+            <div id="explanation-box" class="explanation-box hidden">
+                <strong>Justificación Técnica:</strong>
+                <p id="explanation-text"></p>
+            </div>
+
+            <div class="footer-actions">
+                <button id="action-btn" class="btn btn-primary" disabled>Verificar</button>
+            </div>
+        </main>
+
+        <section id="result-screen" class="screen hidden">
+            <div class="score-card">
+                <div class="score-circle" id="score-circle">0%</div>
+                <h2 id="result-title">Evaluación Finalizada</h2>
+                <p id="result-message">Calculando...</p>
+                <button class="btn btn-restart" onclick="restartQuiz()">Reiniciar Entrenamiento</button>
+            </div>
+
+            <div class="review-section">
+                <h3>Revisión Detallada</h3>
+                <div id="review-container">
+                    </div>
+            </div>
+        </section>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
