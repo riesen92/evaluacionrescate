@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "category": "L1: Conceptos Básicos",
+    "question": "Según la NFPA 1670 citada en el texto, ¿cómo se define 'Extricación'?",
+    "options": [
+      "La remoción de pacientes atrapados en un vehículo o maquinaria.",
+      "El tratamiento de soporte vital básico en trauma.",
+      "El traslado de víctimas al hospital.",
+      "La estabilización de vehículos volcados."
+    ],
+    "answer": "La remoción de pacientes atrapados en un vehículo o maquinaria.",
+    "explanation": "Definición textual citada en la introducción[cite: 381]."
+  },
+  {
+    "id": 2,
+    "category": "L1: Conceptos Básicos",
+    "question": "¿Cuál es el elemento clave o 'máxima' que rige todas las acciones en el rescate vehicular?",
+    "options": [
+      "Rescate centrado en el paciente.",
+      "Seguridad ante todo.",
+      "Rapidez de ejecución.",
+      "Cuidado de las herramientas."
+    ],
+    "answer": "Rescate centrado en el paciente.",
+    "explanation": "El estado inicial y evolutivo del paciente define las decisiones de intervención[cite: 389, 393]."
+  },
+  {
+    "id": 3,
+    "category": "L1: Planificación",
+    "question": "Según la experiencia, ¿cuántos minutos son críticos al inicio de la emergencia para asegurar una alta probabilidad de éxito?",
+    "options": [
+      "Los primeros 3 minutos.",
+      "Los primeros 10 minutos.",
+      "El primer minuto.",
+      "Los primeros 5 minutos."
+    ],
+    "answer": "Los primeros 3 minutos.",
+    "explanation": "El texto indica que un buen trabajo durante los primeros 3 minutos conlleva alta probabilidad de éxito[cite: 396]."
+  },
+  {
+    "id": 4,
+    "category": "L1: Etapas",
+    "question": "¿Cuál es la 'Etapa 0' del rescate vehicular?",
+    "options": [
+      "Designación de Unidades de Trabajo (POE-RV).",
+      "Evaluación de la escena.",
+      "Salida del cuartel.",
+      "Llamada a la central."
+    ],
+    "answer": "Designación de Unidades de Trabajo (POE-RV).",
+    "explanation": "Se define intencionalmente como Etapa 0 dado que se realiza antes de ocurrida la emergencia[cite: 416]."
+  },
+  {
+    "id": 5,
+    "category": "L1: Organización",
+    "question": "¿Cuáles son las 4 Unidades de Trabajo generales definidas en el POE?",
+    "options": [
+      "Seguridad, Trauma, Equipos y Extricación.",
+      "Mando, Agua, Escalas y Rescate.",
+      "Logística, Planificación, Operaciones y Finanzas.",
+      "Médica, Policial, Bomberil y Civil."
+    ],
+    "answer": "Seguridad, Trauma, Equipos y Extricación.",
+    "explanation": "Las funciones generales comunes son Seguridad, Trauma, Equipos y Extricación[cite: 419]."
+  },
+  {
+    "id": 6,
+    "category": "L1: Escena",
+    "question": "¿Qué se entiende por 'Perímetro Externo'?",
+    "options": [
+      "Zona de despliegue de recursos y espera de equipos.",
+      "Zona de trabajo directo con el paciente.",
+      "Zona exclusiva para la prensa.",
+      "Zona de exclusión total."
+    ],
+    "answer": "Zona de despliegue de recursos y espera de equipos.",
+    "explanation": "Corresponde a una zona de despliegue de recursos y espera para los equipos[cite: 453]."
+  },
+  {
+    "id": 7,
+    "category": "L1: Escena",
+    "question": "¿Qué áreas debe designar el Jefe de Operaciones dentro del Perímetro Externo?",
+    "options": [
+      "Área de equipos, Área de escombros y Área de concentración de víctimas.",
+      "Área sucia, Área limpia y Área de descontaminación.",
+      "Puesto de Mando, Staging Area y Base.",
+      "Área de descanso, Área de comida y Baños."
+    ],
+    "answer": "Área de equipos, Área de escombros y Área de concentración de víctimas.",
+    "explanation": "Son las tres áreas específicas mencionadas en la organización de la escena[cite: 456]."
+  },
+  {
+    "id": 8,
+    "category": "L1: Escena",
+    "question": "¿Qué es el 'Perímetro Interno'?",
+    "options": [
+      "Área que rodea el vehículo y pacientes (trabajo directo).",
+      "El interior del vehículo.",
+      "La zona donde están los familiares.",
+      "El cuartel de bomberos."
+    ],
+    "answer": "Área que rodea el vehículo y pacientes (trabajo directo).",
+    "explanation": "Es aquel que rodea el vehículo y pacientes, correspondiendo al área directa de trabajo[cite: 472]."
+  },
+  {
+    "id": 9,
+    "category": "L1: Etapas",
+    "question": "En la etapa de Estabilización, ¿qué significa la sigla 'HO' de la regla nemotécnica?",
+    "options": [
+      "Estabilización Horizontal.",
+      "Herramientas Oleohidráulicas.",
+      "Hora de Operación.",
+      "Habilitar Operación."
+    ],
+    "answer": "Estabilización Horizontal.",
+    "explanation": "Parte de la nemotecnia HO-VE-STOR...[cite: 494]."
+  },
+  {
+    "id": 10,
+    "category": "L1: Evaluación",
+    "question": "El acrónimo PATER se utiliza para:",
+    "options": [
+      "Una evaluación global de la situación del paciente y sus requerimientos.",
+      "Recordar los pasos de la estabilización.",
+      "Organizar las herramientas.",
+      "Llamar a Carabineros."
+    ],
+    "answer": "Una evaluación global de la situación del paciente y sus requerimientos.",
+    "explanation": "Se refiere a la evaluación del paciente y los requerimientos para su atención[cite: 511]."
+  },
+  {
+    "id": 11,
+    "category": "L1: Evaluación",
+    "question": "¿Qué significan las siglas P.A.T.E.R.?",
+    "options": [
+      "Paciente, Atrapamiento, Técnica, Extracción, Recursos.",
+      "Prioridad, Atención, Trauma, Evaluación, Respuesta.",
+      "Peligro, Área, Tiempo, Equipo, Rapidez.",
+      "Posición, Aire, Temperatura, Espacio, Riesgo."
+    ],
+    "answer": "Paciente, Atrapamiento, Técnica, Extracción, Recursos.",
+    "explanation": "Desglose oficial del acrónimo en el manual[cite: 513]."
+  },
+  {
+    "id": 12,
+    "category": "L1: Planificación",
+    "question": "¿Quiénes deben asistir a la 'Reunión Tripartita'?",
+    "options": [
+      "Miembros de las unidades de Seguridad, Trauma y Extricación.",
+      "El Comandante, Carabineros y SAMU.",
+      "Todo el personal presente en el lugar.",
+      "Solo los oficiales."
+    ],
+    "answer": "Miembros de las unidades de Seguridad, Trauma y Extricación.",
+    "explanation": "A esta reunión asistirán los miembros de estas tres unidades operativas[cite: 528]."
+  },
+  {
+    "id": 13,
+    "category": "L1: Planificación",
+    "question": "En la planificación, ¿qué es el 'Plan Rápido'?",
+    "options": [
+      "Una vía simple de extracción usada solo en caso de PCR o agravamiento.",
+      "La forma más cómoda de sacar al paciente.",
+      "El plan que usa menos herramientas.",
+      "Sacar al paciente inmediatamente sin inmovilizar."
+    ],
+    "answer": "Una vía simple de extracción usada solo en caso de PCR o agravamiento.",
+    "explanation": "Busca maximizar la rapidez ante riesgo vital inminente[cite: 535]."
+  },
+  {
+    "id": 14,
+    "category": "L1: Etapas",
+    "question": "¿Qué hito marca el inicio de la etapa de 'Extracción del paciente'?",
+    "options": [
+      "La voz de mando: '¡Mando traspasado al Jefe de Trauma!'.",
+      "Cuando se corta el techo.",
+      "Cuando llega la ambulancia.",
+      "Cuando se rompe el vidrio."
+    ],
+    "answer": "La voz de mando: '¡Mando traspasado al Jefe de Trauma!'.",
+    "explanation": "Marca el traspaso de liderazgo para la remoción física del paciente[cite: 553]."
+  },
+  {
+    "id": 15,
+    "category": "L1: Etapas",
+    "question": "En la etapa de 'Restitución del tránsito', la labor de Bomberos se realiza:",
+    "options": [
+      "Coordinado con Carabineros y bajo la dirección de éstos.",
+      "Apenas se va la ambulancia.",
+      "Sin autorización de nadie.",
+      "Solo si hay grúa."
+    ],
+    "answer": "Coordinado con Carabineros y bajo la dirección de éstos.",
+    "explanation": "La entrega de la zona segura se coordina con la autoridad policial[cite: 562]."
+  },
+  {
+    "id": 16,
+    "category": "L1: Etapas",
+    "question": "¿Cuál es el objetivo del 'Debriefing' (Etapa 11)?",
+    "options": [
+      "Realizar un análisis de procedimientos y desempeño del equipo.",
+      "Descansar y comer.",
+      "Llenar el parte de asistencia.",
+      "Limpiar las herramientas."
+    ],
+    "answer": "Realizar un análisis de procedimientos y desempeño del equipo.",
+    "explanation": "Instancia para analizar el desempeño individual y colectivo[cite: 564]."
+  },
+  {
+    "id": 17,
+    "category": "L1: Evaluación",
+    "question": "¿En qué etapa se realiza la evaluación '360 grados'?",
+    "options": [
+      "Etapa 1: Evaluación de la escena.",
+      "Etapa 3: Estabilización.",
+      "Etapa 6: Reunión tripartita.",
+      "Etapa 11: Debriefing."
+    ],
+    "answer": "Etapa 1: Evaluación de la escena.",
+    "explanation": "Corresponde a la evaluación inicial de necesidades y riesgos[cite: 429]."
+  },
+  {
+    "id": 18,
+    "category": "L1: Etapas",
+    "question": "¿Qué se debe hacer en la etapa de 'Confirmación / Reasignación de Unidades'?",
+    "options": [
+      "Confirmar o modificar las unidades asignadas según las necesidades reales de la escena.",
+      "Esperar a que lleguen más carros.",
+      "Cambiar de conductor.",
+      "Pedir comida."
+    ],
+    "answer": "Confirmar o modificar las unidades asignadas según las necesidades reales de la escena.",
+    "explanation": "El Jefe de Operaciones ajusta los recursos tras la evaluación inicial[cite: 487]."
+  },
+  {
+    "id": 19,
+    "category": "L1: Escena",
+    "question": "Respecto a la ubicación de los motores/equipos a combustión, el texto recomienda:",
+    "options": [
+      "Disponerlos lo más alejados de los pacientes para evitar contaminación.",
+      "Ponerlos cerca para tenerlos a mano.",
+      "Dejarlos dentro del perímetro interno.",
+      "Apagarlos siempre."
+    ],
+    "answer": "Disponerlos lo más alejados de los pacientes para evitar contaminación.",
+    "explanation": "Para evitar contaminación acústica y por gases[cite: 459]."
+  },
+  {
+    "id": 20,
+    "category": "L1: Planificación",
+    "question": "El 'Plan Óptimo' se define como:",
+    "options": [
+      "El plan donde se maximiza la seguridad y la calidad de vida (extracción ideal).",
+      "El plan más rápido posible.",
+      "El plan que usa menos personal.",
+      "El plan que no corta el auto."
+    ],
+    "answer": "El plan donde se maximiza la seguridad y la calidad de vida (extracción ideal).",
+    "explanation": "Es la estrategia principal a menos que el paciente empeore[cite: 534]."
+  }
+]

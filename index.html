@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Entrenamiento Operador R-1 | Bomberos</title>
+    <title>Centro de Entrenamiento | Bomberos</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -11,22 +11,72 @@
     <div class="main-container">
         
         <header class="quiz-header">
-            <h1>Evaluación Técnica R-1</h1>
+            <h1>Entrenamiento Táctico</h1>
             <div class="progress-container">
                 <div class="progress-bar" id="progress-bar"></div>
             </div>
         </header>
 
-        <main id="quiz-screen" class="screen active">
-            <div class="question-info">
-                <span id="question-number">Cargando...</span>
-                <span id="question-category">Categoría</span>
+        <section id="main-menu-screen" class="screen active">
+            <h2 class="menu-title">Selecciona tu Objetivo</h2>
+            <div class="menu-grid">
+                
+                <button class="menu-card" onclick="showAnbMenu()">
+                    <div class="icon">📚</div>
+                    <div class="content">
+                        <h3>Manual Extricación ANB</h3>
+                        <p>Estudio por Lecciones y Final</p>
+                        <span class="tag">Teórico</span>
+                    </div>
+                </button>
+
+                <button class="menu-card" onclick="startR1Exam()">
+                    <div class="icon">🚒</div>
+                    <div class="content">
+                        <h3>Herramientas R-1</h3>
+                        <p>Evaluación Operativa (30 preguntas)</p>
+                        <span class="tag">Técnico</span>
+                    </div>
+                </button>
+
+            </div>
+        </section>
+
+        <section id="anb-menu-screen" class="screen hidden">
+            <h2 class="menu-title">Selecciona Lección</h2>
+            <button class="btn btn-secondary" onclick="goToMainMenu()" style="margin-bottom: 20px; width: 100%;">⬅ Volver al Inicio</button>
+            
+            <div class="lessons-grid">
+                <button class="btn-lesson" onclick="startAnbLesson(1)">1. Aproximación</button>
+                <button class="btn-lesson" onclick="startAnbLesson(2)">2. Riesgos</button>
+                <button class="btn-lesson" onclick="startAnbLesson(3)">3. Mecánica</button>
+                <button class="btn-lesson" onclick="startAnbLesson(4)">4. Herramientas</button>
+                <button class="btn-lesson" onclick="startAnbLesson(5)">5. Soporte Vital</button>
+                <button class="btn-lesson" onclick="startAnbLesson(6)">6. Estabilización</button>
+                <button class="btn-lesson" onclick="startAnbLesson(7)">7. Acceso</button>
+                <button class="btn-lesson" onclick="startAnbLesson(8)">8. Maniobras</button>
+                <button class="btn-lesson" onclick="startAnbLesson(9)">9. Técnicas</button>
+                <button class="btn-lesson" onclick="startAnbLesson(10)">10. Errores</button>
+                <button class="btn-lesson" onclick="startAnbLesson(11)">11. Anexos/POE</button>
             </div>
 
-            <h2 id="question-text" class="question-text">Cargando pregunta...</h2>
+            <div class="final-exam-container">
+                <button class="btn-final-exam" onclick="startFinalAnbExam()">
+                    ⭐ EVALUACIÓN FINAL ANB ⭐
+                    <small>55 Preguntas (5 de cada lección)</small>
+                </button>
+            </div>
+        </section>
 
-            <div id="options-container" class="options-grid">
-                </div>
+        <main id="quiz-screen" class="screen hidden">
+            <div class="question-header">
+                <span class="badge" id="exam-badge">Examen</span>
+                <span class="counter" id="question-number">1/30</span>
+            </div>
+
+            <h2 id="question-text" class="question-text">Cargando...</h2>
+
+            <div id="options-container" class="options-grid"></div>
 
             <div id="explanation-box" class="explanation-box hidden">
                 <strong>Justificación Técnica:</strong>
@@ -43,13 +93,16 @@
                 <div class="score-circle" id="score-circle">0%</div>
                 <h2 id="result-title">Evaluación Finalizada</h2>
                 <p id="result-message">Calculando...</p>
-                <button class="btn btn-restart" onclick="restartQuiz()">Reiniciar Entrenamiento</button>
+                
+                <div class="result-actions">
+                    <button class="btn btn-secondary" onclick="goToMainMenu()">Menú Principal</button>
+                    <button class="btn btn-primary" id="retry-btn">Reintentar</button>
+                </div>
             </div>
 
             <div class="review-section">
-                <h3>Revisión Detallada</h3>
-                <div id="review-container">
-                    </div>
+                <h3>Revisión de Errores</h3>
+                <div id="review-container"></div>
             </div>
         </section>
 

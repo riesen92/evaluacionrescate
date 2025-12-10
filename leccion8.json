@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "category": "L8: Conceptos",
+    "question": "¿Qué son las 'Maniobras Accesorias' en el rescate vehicular?",
+    "options": [
+      "Aquellas que facilitan el acceso y contacto (ej. vidrios, espacios), pero no son la técnica principal de liberación.",
+      "Las maniobras que hace la grúa.",
+      "El corte de pilares.",
+      "El traslado del paciente."
+    ],
+    "answer": "Aquellas que facilitan el acceso y contacto (ej. vidrios, espacios), pero no son la técnica principal de liberación.",
+    "explanation": "Se usan cuando se requieren para habilitar vías o facilitar herramientas[cite: 4948]."
+  },
+  {
+    "id": 2,
+    "category": "L8: Vidrios",
+    "question": "Para este curso, los vidrios se clasifican en tres tipos:",
+    "options": [
+      "Templado, Inastillable (Laminado) y Anti-asaltos (Seguridad).",
+      "Duro, Blando y Plástico.",
+      "Transparente, Polarizado y Opaco.",
+      "Delantero, Trasero y Lateral."
+    ],
+    "answer": "Templado, Inastillable (Laminado) y Anti-asaltos (Seguridad).",
+    "explanation": "Clasificación oficial del manual para definir la técnica de ruptura [cite: 4955-4957]."
+  },
+  {
+    "id": 3,
+    "category": "L8: Vidrios",
+    "question": "¿Cuál es la característica principal del vidrio 'Templado' al romperse?",
+    "options": [
+      "Se fragmenta en múltiples y pequeñas piezas (granallas) poco cortantes.",
+      "Se parte en grandes trozos afilados.",
+      "No se rompe, se dobla.",
+      "Queda pegado en una lámina."
+    ],
+    "answer": "Se fragmenta en múltiples y pequeñas piezas (granallas) poco cortantes.",
+    "explanation": "Diseñado para minimizar lesiones por corte[cite: 4959]."
+  },
+  {
+    "id": 4,
+    "category": "L8: Vidrios",
+    "question": "Si el mecanismo del vehículo funciona, ¿cuál es la técnica recomendada antes de romper un vidrio templado?",
+    "options": [
+      "Bajar el vidrio hasta dejar 2-3 cm visibles, tapar con lona y romper controladamente.",
+      "Romperlo cerrado completamente.",
+      "Subirlo al máximo.",
+      "No tocarlo."
+    ],
+    "answer": "Bajar el vidrio hasta dejar 2-3 cm visibles, tapar con lona y romper controladamente.",
+    "explanation": "Minimiza la caída de vidrio al interior y facilita la contención[cite: 4962]."
+  },
+  {
+    "id": 5,
+    "category": "L8: Vidrios",
+    "question": "Si no se puede bajar el vidrio templado, ¿qué técnica se utiliza para evitar la proyección de fragmentos?",
+    "options": [
+      "Instalar una lámina adhesiva o hacer un entramado con cinta adhesiva antes de romper.",
+      "Romperlo desde lejos.",
+      "Mojarlo con agua.",
+      "Usar un imán."
+    ],
+    "answer": "Instalar una lámina adhesiva o hacer un entramado con cinta adhesiva antes de romper.",
+    "explanation": "Mantiene los fragmentos unidos para retirarlos en bloque[cite: 4969]."
+  },
+  {
+    "id": 6,
+    "category": "L8: Vidrios",
+    "question": "¿Cómo está construido un vidrio 'Inastillable o Laminado'?",
+    "options": [
+      "Dos piezas de vidrio con una lámina adhesiva transparente entre ellas.",
+      "Una sola pieza de vidrio muy grueso.",
+      "De plástico policarbonato.",
+      "De malla metálica."
+    ],
+    "answer": "Dos piezas de vidrio con una lámina adhesiva transparente entre ellas.",
+    "explanation": "Los fragmentos quedan adheridos a la lámina intermedia [cite: 4993-4994]."
+  },
+  {
+    "id": 7,
+    "category": "L8: Vidrios",
+    "question": "¿Cuál es el método recomendado para remover un parabrisas laminado con empaquetadura?",
+    "options": [
+      "Método de remoción de goma de sello (cortar la goma perimetral).",
+      "Romperlo con punzón.",
+      "Empujarlo con los pies.",
+      "Usar fuego."
+    ],
+    "answer": "Método de remoción de goma de sello (cortar la goma perimetral).",
+    "explanation": "Permite retirar el vidrio entero sin generar polvo de vidrio[cite: 4998]."
+  },
+  {
+    "id": 8,
+    "category": "L8: Vidrios",
+    "question": "Si el parabrisas está pegado (sin goma), ¿qué herramienta se usa para cortarlo?",
+    "options": [
+      "Sierra sable eléctrica, sierra manual para vidrios o hacha (corte controlado).",
+      "Punzón automático.",
+      "Cizalla hidráulica.",
+      "Martillo."
+    ],
+    "answer": "Sierra sable eléctrica, sierra manual para vidrios o hacha (corte controlado).",
+    "explanation": "Se debe cortar generando un punto de entrada [cite: 5004-5010]."
+  },
+  {
+    "id": 9,
+    "category": "L8: Seguridad Vidrios",
+    "question": "Antes de romper CUALQUIER vidrio, el rescatista debe gritar:",
+    "options": [
+      "¡Rompiendo vidrio!",
+      "¡Cuidado!",
+      "¡Fuego!",
+      "¡Atención!"
+    ],
+    "answer": "¡Rompiendo vidrio!",
+    "explanation": "Advertencia obligatoria para alertar al paciente y equipo[cite: 5021]."
+  },
+  {
+    "id": 10,
+    "category": "L8: Seguridad Vidrios",
+    "question": "¿Qué EPP adicional es obligatorio para el manejo de vidrios según la lección?",
+    "options": [
+      "Mascarilla buconasal (tipo N95).",
+      "Equipo ERA.",
+      "Guantes de goma.",
+      "Traje encapsulado."
+    ],
+    "answer": "Mascarilla buconasal (tipo N95).",
+    "explanation": "Protege las vías aéreas del polvo de vidrio[cite: 5019]."
+  },
+  {
+    "id": 11,
+    "category": "L8: Generación de Espacio",
+    "question": "¿Cuál es el objetivo de la técnica 'Acceso forzado para expansor'?",
+    "options": [
+      "Generar una deformación pequeña (brecha) para introducir las puntas de la herramienta.",
+      "Romper la herramienta.",
+      "Abrir la puerta completamente.",
+      "Cortar el pilar."
+    ],
+    "answer": "Generar una deformación pequeña (brecha) para introducir las puntas de la herramienta.",
+    "explanation": "A veces el espacio es muy estrecho para meter las puntas del expansor[cite: 5035]."
+  },
+  {
+    "id": 12,
+    "category": "L8: Generación de Espacio",
+    "question": "Antes de comprimir un tapabarro o puerta para generar espacio, ¿qué debe verificar el Asesor de Herramientas?",
+    "options": [
+      "Identificar la presencia de sensores o actuadores de Airbag/SRS en la zona a deformar.",
+      "Que el auto sea rojo.",
+      "Que la herramienta tenga gasolina.",
+      "Nada, se aprieta directo."
+    ],
+    "answer": "Identificar la presencia de sensores o actuadores de Airbag/SRS en la zona a deformar.",
+    "explanation": "La compresión podría activar un sensor de impacto lateral[cite: 5037]."
+  },
+  {
+    "id": 13,
+    "category": "L8: Técnicas Puertas",
+    "question": "En el 'Método pinzamiento de puerta' para generar espacio, ¿dónde se aplica la fuerza?",
+    "options": [
+      "Comprimiendo la puerta lo más próximo a la cerradura (o bisagra) con las puntas del expansor.",
+      "En el vidrio.",
+      "En el techo.",
+      "En la manilla."
+    ],
+    "answer": "Comprimiendo la puerta lo más próximo a la cerradura (o bisagra) con las puntas del expansor.",
+    "explanation": "Se aplasta la chapa para que se separe del marco y entre la herramienta[cite: 5063]."
+  },
+  {
+    "id": 14,
+    "category": "L8: Técnicas Puertas",
+    "question": "¿Cómo se usa el Halligan para generar espacio en la puerta?",
+    "options": [
+      "Se inserta el pico/uña en el marco y se rota para apalancar.",
+      "Se usa para golpear el vidrio.",
+      "Se usa para cortar la bisagra.",
+      "Se usa para trabar la puerta."
+    ],
+    "answer": "Se inserta el pico/uña en el marco y se rota para apalancar.",
+    "explanation": "Método manual para crear la brecha inicial[cite: 5073]."
+  },
+  {
+    "id": 15,
+    "category": "L8: Técnicas Puertas",
+    "question": "¿En qué consiste el 'Pinzamiento de tapabarro'?",
+    "options": [
+      "Comprimir el tapabarro con el expansor para exponer las bisagras de la puerta delantera.",
+      "Sacar la rueda.",
+      "Cortar el tapabarro.",
+      "Levantar el auto."
+    ],
+    "answer": "Comprimir el tapabarro con el expansor para exponer las bisagras de la puerta delantera.",
+    "explanation": "Permite ver y atacar las bisagras[cite: 5091]."
+  },
+  {
+    "id": 16,
+    "category": "L8: Capó",
+    "question": "¿Por qué es importante la 'Apertura de capó' en el rescate?",
+    "options": [
+      "Para desconectar la batería y deshabilitar sistemas eléctricos/SRS.",
+      "Para enfriar el motor.",
+      "Para ver el modelo del motor.",
+      "Para guardar herramientas."
+    ],
+    "answer": "Para desconectar la batería y deshabilitar sistemas eléctricos/SRS.",
+    "explanation": "Paso crítico de seguridad[cite: 5102]."
+  },
+  {
+    "id": 17,
+    "category": "L8: Capó",
+    "question": "Si el mecanismo manual del capó no funciona por deformación frontal, ¿qué técnica alternativa se usa?",
+    "options": [
+      "Apertura lateral del capó (corte o palanca por el costado).",
+      "Cortarlo por la mitad.",
+      "Entrar por abajo.",
+      "No abrirlo."
+    ],
+    "answer": "Apertura lateral del capó (corte o palanca por el costado).",
+    "explanation": "Permite acceder a los bornes de la batería desde el lado[cite: 5107]."
+  },
+  {
+    "id": 18,
+    "category": "L8: Maletero",
+    "question": "¿Por qué es importante la 'Apertura de maletero'?",
+    "options": [
+      "Para identificar y controlar sistemas de gas (GNC/GLP) o baterías auxiliares.",
+      "Para sacar la rueda de repuesto.",
+      "Para guardar los conos.",
+      "Para ventilar el auto."
+    ],
+    "answer": "Para identificar y controlar sistemas de gas (GNC/GLP) o baterías auxiliares.",
+    "explanation": "Riesgo oculto común en vehículos modificados o híbridos[cite: 5113]."
+  },
+  {
+    "id": 19,
+    "category": "L8: Maletero",
+    "question": "¿Qué técnica se usa para abrir un maletero trabado?",
+    "options": [
+      "Pinzamiento de maletero (comprimir cerca de la chapa) para meter el expansor.",
+      "Cortar todo el maletero.",
+      "Romper la luneta.",
+      "Usar la llave de fuerza."
+    ],
+    "answer": "Pinzamiento de maletero (comprimir cerca de la chapa) para meter el expansor.",
+    "explanation": "Mismo principio que en las puertas: generar brecha para forzar[cite: 5115]."
+  },
+  {
+    "id": 20,
+    "category": "L8: Seguridad",
+    "question": "Ante la duda sobre el tipo de vidrio, ¿cómo se debe proceder?",
+    "options": [
+      "Asumir que es templado y probar romperlo con punzón en una esquina.",
+      "Asumir que es laminado y cortarlo.",
+      "Golpearlo con el combo.",
+      "No hacer nada."
+    ],
+    "answer": "Asumir que es templado y probar romperlo con punzón en una esquina.",
+    "explanation": "Es el método de descarte estándar[cite: 5025]."
+  }
+]

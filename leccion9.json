@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "category": "L9: Conceptos Generales",
+    "question": "Al seleccionar una técnica de extricación, el manual enfatiza que:",
+    "options": [
+      "Debe ser UNA sola técnica elegida para el logro del objetivo, evitando el 'prueba y error'.",
+      "Se deben probar todas las técnicas hasta que una funcione.",
+      "Se debe usar siempre la técnica más rápida, aunque sea insegura.",
+      "Siempre se debe empezar por volar el techo."
+    ],
+    "answer": "Debe ser UNA sola técnica elegida para el logro del objetivo, evitando el 'prueba y error'.",
+    "explanation": "La improvisación o cambio constante de técnica consume tiempo valioso[cite: 7918]."
+  },
+  {
+    "id": 2,
+    "category": "L9: Puertas",
+    "question": "En el forzado de puertas, ¿cuál es el orden de prioridad de los métodos?",
+    "options": [
+      "Primero Método de la Cerradura, luego Método de la Bisagra.",
+      "Primero Bisagra, luego Cerradura.",
+      "Primero Volado completo, luego apertura.",
+      "Primero cortar el vidrio, luego la bisagra."
+    ],
+    "answer": "Primero Método de la Cerradura, luego Método de la Bisagra.",
+    "explanation": "La cerradura suele ceder más fácil o permite abrir la puerta sin volarla completamente [cite: 7935-7950]."
+  },
+  {
+    "id": 3,
+    "category": "L9: Puertas",
+    "question": "Si se usa el 'Método de la Bisagra' con expansor, ¿hacia dónde deben orientarse los vectores de fuerza?",
+    "options": [
+      "Hacia AFUERA y no hacia abajo.",
+      "Hacia ABAJO para romper el perno.",
+      "Hacia ADENTRO del habitáculo.",
+      "Hacia ARRIBA solamente."
+    ],
+    "answer": "Hacia AFUERA y no hacia abajo.",
+    "explanation": "Para evitar comprimir el pilar o la estructura contra el paciente[cite: 7875]."
+  },
+  {
+    "id": 4,
+    "category": "L9: Techo",
+    "question": "¿En qué consiste la técnica de 'Carpa' o 'Tienda' (Premaniobra)?",
+    "options": [
+      "Levantar el techo o ampliar el área del parabrisas trasero con RAM/Expansor para una vía de extracción.",
+      "Cubrir el auto con una lona.",
+      "Sacar el techo completamente.",
+      "Cortar solo los pilares A."
+    ],
+    "answer": "Levantar el techo o ampliar el área del parabrisas trasero con RAM/Expansor para una vía de extracción.",
+    "explanation": "Genera espacio vertical o de salida sin remover todo el techo [cite: 7984-7986]."
+  },
+  {
+    "id": 5,
+    "category": "L9: Techo",
+    "question": "Para realizar un 'Plegado de techo hacia adelante', ¿qué cortes se deben realizar?",
+    "options": [
+      "Corte total de pilares traseros (C/D) y cortes de alivio detrás del pilar B.",
+      "Corte de pilares A y B.",
+      "Corte de todos los pilares.",
+      "Corte solo del pilar B."
+    ],
+    "answer": "Corte total de pilares traseros (C/D) y cortes de alivio detrás del pilar B.",
+    "explanation": "Permite abatir el techo hacia el frente del vehículo[cite: 7998]."
+  },
+  {
+    "id": 6,
+    "category": "L9: Columna de Dirección",
+    "question": "Antes de desplazar la columna de dirección, ¿qué premaniobra es prioritaria sobre el volante?",
+    "options": [
+      "Cortar el aro del volante (nunca los rayos) para liberar espacio abdominal.",
+      "Cortar la columna completa.",
+      "Sacar el volante a golpes.",
+      "Traccionar el volante con la mano."
+    ],
+    "answer": "Cortar el aro del volante (nunca los rayos) para liberar espacio abdominal.",
+    "explanation": "Cortar los rayos es peligroso por los detonadores de airbag [cite: 8050-8051]."
+  },
+  {
+    "id": 7,
+    "category": "L9: Columna de Dirección",
+    "question": "Si se utiliza la técnica de tracción exterior (Tirfor/Cadenas) para levantar la columna, ¿qué función cumple el 'Castillo de Chocos' sobre el capó?",
+    "options": [
+      "Dirigir la fuerza resultante hacia ARRIBA y no hacia adelante.",
+      "Proteger el motor.",
+      "Servir de base para el operador.",
+      "Estabilizar el auto."
+    ],
+    "answer": "Dirigir la fuerza resultante hacia ARRIBA y no hacia adelante.",
+    "explanation": "Cambia el vector de tracción para levantar efectivamente la columna[cite: 8131]."
+  },
+  {
+    "id": 8,
+    "category": "L9: Panel Frontal (Dash Roll)",
+    "question": "En el desplazamiento de panel frontal con RAM, ¿dónde se realiza el corte de alivio inferior?",
+    "options": [
+      "En la base del pilar A, paralelo al zócalo (NUNCA cortar el zócalo).",
+      "En el medio del zócalo.",
+      "En el piso del auto.",
+      "En el pilar B."
+    ],
+    "answer": "En la base del pilar A, paralelo al zócalo (NUNCA cortar el zócalo).",
+    "explanation": "Cortar el zócalo es peligroso por líneas de combustible o cables[cite: 8162]."
+  },
+  {
+    "id": 9,
+    "category": "L9: Panel Frontal (Dash Roll)",
+    "question": "¿Cuál es la posición correcta del RAM para un desplazamiento de panel frontal?",
+    "options": [
+      "Base en el Pilar B (con apoyo) y extremo móvil en la parte alta del Pilar A/Bisagra superior.",
+      "Base en el asiento y extremo en el volante.",
+      "Base en el piso y extremo en el techo.",
+      "Entre las dos puertas delanteras."
+    ],
+    "answer": "Base en el Pilar B (con apoyo) y extremo móvil en la parte alta del Pilar A/Bisagra superior.",
+    "explanation": "Utiliza la robustez del pilar B para empujar el frente hacia adelante [cite: 8164-8166]."
+  },
+  {
+    "id": 10,
+    "category": "L9: Panel Frontal (Dash Roll)",
+    "question": "Una consideración de seguridad CRÍTICA al desplazar el panel frontal es:",
+    "options": [
+      "Acuñar (chocos) cada centímetro ganado en el corte de alivio para evitar el retroceso.",
+      "Hacerlo muy rápido.",
+      "No usar protección dura.",
+      "Cortar el techo antes."
+    ],
+    "answer": "Acuñar (chocos) cada centímetro ganado en el corte de alivio para evitar el retroceso.",
+    "explanation": "La estructura tiende a volver a su posición elástica si falla la herramienta[cite: 8179]."
+  },
+  {
+    "id": 11,
+    "category": "L9: Lateral Completo",
+    "question": "¿Qué es la técnica de 'Remoción de lateral completo' (Tercera Puerta)?",
+    "options": [
+      "Remover puertas delantera, trasera y pilar B para crear un gran acceso lateral.",
+      "Sacar solo la puerta trasera.",
+      "Cortar el auto por la mitad.",
+      "Sacar los asientos."
+    ],
+    "answer": "Remover puertas delantera, trasera y pilar B para crear un gran acceso lateral.",
+    "explanation": "Útil en impactos laterales severos o múltiples víctimas [cite: 8186-8192]."
+  },
+  {
+    "id": 12,
+    "category": "L9: Lateral Completo",
+    "question": "Si la puerta delantera está trabada en una remoción lateral, la técnica alternativa sugiere:",
+    "options": [
+      "Forzar primero la puerta delantera (bisagra), luego cortar pilar B y llevar todo hacia atrás.",
+      "Cortar el techo.",
+      "Entrar por la maleta.",
+      "Romper el vidrio."
+    ],
+    "answer": "Forzar primero la puerta delantera (bisagra), luego cortar pilar B y llevar todo hacia atrás.",
+    "explanation": "Permite abatir todo el lateral como una sola pieza[cite: 8230]."
+  },
+  {
+    "id": 13,
+    "category": "L9: Espacio Interior",
+    "question": "¿Para qué sirve la técnica de 'RAM Cruzado'?",
+    "options": [
+      "Para recuperar la forma del habitáculo en impactos laterales (deformación transversal).",
+      "Para levantar el techo.",
+      "Para empujar el motor.",
+      "Para abrir el maletero."
+    ],
+    "answer": "Para recuperar la forma del habitáculo en impactos laterales (deformación transversal).",
+    "explanation": "Empuja desde el lado sano o pilar B hacia la zona deformada [cite: 8272-8275]."
+  },
+  {
+    "id": 14,
+    "category": "L9: Espacio Interior",
+    "question": "En el RAM Cruzado, los puntos de apoyo ideales son:",
+    "options": [
+      "Pilar B (arriba) y Zócalo/Pilar A del lado opuesto (abajo).",
+      "Techo y Asiento.",
+      "Volante y Puerta.",
+      "Parabrisas y Luneta."
+    ],
+    "answer": "Pilar B (arriba) y Zócalo/Pilar A del lado opuesto (abajo).",
+    "explanation": "Busca puntos estructurales fuertes para la tracción cruzada[cite: 8277]."
+  },
+  {
+    "id": 15,
+    "category": "L9: Espacio Interior",
+    "question": "Para liberar un pie atrapado por los pedales sin herramienta hidráulica, se puede usar:",
+    "options": [
+      "Una cinta tubular o cordín para traccionar el pedal hacia arriba/atrás.",
+      "La mano del rescatista.",
+      "Un destornillador.",
+      "El Halligan a golpes."
+    ],
+    "answer": "Una cinta tubular o cordín para traccionar el pedal hacia arriba/atrás.",
+    "explanation": "Técnica manual rápida y efectiva[cite: 8297]."
+  },
+  {
+    "id": 16,
+    "category": "L9: Levantamiento",
+    "question": "En el levantamiento de un vehículo para liberar a una persona atrapada abajo, ¿qué herramienta se prioriza?",
+    "options": [
+      "Cojines de alta presión (neumáticos).",
+      "Expansor hidráulico.",
+      "Gata mecánica del auto.",
+      "La fuerza bruta de los bomberos."
+    ],
+    "answer": "Cojines de alta presión (neumáticos).",
+    "explanation": "Permiten levantar cargas pesadas desde espacios reducidos[cite: 8313]."
+  },
+  {
+    "id": 17,
+    "category": "L9: Levantamiento",
+    "question": "La seguridad más importante durante una maniobra de levantamiento es:",
+    "options": [
+      "Acuñar (chocos) progresivamente a medida que se levanta para evitar caídas accidentales.",
+      "Levantar muy rápido.",
+      "Usar guantes.",
+      "Gritar fuerte."
+    ],
+    "answer": "Acuñar (chocos) progresivamente a medida que se levanta para evitar caídas accidentales.",
+    "explanation": "Si el cojín falla, la carga debe quedar soportada por la madera[cite: 8325]."
+  },
+  {
+    "id": 18,
+    "category": "L9: Levantamiento",
+    "question": "Si la suspensión del vehículo dificulta el levantamiento (la rueda cuelga), se debe:",
+    "options": [
+      "Fijar el eje al chasis con una cinta ratchet para anular la suspensión.",
+      "Seguir levantando más alto.",
+      "Cortar el amortiguador.",
+      "Desinflar la rueda."
+    ],
+    "answer": "Fijar el eje al chasis con una cinta ratchet para anular la suspensión.",
+    "explanation": "Permite que la rueda suba junto con el chasis inmediatamente [cite: 8332-8333]."
+  },
+  {
+    "id": 19,
+    "category": "L9: Seguridad",
+    "question": "Antes de cualquier corte en pilares o estructuras, es OBLIGATORIO:",
+    "options": [
+      "Desvestir (retirar plásticos) para identificar actuadores de airbag o pretensores.",
+      "Mojar la zona.",
+      "Medir el grosor.",
+      "Pintar la zona de corte."
+    ],
+    "answer": "Desvestir (retirar plásticos) para identificar actuadores de airbag o pretensores.",
+    "explanation": "Evita cortar cilindros de gas comprimido o explosivos[cite: 7994]."
+  },
+  {
+    "id": 20,
+    "category": "L9: Planificación",
+    "question": "¿Quién decide la técnica de extricación a utilizar?",
+    "options": [
+      "El Jefe de Operaciones (basado en input de Trauma y Extricación).",
+      "El voluntario con la herramienta.",
+      "El paciente.",
+      "El SAMU."
+    ],
+    "answer": "El Jefe de Operaciones (basado en input de Trauma y Extricación).",
+    "explanation": "Es una decisión de mando basada en la reunión tripartita[cite: 7916]."
+  }
+]

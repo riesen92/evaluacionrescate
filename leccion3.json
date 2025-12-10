@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "category": "L3: Estructura del Vehículo",
+    "question": "¿Qué es la 'Carrocería Monocasco' (o autoportante)?",
+    "options": [
+      "Estructura donde el chasis y la carrocería son una sola pieza, rígida y liviana.",
+      "Estructura con un chasis de vigas independientes donde se monta la cabina.",
+      "Estructura de madera.",
+      "Estructura exclusiva de camiones."
+    ],
+    "answer": "Estructura donde el chasis y la carrocería son una sola pieza, rígida y liviana.",
+    "explanation": "Es la construcción más común en vehículos modernos, formada por chapas soldadas[cite: 835]."
+  },
+  {
+    "id": 2,
+    "category": "L3: Estructura del Vehículo",
+    "question": "En la estructura del vehículo, ¿qué es el 'Habitáculo'?",
+    "options": [
+      "El módulo central de alta resistencia y reforzado destinado a proteger a los pasajeros.",
+      "El compartimento del motor.",
+      "El maletero.",
+      "La zona de deformación programada."
+    ],
+    "answer": "El módulo central de alta resistencia y reforzado destinado a proteger a los pasajeros.",
+    "explanation": "Es la 'jaula' de seguridad diseñada para no deformarse y proteger a los ocupantes[cite: 850, 851]."
+  },
+  {
+    "id": 3,
+    "category": "L3: Estructura del Vehículo",
+    "question": "¿Cómo se identifican los pilares del vehículo desde adelante hacia atrás?",
+    "options": [
+      "A, B, C, D, etc.",
+      "1, 2, 3, 4.",
+      "Delantero, Medio, Trasero.",
+      "Alfa, Beta, Gamma."
+    ],
+    "answer": "A, B, C, D, etc.",
+    "explanation": "Nomenclatura estándar: Pilar A (delantero), Pilar B (medio), Pilar C (trasero)[cite: 863, 866, 868]."
+  },
+  {
+    "id": 4,
+    "category": "L3: Materiales",
+    "question": "¿Qué característica tiene el 'Acero al Boro' y dónde se usa?",
+    "options": [
+      "Altísima resistencia, usado en pilares y barras anti-intrusión (difícil de cortar).",
+      "Acero blando para zonas de deformación.",
+      "Material plástico para parachoques.",
+      "Aleación ligera para el motor."
+    ],
+    "answer": "Altísima resistencia, usado en pilares y barras anti-intrusión (difícil de cortar).",
+    "explanation": "Su extrema dureza representa un desafío para las herramientas de rescate[cite: 972, 973]."
+  },
+  {
+    "id": 5,
+    "category": "L3: Seguridad",
+    "question": "¿Qué es la 'Deformación Programada'?",
+    "options": [
+      "Zonas diseñadas para deformarse y absorber la energía del impacto antes de que llegue al habitáculo.",
+      "Cuando el auto se dobla por mala calidad.",
+      "El daño causado por las herramientas.",
+      "Falla del chasis."
+    ],
+    "answer": "Zonas diseñadas para deformarse y absorber la energía del impacto antes de que llegue al habitáculo.",
+    "explanation": "Transforma la energía cinética en deformación mecánica fuera de la cabina[cite: 983]."
+  },
+  {
+    "id": 6,
+    "category": "L3: Vidrios",
+    "question": "¿Qué característica tienen los vidrios 'Templados'?",
+    "options": [
+      "Al romperse se fragmentan en múltiples y pequeñas piezas poco cortantes.",
+      "Tienen una lámina plástica que los mantiene unidos.",
+      "Son a prueba de balas.",
+      "Son de plástico."
+    ],
+    "answer": "Al romperse se fragmentan en múltiples y pequeñas piezas poco cortantes.",
+    "explanation": "Usualmente en ventanas laterales y lunetas[cite: 1014]."
+  },
+  {
+    "id": 7,
+    "category": "L3: Vidrios",
+    "question": "¿Qué característica tienen los vidrios 'Laminados' (inastillables)?",
+    "options": [
+      "Poseen una lámina adhesiva transparente entre dos capas que mantiene los fragmentos unidos.",
+      "Estallan en mil pedazos.",
+      "Se pueden romper fácilmente con un punzón.",
+      "Se deshacen con el agua."
+    ],
+    "answer": "Poseen una lámina adhesiva transparente entre dos capas que mantiene los fragmentos unidos.",
+    "explanation": "Usualmente en el parabrisas delantero[cite: 1013]."
+  },
+  {
+    "id": 8,
+    "category": "L3: Sistemas de Propulsión",
+    "question": "¿Cuál es el principal riesgo asociado a los vehículos Híbridos/Eléctricos para el rescatista?",
+    "options": [
+      "Alta tensión almacenada en baterías y cableado (riesgo de electrocución).",
+      "Mayor riesgo de incendio por gasolina.",
+      "Riesgo de radiación.",
+      "No tienen riesgos especiales."
+    ],
+    "answer": "Alta tensión almacenada en baterías y cableado (riesgo de electrocución).",
+    "explanation": "El voltaje almacenado en el sistema de propulsión es el peligro crítico[cite: 911]."
+  },
+  {
+    "id": 9,
+    "category": "L3: Sistemas Eléctricos",
+    "question": "Al desconectar una batería manualmente, ¿cuál es el orden correcto?",
+    "options": [
+      "Primero el cable NEGATIVO, luego el POSITIVO.",
+      "Primero el positivo, luego el negativo.",
+      "Ambos a la vez.",
+      "Cortar los cables con hacha."
+    ],
+    "answer": "Primero el cable NEGATIVO, luego el POSITIVO.",
+    "explanation": "Si se corta el positivo primero, la herramienta puede hacer arco eléctrico con el chasis[cite: 924, 926]."
+  },
+  {
+    "id": 10,
+    "category": "L3: Seguridad",
+    "question": "¿Qué diferencia a la 'Seguridad Activa' de la 'Seguridad Pasiva'?",
+    "options": [
+      "Activa previene el accidente (ej. ABS); Pasiva minimiza lesiones tras el impacto (ej. Airbag).",
+      "Activa son los frenos; Pasiva es el motor.",
+      "Activa es para el conductor; Pasiva para el pasajero.",
+      "Son lo mismo."
+    ],
+    "answer": "Activa previene el accidente (ej. ABS); Pasiva minimiza lesiones tras el impacto (ej. Airbag).",
+    "explanation": "Definición conceptual de los tipos de seguridad vehicular[cite: 933, 956]."
+  },
+  {
+    "id": 11,
+    "category": "L3: Seguridad Pasiva",
+    "question": "¿Cuál es la función de los 'Pretensores' del cinturón de seguridad?",
+    "options": [
+      "Tensar el cinturón en fracciones de segundo para pegar al ocupante al asiento en un impacto.",
+      "Soltar el cinturón después del choque.",
+      "Avisar si no te pones el cinturón.",
+      "Ajustar la altura del asiento."
+    ],
+    "answer": "Tensar el cinturón en fracciones de segundo para pegar al ocupante al asiento en un impacto.",
+    "explanation": "Compensa la elongación y la ropa suelta[cite: 1142]."
+  },
+  {
+    "id": 12,
+    "category": "L3: Seguridad Pasiva",
+    "question": "¿Qué riesgo presenta un pretensor pirotécnico no activado?",
+    "options": [
+      "Puede activarse accidentalmente al cortar el pilar o el mecanismo.",
+      "No tiene riesgo.",
+      "Puede electrocutar.",
+      "Puede bloquear la puerta."
+    ],
+    "answer": "Puede activarse accidentalmente al cortar el pilar o el mecanismo.",
+    "explanation": "Contiene carga explosiva y comparte sistema con los airbags[cite: 1143]."
+  },
+  {
+    "id": 13,
+    "category": "L3: Seguridad Pasiva",
+    "question": "¿Qué es el sistema SRS?",
+    "options": [
+      "Sistema de Retención Suplementario (Airbags y Pretensores).",
+      "Sistema de Rodaje Seguro.",
+      "Suspensión Rápida de Seguridad.",
+      "Solo Rescate Seguro."
+    ],
+    "answer": "Sistema de Retención Suplementario (Airbags y Pretensores).",
+    "explanation": "Sigla que identifica la presencia de airbags y dispositivos asociados[cite: 1062, 1063]."
+  },
+  {
+    "id": 14,
+    "category": "L3: Airbags",
+    "question": "Las distancias de seguridad recomendadas para trabajar frente a airbags no desplegados son:",
+    "options": [
+      "10 cm (cortina/lateral), 25 cm (conductor), 50 cm (acompañante).",
+      "1 metro para todos.",
+      "5 cm para todos.",
+      "30 cm (conductor), 60 cm (acompañante), 90 cm (cortina)."
+    ],
+    "answer": "10 cm (cortina/lateral), 25 cm (conductor), 50 cm (acompañante).",
+    "explanation": "Regla de seguridad vital: 10-25-50[cite: 1129, 1130]."
+  },
+  {
+    "id": 15,
+    "category": "L3: Airbags",
+    "question": "¿Qué significa que un airbag sea de 'Doble Etapa'?",
+    "options": [
+      "Puede inflarse parcialmente en un impacto menor y tener una segunda carga activa peligrosa.",
+      "Tiene dos bolsas.",
+      "Se infla dos veces.",
+      "Protege a dos personas."
+    ],
+    "answer": "Puede inflarse parcialmente en un impacto menor y tener una segunda carga activa peligrosa.",
+    "explanation": "Un airbag ya desplegado puede volver a detonar su segunda carga[cite: 1059, 1060]."
+  },
+  {
+    "id": 16,
+    "category": "L3: Seguridad Pasiva",
+    "question": "¿Qué es el sistema ROPS en vehículos descapotables?",
+    "options": [
+      "Sistema de Protección Antivuelco (barras que se despliegan tras la cabeza).",
+      "Techo de lona.",
+      "Sistema de audio.",
+      "Control de estabilidad."
+    ],
+    "answer": "Sistema de Protección Antivuelco (barras que se despliegan tras la cabeza).",
+    "explanation": "Barras rígidas que saltan para proteger en caso de vuelco[cite: 1151, 1152]."
+  },
+  {
+    "id": 17,
+    "category": "L3: Procedimientos",
+    "question": "Antes de cortar cualquier pilar o estructura interna, ¿qué acción es obligatoria?",
+    "options": [
+      "Desvestir (retirar plásticos) para ver actuadores de airbag y cilindros.",
+      "Mojar la zona.",
+      "Gritar 'corte'.",
+      "No hacer nada."
+    ],
+    "answer": "Desvestir (retirar plásticos) para ver actuadores de airbag y cilindros.",
+    "explanation": "Para identificar cilindros de gas comprimido o detonadores ocultos[cite: 1064]."
+  },
+  {
+    "id": 18,
+    "category": "L3: Seguridad",
+    "question": "¿La desconexión de la batería garantiza que los airbags no se activen?",
+    "options": [
+      "No, minimiza el riesgo pero no lo elimina (condensadores/energía residual).",
+      "Sí, es 100% seguro.",
+      "Solo si se esperan 10 minutos.",
+      "Sí, si se corta el cable positivo."
+    ],
+    "answer": "No, minimiza el riesgo pero no lo elimina (condensadores/energía residual).",
+    "explanation": "Los sistemas pueden mantener energía residual[cite: 1126]."
+  },
+  {
+    "id": 19,
+    "category": "L3: Seguridad",
+    "question": "Si se identifica un airbag no activado, ¿qué se debe hacer?",
+    "options": [
+      "Instalar protector (cubre volante), señalizarlo y no trabajar en su zona de proyección.",
+      "Activarlo controladamente.",
+      "Ignorarlo.",
+      "Pincharlo."
+    ],
+    "answer": "Instalar protector (cubre volante), señalizarlo y no trabajar en su zona de proyección.",
+    "explanation": "Protocolo de seguridad ante SRS activos[cite: 1125, 1127]."
+  },
+  {
+    "id": 20,
+    "category": "L3: Procedimientos",
+    "question": "La nemotecnia para trabajar con SRS Airbag es:",
+    "options": [
+      "AIRBAG (Alto, Inspeccionar, Retirar, Buscar, Asegurar, Garantizar).",
+      "SRS-STOP.",
+      "CUIDADO.",
+      "PELIGRO."
+    ],
+    "answer": "AIRBAG (Alto, Inspeccionar, Retirar, Buscar, Asegurar, Garantizar).",
+    "explanation": "Estrategia para recordar los pasos de seguridad [cite: 1133-1139]."
+  }
+]

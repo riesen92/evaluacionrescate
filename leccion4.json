@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "category": "L4: EPP",
+    "question": "En cuanto a la protección biológica en las manos, ¿qué norma establece el manual?",
+    "options": [
+      "Usar siempre guantes de látex (vinilo/nitrilo) BAJO el guante de trabajo.",
+      "Usar solo guantes de trabajo de cuero.",
+      "Usar guantes de látex sobre el guante de trabajo.",
+      "No es necesario usar guantes biológicos si no hay sangre visible."
+    ],
+    "answer": "Usar siempre guantes de látex (vinilo/nitrilo) BAJO el guante de trabajo.",
+    "explanation": "Norma de protección biológica obligatoria para evitar contacto con fluidos[cite: 3849]."
+  },
+  {
+    "id": 2,
+    "category": "L4: EPP",
+    "question": "Respecto a la protección ocular, el manual indica que:",
+    "options": [
+      "El visor incorporado en el casco NO reemplaza la protección de las antiparras.",
+      "El visor del casco es suficiente.",
+      "Solo se usan antiparras si se rompen vidrios.",
+      "Los lentes de sol son aceptables."
+    ],
+    "answer": "El visor incorporado en el casco NO reemplaza la protección de las antiparras.",
+    "explanation": "Las antiparras proveen sello contra fluidos y partículas que el visor no garantiza[cite: 3855]."
+  },
+  {
+    "id": 3,
+    "category": "L4: EPP",
+    "question": "¿Qué tipo de mascarilla es obligatoria para las maniobras de manejo de vidrios?",
+    "options": [
+      "Mascarilla N95 (norma OSHA).",
+      "Mascarilla quirúrgica simple.",
+      "Pañuelo.",
+      "Equipo ERA."
+    ],
+    "answer": "Mascarilla N95 (norma OSHA).",
+    "explanation": "Protege contra partículas en suspensión de vidrio molido[cite: 3870]."
+  },
+  {
+    "id": 4,
+    "category": "L4: EPP",
+    "question": "¿Qué característica debe tener el casco de rescate vehicular en comparación al estructural?",
+    "options": [
+      "Debe ser de menor tamaño para facilitar la maniobrabilidad en espacios reducidos.",
+      "Debe ser más pesado.",
+      "Debe ser de metal.",
+      "Debe tener ala ancha completa."
+    ],
+    "answer": "Debe ser de menor tamaño para facilitar la maniobrabilidad en espacios reducidos.",
+    "explanation": "Adaptado a los espacios confinados del vehículo[cite: 3861]."
+  },
+  {
+    "id": 5,
+    "category": "L4: Herramientas Hidráulicas",
+    "question": "Las herramientas hidráulicas basan su funcionamiento en:",
+    "options": [
+      "La incapacidad que tienen los líquidos de ser comprimidos.",
+      "La compresión del aire.",
+      "La fuerza centrífuga.",
+      "La electricidad estática."
+    ],
+    "answer": "La incapacidad que tienen los líquidos de ser comprimidos.",
+    "explanation": "Principio físico de transmisión de fuerza hidráulica[cite: 3908]."
+  },
+  {
+    "id": 6,
+    "category": "L4: Herramientas Hidráulicas",
+    "question": "Para evitar accidentes por fatiga de material, cada equipo hidráulico debe contar con:",
+    "options": [
+      "Una bitácora de uso y mantención.",
+      "Una funda de color.",
+      "Un nombre propio.",
+      "Un candado."
+    ],
+    "answer": "Una bitácora de uso y mantención.",
+    "explanation": "Permite trazar el desgaste y calendarizar mantenciones[cite: 3912]."
+  },
+  {
+    "id": 7,
+    "category": "L4: Herramientas Hidráulicas",
+    "question": "En el Expansor, ¿qué partes de la herramienta están diseñadas para hacer contacto y fuerza?",
+    "options": [
+      "Solamente las puntas (zona activa).",
+      "Los brazos completos.",
+      "La base de los brazos.",
+      "Cualquier parte de la herramienta."
+    ],
+    "answer": "Solamente las puntas (zona activa).",
+    "explanation": "Nunca se deben apoyar los brazos, ya que pueden dañarse[cite: 3999]."
+  },
+  {
+    "id": 8,
+    "category": "L4: Herramientas Hidráulicas",
+    "question": "En la Cizalla, ¿dónde se encuentra la zona de mayor potencia de corte?",
+    "options": [
+      "En la base (donde convergen las hojas).",
+      "En las puntas.",
+      "Al centro.",
+      "Es igual en toda la hoja."
+    ],
+    "answer": "En la base (donde convergen las hojas).",
+    "explanation": "Se debe buscar llevar el material hacia la base (corte envolvente)[cite: 3942]."
+  },
+  {
+    "id": 9,
+    "category": "L4: Herramientas Hidráulicas",
+    "question": "Si al cortar con cizalla, la estructura se introduce entre las hojas separándolas (torsión), ¿qué se debe hacer?",
+    "options": [
+      "Detener la maniobra inmediatamente.",
+      "Seguir cortando con más fuerza.",
+      "Girar la herramienta.",
+      "Usar un martillo."
+    ],
+    "answer": "Detener la maniobra inmediatamente.",
+    "explanation": "Riesgo de fractura de las hojas por palanca lateral[cite: 4001]."
+  },
+  {
+    "id": 10,
+    "category": "L4: Herramientas Hidráulicas",
+    "question": "Respecto al RAM, ¿cuál es su 'Longitud Mínima'?",
+    "options": [
+      "La distancia de punta a punta con la herramienta completamente retraída (punto de máxima potencia).",
+      "La distancia del primer émbolo.",
+      "La distancia extendida.",
+      "El largo de la manguera."
+    ],
+    "answer": "La distancia de punta a punta con la herramienta completamente retraída (punto de máxima potencia).",
+    "explanation": "Definición técnica de las medidas del RAM[cite: 3973, 3974]."
+  },
+  {
+    "id": 11,
+    "category": "L4: Herramientas Hidráulicas",
+    "question": "¿Cuál es una limitación de las Herramientas Combinadas (Combi)?",
+    "options": [
+      "Su menor potencia y rango limitado las hace no recomendables para vehículos pesados o de alta gama.",
+      "Son muy pesadas.",
+      "Requieren dos operadores.",
+      "No cortan metal."
+    ],
+    "answer": "Su menor potencia y rango limitado las hace no recomendables para vehículos pesados o de alta gama.",
+    "explanation": "Son versátiles pero menos potentes que las herramientas dedicadas[cite: 3983, 3987]."
+  },
+  {
+    "id": 12,
+    "category": "L4: Seguridad",
+    "question": "Al operar herramientas hidráulicas, el rescatista debe posicionarse:",
+    "options": [
+      "Fuera de la zona de desplazamiento de la herramienta (Estructura-Herramienta-Operador).",
+      "Entre la herramienta y el vehículo.",
+      "Debajo del vehículo.",
+      "Frente a las puntas."
+    ],
+    "answer": "Fuera de la zona de desplazamiento de la herramienta (Estructura-Herramienta-Operador).",
+    "explanation": "Para evitar ser aplastado si la herramienta se mueve al aplicar fuerza[cite: 3991, 4034]."
+  },
+  {
+    "id": 13,
+    "category": "L4: Herramientas Neumáticas",
+    "question": "Los cojines de levante de alta presión suelen usarse en conjunto con:",
+    "options": [
+      "Cuñas y cuartones de madera (estabilización de seguridad).",
+      "Gatas hidráulicas.",
+      "Agua.",
+      "Solo con otros cojines."
+    ],
+    "answer": "Cuñas y cuartones de madera (estabilización de seguridad).",
+    "explanation": "Seguridad obligatoria: asegurar la carga levantada[cite: 4014]."
+  },
+  {
+    "id": 14,
+    "category": "L4: Herramientas Eléctricas",
+    "question": "¿Para qué son especialmente eficientes las Sierras Sable en rescate?",
+    "options": [
+      "Para remoción de parabrisas y corte de materiales compuestos/aleaciones.",
+      "Para cortar el chasis del camión.",
+      "Para cortar ropa.",
+      "Para cortar concreto."
+    ],
+    "answer": "Para remoción de parabrisas y corte de materiales compuestos/aleaciones.",
+    "explanation": "Uso específico donde la hidráulica puede no ser la mejor opción[cite: 4038, 4039]."
+  },
+  {
+    "id": 15,
+    "category": "L4: Estabilización",
+    "question": "Cada Unidad de Rescate debe contar con un equipo de estabilización básico suficiente para al menos:",
+    "options": [
+      "Dos (2) vehículos menores en posición sobre sus ruedas.",
+      "Un camión.",
+      "Un solo vehículo.",
+      "Cinco vehículos."
+    ],
+    "answer": "Dos (2) vehículos menores en posición sobre sus ruedas.",
+    "explanation": "Estándar mínimo recomendado de equipamiento[cite: 4051]."
+  },
+  {
+    "id": 16,
+    "category": "L4: Estabilización",
+    "question": "Los estabilizadores (alzaprimas) se recomiendan usar siempre:",
+    "options": [
+      "En pares.",
+      "De a uno.",
+      "Solo en camiones.",
+      "Sin cintas."
+    ],
+    "answer": "En pares.",
+    "explanation": "Para asegurar la estabilidad simétrica[cite: 4055]."
+  },
+  {
+    "id": 17,
+    "category": "L4: Herramientas Manuales",
+    "question": "¿Qué herramienta manual específica de rescate se menciona para romper vidrios?",
+    "options": [
+      "Punzón rompevidrios.",
+      "Combo.",
+      "Halligan.",
+      "Llave inglesa."
+    ],
+    "answer": "Punzón rompevidrios.",
+    "explanation": "Herramienta de propósito específico listada[cite: 3892]."
+  },
+  {
+    "id": 18,
+    "category": "L4: Seguridad",
+    "question": "¿Qué significa el 'Mando de Hombre Muerto' en las herramientas?",
+    "options": [
+      "Que el mando vuelve a posición neutra (se detiene) si el operador lo suelta.",
+      "Que la herramienta es peligrosa.",
+      "Que funciona automáticamente.",
+      "Que tiene un botón de pánico."
+    ],
+    "answer": "Que el mando vuelve a posición neutra (se detiene) si el operador lo suelta.",
+    "explanation": "Mecanismo de seguridad estándar en hidráulica y neumática[cite: 3996, 4009]."
+  },
+  {
+    "id": 19,
+    "category": "L4: Herramientas Hidráulicas",
+    "question": "En el uso de cizallas, se debe preferir siempre un ángulo de corte de:",
+    "options": [
+      "90 grados con respecto a la estructura.",
+      "45 grados.",
+      "Paralelo a la estructura.",
+      "Cualquier ángulo."
+    ],
+    "answer": "90 grados con respecto a la estructura.",
+    "explanation": "Optimiza el corte y evita la torsión de las hojas[cite: 4000]."
+  },
+  {
+    "id": 20,
+    "category": "L4: Herramientas",
+    "question": "Para los vehículos modernos con aceros reforzados que superan la capacidad hidráulica, se recomienda tener:",
+    "options": [
+      "Sierras circulares o esmeriles angulares con discos de corte.",
+      "Cizallas más grandes.",
+      "Hachas.",
+      "Sopletes."
+    ],
+    "answer": "Sierras circulares o esmeriles angulares con discos de corte.",
+    "explanation": "Herramientas de corte abrasivo para aceros especiales[cite: 4035]."
+  }
+]

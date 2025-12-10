@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "category": "L7: Conceptos Básicos",
+    "question": "¿Cuál es el objetivo principal de la etapa de 'Acceso al Paciente'?",
+    "options": [
+      "Obtener información de la condición médica y situación estructural para planificar la extracción.",
+      "Sacar al paciente lo más rápido posible.",
+      "Cortar el techo del vehículo.",
+      "Instalar vías venosas."
+    ],
+    "answer": "Obtener información de la condición médica y situación estructural para planificar la extracción.",
+    "explanation": "El acceso permite evaluar el ABC, el PATER y planificar la vía de salida[cite: 8631, 8632]."
+  },
+  {
+    "id": 2,
+    "category": "L7: Paciente Consciente",
+    "question": "Al aproximarse a un paciente consciente, ¿cuál es la primera acción de contacto recomendada?",
+    "options": [
+      "Contacto verbal frontal para evitar que mueva la cabeza.",
+      "Tocarle el hombro desde la ventana lateral.",
+      "Entrar por el asiento trasero sin hablar.",
+      "Romper el vidrio para que nos escuche."
+    ],
+    "answer": "Contacto verbal frontal para evitar que mueva la cabeza.",
+    "explanation": "Se busca evitar movimientos de la columna cervical mediante inmovilización 'psicológica'[cite: 8643]."
+  },
+  {
+    "id": 3,
+    "category": "L7: Paciente Consciente",
+    "question": "¿Por dónde debe acceder idealmente el Asesor de Trauma al vehículo si el paciente está consciente?",
+    "options": [
+      "Por la zona más alejada del paciente.",
+      "Por la ventana más cercana al paciente.",
+      "Por el parabrisas.",
+      "Por el techo."
+    ],
+    "answer": "Por la zona más alejada del paciente.",
+    "explanation": "Para no invadir su espacio bruscamente ni generar ansiedad, mientras se mantiene contacto visual[cite: 8650]."
+  },
+  {
+    "id": 4,
+    "category": "L7: Paciente Inconsciente",
+    "question": "En el caso de un paciente inconsciente, ¿dónde se inicia el manejo del ABC del trauma?",
+    "options": [
+      "Desde el exterior, por el lugar más cercano al paciente.",
+      "Solo cuando se logra entrar al vehículo.",
+      "Desde el asiento trasero.",
+      "No se hace ABC hasta sacarlo."
+    ],
+    "answer": "Desde el exterior, por el lugar más cercano al paciente.",
+    "explanation": "La prioridad es la vida; se inicia la evaluación inmediatamente desde afuera mientras otro operador accede[cite: 8655]."
+  },
+  {
+    "id": 5,
+    "category": "L7: Acciones al Interior",
+    "question": "Una vez dentro del vehículo, ¿qué debe hacer el Asesor de Trauma con los elementos móviles (asientos, respaldos)?",
+    "options": [
+      "Despejar la zona movilizando asientos y retirando respaldos/cabezales para generar espacio.",
+      "Dejarlos como están para no mover al paciente.",
+      "Cortarlos inmediatamente.",
+      "Usarlos para estabilizar al paciente."
+    ],
+    "answer": "Despejar la zona movilizando asientos y retirando respaldos/cabezales para generar espacio.",
+    "explanation": "El primer operador en ingresar debe generar espacio interior manualmente[cite: 8652, 8666]."
+  },
+  {
+    "id": 6,
+    "category": "L7: Acciones al Interior",
+    "question": "¿Qué acción debe realizar el Asesor de Trauma respecto al freno de estacionamiento?",
+    "options": [
+      "Activarlo (freno de mano).",
+      "Desactivarlo para mover el auto.",
+      "No tocarlo.",
+      "Cortar la palanca."
+    ],
+    "answer": "Activarlo (freno de mano).",
+    "explanation": "Es una medida de seguridad básica para evitar movimientos del vehículo[cite: 8667]."
+  },
+  {
+    "id": 7,
+    "category": "L7: Acciones al Interior",
+    "question": "¿Cuándo se debe cortar el contacto eléctrico del vehículo?",
+    "options": [
+      "Solo cuando todas las funciones eléctricas (vidrios, seguros, asientos) hayan sido revisadas/operadas.",
+      "Inmediatamente al entrar.",
+      "Nunca.",
+      "Antes de entrar al vehículo."
+    ],
+    "answer": "Solo cuando todas las funciones eléctricas (vidrios, seguros, asientos) hayan sido revisadas/operadas.",
+    "explanation": "Si se corta antes, se pierden funciones como mover asientos eléctricos o bajar vidrios[cite: 8668]."
+  },
+  {
+    "id": 8,
+    "category": "L7: Acciones al Interior",
+    "question": "Además del habitáculo, ¿qué otra zona debe revisar el Asesor de Trauma obligatoriamente?",
+    "options": [
+      "Los maleteros (revisar presencia de terceros o riesgos).",
+      "La guantera.",
+      "El motor.",
+      "Debajo del auto."
+    ],
+    "answer": "Los maleteros (revisar presencia de terceros o riesgos).",
+    "explanation": "Nunca olvidar revisar maleteros por posibles víctimas adicionales o materiales peligrosos[cite: 8672]."
+  },
+  {
+    "id": 9,
+    "category": "L7: Evaluación",
+    "question": "Para entregar un informe PATER acabado, ¿cómo debe evaluar el rescatista el cuerpo del paciente?",
+    "options": [
+      "Recorrer manualmente toda la extensión de su cuerpo buscando secciones atrapadas.",
+      "Mirar desde lejos.",
+      "Preguntarle al paciente '¿dónde está atrapado?'.",
+      "Usar una cámara térmica."
+    ],
+    "answer": "Recorrer manualmente toda la extensión de su cuerpo buscando secciones atrapadas.",
+    "explanation": "Especialmente zonas no visibles para confirmar atrapamientos físicos[cite: 8651]."
+  },
+  {
+    "id": 10,
+    "category": "L7: Múltiples Víctimas",
+    "question": "En situaciones con múltiples pacientes, ¿cómo se realiza el acceso inicial?",
+    "options": [
+      "Verbalmente, pidiendo la salida de quienes puedan hacerlo por sus medios (triage).",
+      "Entrando a sacar a todos uno por uno.",
+      "Atendiendo al que grita más fuerte.",
+      "Esperando más ambulancias."
+    ],
+    "answer": "Verbalmente, pidiendo la salida de quienes puedan hacerlo por sus medios (triage).",
+    "explanation": "Permite concentrar recursos en quienes están realmente atrapados o graves[cite: 8676]."
+  },
+  {
+    "id": 11,
+    "category": "L7: Seguridad",
+    "question": "Hasta el aseguramiento de la columna cervical, se deben evitar:",
+    "options": [
+      "Los trabajos en el área lateral del paciente.",
+      "Hablarle al paciente.",
+      "Tocar el vehículo.",
+      "Usar linternas."
+    ],
+    "answer": "Los trabajos en el área lateral del paciente.",
+    "explanation": "Para evitar que el paciente gire la cabeza por curiosidad o ruido[cite: 8679]."
+  },
+  {
+    "id": 12,
+    "category": "L7: Paciente Consciente",
+    "question": "Si el paciente consciente NO es visible desde el exterior (ej. volcado), ¿qué se debe hacer?",
+    "options": [
+      "Mantener una comunicación continua recabando información.",
+      "Esperar a abrir la puerta.",
+      "Suponer que está inconsciente.",
+      "Gritar para ver si responde."
+    ],
+    "answer": "Mantener una comunicación continua recabando información.",
+    "explanation": "El contacto verbal tranquiliza y aporta datos vitales[cite: 8653]."
+  },
+  {
+    "id": 13,
+    "category": "L7: Coordinación",
+    "question": "¿Quién define la técnica de extracción del paciente?",
+    "options": [
+      "La Unidad de Trauma (define la extracción), ejecutada por Extricación.",
+      "El maquinista.",
+      "El paciente.",
+      "Carabineros."
+    ],
+    "answer": "La Unidad de Trauma (define la extracción), ejecutada por Extricación.",
+    "explanation": "La extracción es una decisión médica/técnica liderada por Trauma[cite: 8633]."
+  },
+  {
+    "id": 14,
+    "category": "L7: Acciones al Interior",
+    "question": "Si es posible, el Asesor de Trauma debe intentar desbloquear:",
+    "options": [
+      "Los seguros de las puertas.",
+      "El cinturón de seguridad (cortarlo).",
+      "El volante.",
+      "La radio."
+    ],
+    "answer": "Los seguros de las puertas.",
+    "explanation": "Facilita el acceso posterior desde el exterior[cite: 8667]."
+  },
+  {
+    "id": 15,
+    "category": "L7: Paciente Inconsciente",
+    "question": "En el paciente atrapado e inconsciente, el manejo del ABC debe ser:",
+    "options": [
+      "Agresivo, proponiendo rápidamente un plan de extricación.",
+      "Lento y pausado.",
+      "Solo visual.",
+      "Esperar al SAMU."
+    ],
+    "answer": "Agresivo, proponiendo rápidamente un plan de extricación.",
+    "explanation": "La inconsciencia implica riesgo vital inminente[cite: 8657]."
+  },
+  {
+    "id": 16,
+    "category": "L7: Acceso al Paciente",
+    "question": "Al explicar las maniobras al paciente, se debe informar que:",
+    "options": [
+      "Un segundo operador se acercará (ej. por la ventana) para que no se asuste.",
+      "Va a doler mucho.",
+      "Se va a romper todo el auto.",
+      "No se sabe qué pasará."
+    ],
+    "answer": "Un segundo operador se acercará (ej. por la ventana) para que no se asuste.",
+    "explanation": "Evita reacciones de sobresalto que puedan mover la columna[cite: 8648]."
+  },
+  {
+    "id": 17,
+    "category": "L7: Coordinación",
+    "question": "Las labores del Asesor de Trauma al interior deben coordinarse con la Unidad de Seguridad para:",
+    "options": [
+      "La desconexión de la batería (tras revisar lo eléctrico).",
+      "La estabilización.",
+      "El corte de tránsito.",
+      "El uso de extintores."
+    ],
+    "answer": "La desconexión de la batería (tras revisar lo eléctrico).",
+    "explanation": "Para no cortar la energía antes de mover asientos o bajar vidrios[cite: 8675]."
+  },
+  {
+    "id": 18,
+    "category": "L7: Seguridad",
+    "question": "Todas las maniobras de rescate deben realizarse una vez que:",
+    "options": [
+      "Se han asegurado todos los posibles riesgos presentes en la escena.",
+      "Llega el Comandante.",
+      "Es de día.",
+      "El paciente lo autoriza."
+    ],
+    "answer": "Se han asegurado todos los posibles riesgos presentes en la escena.",
+    "explanation": "Principio de seguridad antes de operar[cite: 8674]."
+  },
+  {
+    "id": 19,
+    "category": "L7: Acceso al Paciente",
+    "question": "El contacto inicial con el paciente puede realizarse a distancia mientras:",
+    "options": [
+      "La Unidad de Seguridad verifica la escena.",
+      "Se toman fotos.",
+      "Se esperan las herramientas.",
+      "Se ponen los conos."
+    ],
+    "answer": "La Unidad de Seguridad verifica la escena.",
+    "explanation": "Permite ganar tiempo y calmar al paciente desde el segundo cero[cite: 8647]."
+  },
+  {
+    "id": 20,
+    "category": "L7: Acciones al Interior",
+    "question": "El acceso al paciente también implica:",
+    "options": [
+      "Preparar su salida.",
+      "Darle agua.",
+      "Preguntarle por el seguro.",
+      "Buscar su celular."
+    ],
+    "answer": "Preparar su salida.",
+    "explanation": "Cada acción (mover asientos, desbloquear puertas) facilita la extracción final[cite: 8681]."
+  }
+]

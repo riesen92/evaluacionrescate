@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "category": "Anexo I: POE",
+    "question": "Según el Procedimiento de Operación Estándar (POE), ¿quién asume el rol de 'Jefe de Operaciones' (JO)?",
+    "options": [
+      "El voluntario con mayor experiencia de la Unidad de Rescate (asignado por Orden del Día).",
+      "El Capitán de la compañía.",
+      "El voluntario más antiguo en años de servicio.",
+      "El maquinista."
+    ],
+    "answer": "El voluntario con mayor experiencia de la Unidad de Rescate (asignado por Orden del Día).",
+    "explanation": "El JO dirige las operaciones técnicas, reportando al Comandante del Incidente (CI)[cite: 10537]."
+  },
+  {
+    "id": 2,
+    "category": "Anexo I: POE",
+    "question": "¿Cuál es la función específica del 'Ayudante' de la Unidad de Equipos (color Amarillo)?",
+    "options": [
+      "Operar la bomba hidráulica (usualmente es el conductor/maquinista).",
+      "Atender al paciente.",
+      "Cortar el vehículo.",
+      "Dirigir el tránsito."
+    ],
+    "answer": "Operar la bomba hidráulica (usualmente es el conductor/maquinista).",
+    "explanation": "El conductor del carro siempre será Ayudante de esta Unidad[cite: 10520, 10524]."
+  },
+  {
+    "id": 3,
+    "category": "Anexo I: POE",
+    "question": "En la conformación de unidades, ¿qué función cumple la 'Unidad de Trauma 1'?",
+    "options": [
+      "Atender al paciente de mayor gravedad y realizar el Triage.",
+      "Llevar los equipos.",
+      "Estabilizar el vehículo.",
+      "Atender a los pacientes leves."
+    ],
+    "answer": "Atender al paciente de mayor gravedad y realizar el Triage.",
+    "explanation": "Es la unidad más competente y su jefe lidera la priorización médica[cite: 10510]."
+  },
+  {
+    "id": 4,
+    "category": "Anexo I: POE",
+    "question": "¿Qué unidad es responsable de contabilizar todo el material retirado de la máquina?",
+    "options": [
+      "Unidad de Equipos (Amarillo).",
+      "Unidad de Seguridad (Verde).",
+      "Unidad de Extricación (Naranjo).",
+      "El Comandante."
+    ],
+    "answer": "Unidad de Equipos (Amarillo).",
+    "explanation": "Deben llevar el control del inventario desplegado y recuperado[cite: 10522]."
+  },
+  {
+    "id": 5,
+    "category": "Anexo I: POE",
+    "question": "Si un Cuerpo de Bomberos despacha un carro de Rescate y uno de Agua, ¿quién conforma la Unidad de Seguridad?",
+    "options": [
+      "El personal del carro de Agua (reforzado con un rescatista si es necesario).",
+      "El personal del carro de Rescate.",
+      "Carabineros.",
+      "El personal de la ambulancia."
+    ],
+    "answer": "El personal del carro de Agua (reforzado con un rescatista si es necesario).",
+    "explanation": "Protocolo estándar para optimizar recursos en el despacho conjunto[cite: 10497]."
+  },
+  {
+    "id": 6,
+    "category": "Anexo II: Herramientas",
+    "question": "¿Qué es el 'Desvestidor de pilares' (herramienta necesaria)?",
+    "options": [
+      "Herramienta metálica robusta (mini Halligan) para retirar revestimientos interiores y ver airbags.",
+      "Una tijera para cortar ropa.",
+      "Un cuchillo cartonero.",
+      "Una llave inglesa."
+    ],
+    "answer": "Herramienta metálica robusta (mini Halligan) para retirar revestimientos interiores y ver airbags.",
+    "explanation": "Permite exponer la estructura antes de cortar[cite: 10582]."
+  },
+  {
+    "id": 7,
+    "category": "Anexo II: Herramientas",
+    "question": "¿Para qué sirve el 'Removedor de válvula' en el kit de herramientas deseables?",
+    "options": [
+      "Permite un controlado retiro de la válvula para desinflar neumáticos.",
+      "Para sacar las bujías.",
+      "Para abrir el estanque de gasolina.",
+      "Para ajustar las herramientas hidráulicas."
+    ],
+    "answer": "Permite un controlado retiro de la válvula para desinflar neumáticos.",
+    "explanation": "Facilita la estabilización bajando el perfil del vehículo[cite: 10587]."
+  },
+  {
+    "id": 8,
+    "category": "Anexo II: Herramientas",
+    "question": "¿Cuál es la función de las 'Prensas plásticas' en el equipo de apoyo?",
+    "options": [
+      "Fijación de lonas/frazadas para protección de cortes vivos.",
+      "Apretar mangueras.",
+      "Sujetar la puerta abierta.",
+      "Inmovilizar al paciente."
+    ],
+    "answer": "Fijación de lonas/frazadas para protección de cortes vivos.",
+    "explanation": "Aseguran que la protección de bordes afilados no se caiga[cite: 10589]."
+  },
+  {
+    "id": 9,
+    "category": "Anexo II: Herramientas",
+    "question": "La 'Cinta tubular' (2 a 3 metros) se utiliza para:",
+    "options": [
+      "Apoyo en fijación de estructuras interiores o maniobras de extracción de pacientes (tracción).",
+      "Acordonar la zona.",
+      "Amarrar herramientas.",
+      "Remolcar el auto."
+    ],
+    "answer": "Apoyo en fijación de estructuras interiores o maniobras de extracción de pacientes (tracción).",
+    "explanation": "Herramienta versátil para tracción manual (ej. pedales o pacientes obesos)[cite: 10590]."
+  },
+  {
+    "id": 10,
+    "category": "Anexo II: Herramientas",
+    "question": "¿Qué herramienta de iluminación personal se considera necesaria para identificar detalles (airbags, fugas)?",
+    "options": [
+      "Linterna.",
+      "Foco del carro.",
+      "Luz del celular.",
+      "Bengala."
+    ],
+    "answer": "Linterna.",
+    "explanation": "Permite inspeccionar zonas oscuras bajo el tablero o asientos[cite: 10586]."
+  },
+  {
+    "id": 11,
+    "category": "Anexo III: Cajas (Cribbing)",
+    "question": "¿Cuál es la capacidad de carga de un punto de contacto en una caja de madera de pino de 4x4 pulgadas?",
+    "options": [
+      "2.700 kg por punto (10.800 kg total caja de 4 puntos).",
+      "500 kg.",
+      "1.000 kg.",
+      "6.500 kg."
+    ],
+    "answer": "2.700 kg por punto (10.800 kg total caja de 4 puntos).",
+    "explanation": "Dato técnico de resistencia de la madera de 4x4 [cite: 10601-10602]."
+  },
+  {
+    "id": 12,
+    "category": "Anexo III: Cajas (Cribbing)",
+    "question": "¿Cuál es la capacidad de carga total de una caja construida con maderos de 6x6 pulgadas?",
+    "options": [
+      "26.000 kg.",
+      "10.800 kg.",
+      "50.000 kg.",
+      "5.000 kg."
+    ],
+    "answer": "26.000 kg.",
+    "explanation": "Dato técnico para madera de 6x6[cite: 10603]."
+  },
+  {
+    "id": 13,
+    "category": "Anexo III: Cajas (Cribbing)",
+    "question": "¿Cuál es la 'Regla General' de seguridad respecto a la altura de una caja de madera?",
+    "options": [
+      "No hacerlas más altas que tres (3) veces el ancho del cuartón utilizado (o el lado más corto de la base).",
+      "Máximo 1 metro.",
+      "Máximo 2 veces el largo.",
+      "No hay límite si está bien hecha."
+    ],
+    "answer": "No hacerlas más altas que tres (3) veces el ancho del cuartón utilizado (o el lado más corto de la base).",
+    "explanation": "Regla de estabilidad para evitar el volcamiento de la caja[cite: 10606]."
+  },
+  {
+    "id": 14,
+    "category": "Anexo III: Cajas (Cribbing)",
+    "question": "¿Qué ventaja de seguridad ofrece la madera sobre otros materiales al ser sometida a carga excesiva?",
+    "options": [
+      "Avisa lentamente con un gran ruido de resquebrajamiento antes de fallar.",
+      "No se rompe nunca.",
+      "Se dobla sin romperse.",
+      "Es transparente a los rayos X."
+    ],
+    "answer": "Avisa lentamente con un gran ruido de resquebrajamiento antes de fallar.",
+    "explanation": "Provee una advertencia auditiva a los rescatistas[cite: 10600]."
+  },
+  {
+    "id": 15,
+    "category": "Anexo III: Cajas (Cribbing)",
+    "question": "Al construir una caja, la carga debe proyectarse hacia el piso trabajando la madera solo a la:",
+    "options": [
+      "Compresión (nunca a la flexión).",
+      "Flexión.",
+      "Torsión.",
+      "Tracción."
+    ],
+    "answer": "Compresión (nunca a la flexión).",
+    "explanation": "La madera es fuerte comprimida, débil si se flecta[cite: 10609]."
+  },
+  {
+    "id": 16,
+    "category": "Glosario / POE",
+    "question": "¿Qué significa 'Aislamiento de riesgos'?",
+    "options": [
+      "Separar el riesgo completamente del resto de la escena (Zona caliente/tibia/fría).",
+      "Eliminar el riesgo.",
+      "Usar traje encapsulado.",
+      "Ignorar el riesgo."
+    ],
+    "answer": "Separar el riesgo completamente del resto de la escena (Zona caliente/tibia/fría).",
+    "explanation": "Definición del glosario[cite: 10422]."
+  },
+  {
+    "id": 17,
+    "category": "Anexo I: POE",
+    "question": "La 'Zona de Escombros' debe ser establecida por la Unidad de Equipos. ¿Qué consideración es vital si hay helicóptero?",
+    "options": [
+      "Debe estar alejada y asegurada, ya que el aire del helicóptero puede proyectar escombros.",
+      "Debe estar cerca del auto.",
+      "Debe estar bajo techo.",
+      "No importa la ubicación."
+    ],
+    "answer": "Debe estar alejada y asegurada, ya que el aire del helicóptero puede proyectar escombros.",
+    "explanation": "Riesgo de proyección por el flujo de aire de la aeronave[cite: 7108]."
+  },
+  {
+    "id": 18,
+    "category": "Anexo I: POE",
+    "question": "¿Qué unidad es la encargada de operar las herramientas de extricación?",
+    "options": [
+      "Unidad de Extricación (Naranjo).",
+      "Unidad de Trauma.",
+      "Unidad de Seguridad.",
+      "Cualquier voluntario."
+    ],
+    "answer": "Unidad de Extricación (Naranjo).",
+    "explanation": "Función exclusiva de la unidad especializada[cite: 10526]."
+  },
+  {
+    "id": 19,
+    "category": "Anexo I: POE",
+    "question": "Si hay 'Dualidad de Mando' en la elección de la técnica, se considera un error de:",
+    "options": [
+      "POE (Procedimiento de Operación Estándar).",
+      "Seguridad.",
+      "Herramientas.",
+      "Trauma."
+    ],
+    "answer": "POE (Procedimiento de Operación Estándar).",
+    "explanation": "El POE debe establecer claramente quién toma la decisión final[cite: 10414]."
+  },
+  {
+    "id": 20,
+    "category": "Anexo II: Herramientas",
+    "question": "¿Cuál es la función del 'Marcador para metal' en el kit personal?",
+    "options": [
+      "Marcar las zonas de corte o puntos de apoyo en la carrocería.",
+      "Escribir el nombre del paciente.",
+      "Decorar el casco.",
+      "Anotar los signos vitales."
+    ],
+    "answer": "Marcar las zonas de corte o puntos de apoyo en la carrocería.",
+    "explanation": "Facilita la comunicación visual de la técnica a realizar."
+  }
+]

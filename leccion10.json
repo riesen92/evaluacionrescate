@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "category": "L10: Errores de Seguridad",
+    "question": "¿Cuál es un error frecuente respecto a los 'cortes vivos' (superficies metálicas afiladas)?",
+    "options": [
+      "No protegerlos con mantas o fundas, exponiendo a cortes al paciente y rescatistas.",
+      "Lijarlos inmediatamente.",
+      "Pintarlos de rojo.",
+      "Cubrirlos con la mano."
+    ],
+    "answer": "No protegerlos con mantas o fundas, exponiendo a cortes al paciente y rescatistas.",
+    "explanation": "Es una causa común de lesiones secundarias durante la operación[cite: 8361]."
+  },
+  {
+    "id": 2,
+    "category": "L10: Errores de Seguridad",
+    "question": "En el ámbito de seguridad, un error crítico es no despejar el área de trabajo de:",
+    "options": [
+      "Terceros (civiles, prensa, familiares) que entorpecen la labor.",
+      "Los escombros.",
+      "Las herramientas.",
+      "Los conos."
+    ],
+    "answer": "Terceros (civiles, prensa, familiares) que entorpecen la labor.",
+    "explanation": "El perímetro interno debe ser exclusivo para personal operativo[cite: 8357]."
+  },
+  {
+    "id": 3,
+    "category": "L10: Errores Técnicos",
+    "question": "¿Qué se entiende por 'Extricación de prueba y error'?",
+    "options": [
+      "No definir una técnica clara y probar varias hasta que una funcione (pérdida de tiempo).",
+      "Probar las herramientas antes de usarlas.",
+      "Hacer un simulacro.",
+      "Consultar el manual en la escena."
+    ],
+    "answer": "No definir una técnica clara y probar varias hasta que una funcione (pérdida de tiempo).",
+    "explanation": "Se debe elegir UNA técnica y ejecutarla, no improvisar sobre la marcha[cite: 8366]."
+  },
+  {
+    "id": 4,
+    "category": "L10: Errores Técnicos",
+    "question": "Antes de cortar un pilar, un error común y peligroso es:",
+    "options": [
+      "No desvestir (retirar plásticos) los pilares y marcos.",
+      "No mojar el pilar.",
+      "No marcar con tiza.",
+      "No medir el pilar."
+    ],
+    "answer": "No desvestir (retirar plásticos) los pilares y marcos.",
+    "explanation": "Impide ver actuadores de airbag o pretensores ocultos[cite: 8368]."
+  },
+  {
+    "id": 5,
+    "category": "L10: Errores de Trauma",
+    "question": "Respecto a la información del paciente, un error del equipo de Trauma es:",
+    "options": [
+      "No entregar el reporte PATER al Jefe de Operaciones.",
+      "Hablar muy despacio.",
+      "No saber el nombre del paciente.",
+      "Usar guantes de látex."
+    ],
+    "answer": "No entregar el reporte PATER al Jefe de Operaciones.",
+    "explanation": "Sin el PATER, el Jefe de Operaciones no puede planificar la extricación adecuada[cite: 8376]."
+  },
+  {
+    "id": 6,
+    "category": "L10: Errores de Trauma",
+    "question": "En la movilización del paciente, se considera un error:",
+    "options": [
+      "Realizar movimientos bruscos y no buscar la extracción en 0° (eje espinal).",
+      "Usar tabla larga.",
+      "Poner collar cervical.",
+      "Pedir ayuda para levantar."
+    ],
+    "answer": "Realizar movimientos bruscos y no buscar la extracción en 0° (eje espinal).",
+    "explanation": "Aumenta el riesgo de agravar lesiones medulares[cite: 8374]."
+  },
+  {
+    "id": 7,
+    "category": "L10: Errores de Mando",
+    "question": "¿Cuál es el error principal que comete un Jefe de Operaciones al 'tomar la herramienta'?",
+    "options": [
+      "Trabaja en lugar de dirigir (pierde la visión global).",
+      "Se cansa más rápido.",
+      "Ensucia su uniforme.",
+      "Pierde el respeto del equipo."
+    ],
+    "answer": "Trabaja en lugar de dirigir (pierde la visión global).",
+    "explanation": "El mando debe coordinar y supervisar, no ejecutar tareas manuales[cite: 8377]."
+  },
+  {
+    "id": 8,
+    "category": "L10: Errores de Mando",
+    "question": "La falta de un 'Plan Rápido' ante el agravamiento del paciente es un error de:",
+    "options": [
+      "Comando de Incidente.",
+      "Seguridad.",
+      "Logística.",
+      "Prensa."
+    ],
+    "answer": "Comando de Incidente.",
+    "explanation": "Siempre debe existir un plan B para extracción inmediata[cite: 8379]."
+  },
+  {
+    "id": 9,
+    "category": "L10: Errores Organizacionales",
+    "question": "La falta de coordinación con otras instituciones (Carabineros/SAMU) suele deberse a:",
+    "options": [
+      "Incumplimiento o desconocimiento del Manual ABC de la emergencia.",
+      "Falta de radios.",
+      "Mala señal telefónica.",
+      "Diferencias de horario."
+    ],
+    "answer": "Incumplimiento o desconocimiento del Manual ABC de la emergencia.",
+    "explanation": "El manual ABC establece las bases de la operación multi-institucional[cite: 8385]."
+  },
+  {
+    "id": 10,
+    "category": "L10: Errores POE",
+    "question": "¿Qué problema genera la 'Dualidad de mando' en la elección de la técnica?",
+    "options": [
+      "Confusión y retraso al no saber quién decide la maniobra final.",
+      "Mejora la democracia en el rescate.",
+      "Ahorra tiempo.",
+      "Permite probar dos técnicas a la vez."
+    ],
+    "answer": "Confusión y retraso al no saber quién decide la maniobra final.",
+    "explanation": "El POE debe definir claramente la jerarquía de decisiones[cite: 8387]."
+  },
+  {
+    "id": 11,
+    "category": "Glosario",
+    "question": "Según el glosario, ¿qué es la 'Estabilización Primaria'?",
+    "options": [
+      "Objetivo: Rápida, sencilla, permite ingreso de 1 operador. Máx 1 minuto.",
+      "Objetivo: Levantar el camión.",
+      "Objetivo: Usar alzaprimas en todos los autos.",
+      "Objetivo: Cortar la corriente."
+    ],
+    "answer": "Objetivo: Rápida, sencilla, permite ingreso de 1 operador. Máx 1 minuto.",
+    "explanation": "Definición técnica de la primera fase de estabilización[cite: 8412]."
+  },
+  {
+    "id": 12,
+    "category": "Glosario",
+    "question": "¿Qué es la 'Protección Dura'?",
+    "options": [
+      "Plancha de polipropileno entre paciente y herramienta para proteger de proyecciones.",
+      "Manta de lana.",
+      "El casco del bombero.",
+      "El techo del auto."
+    ],
+    "answer": "Plancha de polipropileno entre paciente y herramienta para proteger de proyecciones.",
+    "explanation": "Elemento rígido de protección física directa[cite: 8428]."
+  },
+  {
+    "id": 13,
+    "category": "Glosario",
+    "question": "¿Qué diferencia al 'Plan Rápido' del 'Plan Óptimo'?",
+    "options": [
+      "Rápido: Maximiza velocidad (vía simple) por riesgo vital. Óptimo: Maximiza seguridad y calidad.",
+      "Rápido: Usa herramientas manuales. Óptimo: Usa hidráulicas.",
+      "Rápido: Lo hace SAMU. Óptimo: Lo hace Bomberos.",
+      "Son lo mismo."
+    ],
+    "answer": "Rápido: Maximiza velocidad (vía simple) por riesgo vital. Óptimo: Maximiza seguridad y calidad.",
+    "explanation": "El plan rápido se usa en caso de PCR o agravamiento; el óptimo es el estándar [cite: 8424-8425]."
+  },
+  {
+    "id": 14,
+    "category": "Glosario",
+    "question": "¿Qué es el 'Atrapamiento Médico'?",
+    "options": [
+      "Hay vías de salida, pero las lesiones del paciente impiden su movilidad/salida.",
+      "El paciente está encerrado con llave.",
+      "El paciente está bajo el auto.",
+      "El paciente está empalado."
+    ],
+    "answer": "Hay vías de salida, pero las lesiones del paciente impiden su movilidad/salida.",
+    "explanation": "A diferencia del físico, no hay hierros impidiendo la salida, sino la condición clínica[cite: 8402]."
+  },
+  {
+    "id": 15,
+    "category": "Glosario",
+    "question": "¿Qué es el 'Perímetro Interno'?",
+    "options": [
+      "Área que rodea el vehículo y pacientes (trabajo directo).",
+      "Zona de espera de ambulancias.",
+      "Zona de prensa.",
+      "El interior de la ambulancia."
+    ],
+    "answer": "Área que rodea el vehículo y pacientes (trabajo directo).",
+    "explanation": "Zona de exclusión estricta operativa[cite: 8423]."
+  },
+  {
+    "id": 16,
+    "category": "Glosario",
+    "question": "¿Qué es la 'Reunión Tripartita'?",
+    "options": [
+      "Reunión de planificación entre Jefes de Operaciones, Trauma y Extricación.",
+      "Reunión entre Bomberos, Carabineros y SAMU.",
+      "Reunión post-emergencia.",
+      "Reunión de la comandancia."
+    ],
+    "answer": "Reunión de planificación entre Jefes de Operaciones, Trauma y Extricación.",
+    "explanation": "Instancia clave para definir el Plan de Acción[cite: 8430]."
+  },
+  {
+    "id": 17,
+    "category": "Glosario",
+    "question": "La 'Extracción de Emergencia' se define como:",
+    "options": [
+      "Se realiza cuando hay un cambio en las condiciones de SEGURIDAD de la escena (riesgo inminente).",
+      "Se realiza cuando el paciente se agrava.",
+      "Se realiza siempre.",
+      "Se realiza si llueve."
+    ],
+    "answer": "Se realiza cuando hay un cambio en las condiciones de SEGURIDAD de la escena (riesgo inminente).",
+    "explanation": "Diferencia clave con la Extracción Rápida (que es por el paciente)[cite: 8416]."
+  },
+  {
+    "id": 18,
+    "category": "Glosario",
+    "question": "¿Qué es la 'Mitigación de riesgos'?",
+    "options": [
+      "Disminuir el potencial de riesgo sin eliminar el elemento que lo produce.",
+      "Eliminar el riesgo por completo.",
+      "Ignorar el riesgo.",
+      "Aumentar el riesgo controlado."
+    ],
+    "answer": "Disminuir el potencial de riesgo sin eliminar el elemento que lo produce.",
+    "explanation": "Concepto de gestión de seguridad (ej. espuma en derrame)[cite: 8421]."
+  },
+  {
+    "id": 19,
+    "category": "L10: Errores de Mando",
+    "question": "Un error frecuente en el despliegue de recursos es:",
+    "options": [
+      "Despliegue excesivo de herramientas y equipos (desorden).",
+      "Llevar pocas herramientas.",
+      "Llevar agua.",
+      "Usar la radio."
+    ],
+    "answer": "Despliegue excesivo de herramientas y equipos (desorden).",
+    "explanation": "Genera tropiezos y confusión en el área de trabajo[cite: 8381]."
+  },
+  {
+    "id": 20,
+    "category": "L10: Errores de Mando",
+    "question": "Respecto al personal en la escena, un error común es:",
+    "options": [
+      "Exceso de personal en la escena sin designación de funciones específicas.",
+      "Falta de personal.",
+      "Personal muy joven.",
+      "Personal de otras compañías."
+    ],
+    "answer": "Exceso de personal en la escena sin designación de funciones específicas.",
+    "explanation": "Solo debe estar en el perímetro interno quien tenga una tarea asignada[cite: 8382]."
+  }
+]

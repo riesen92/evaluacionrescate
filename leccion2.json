@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "category": "L2: Conceptos Básicos",
+    "question": "Según el Instituto de Salud Pública (ISP), ¿cómo se define 'Riesgo'?",
+    "options": [
+      "La combinación de la probabilidad de ocurrencia de un evento peligroso y la gravedad de la lesión.",
+      "La posibilidad de que ocurra un accidente.",
+      "Cualquier fuente o situación con potencial de daño.",
+      "La falta de medidas de seguridad en una escena."
+    ],
+    "answer": "La combinación de la probabilidad de ocurrencia de un evento peligroso y la gravedad de la lesión.",
+    "explanation": "Definición textual citada en la introducción de la Lección 2 (ISP, 2015)[cite: 671]."
+  },
+  {
+    "id": 2,
+    "category": "L2: Modelos de Gestión",
+    "question": "En el modelo de gestión de riesgos, ¿qué se entiende por 'Mitigación'?",
+    "options": [
+      "Disminuir el potencial de riesgo hacia las personas, pero sin eliminar el elemento que lo produce.",
+      "Erradicar por completo el origen del riesgo.",
+      "Usar Equipos de Protección Personal (EPP).",
+      "Aislar la zona de trabajo."
+    ],
+    "answer": "Disminuir el potencial de riesgo hacia las personas, pero sin eliminar el elemento que lo produce.",
+    "explanation": "Ejemplo del texto: Aplicar espuma a un derrame (el combustible sigue ahí, pero el riesgo baja)[cite: 706]."
+  },
+  {
+    "id": 3,
+    "category": "L2: Modelos de Gestión",
+    "question": "¿Cuál es un ejemplo de 'Eliminación de riesgos' según el manual?",
+    "options": [
+      "Desconectar la batería del vehículo (elimina riesgo de arco eléctrico).",
+      "Aplicar espuma a un derrame.",
+      "Usar guantes de protección.",
+      "Poner conos en la calle."
+    ],
+    "answer": "Desconectar la batería del vehículo (elimina riesgo de arco eléctrico).",
+    "explanation": "Se erradica por completo el origen y consecuencias del riesgo eléctrico [cite: 710-712]."
+  },
+  {
+    "id": 4,
+    "category": "L2: Preparación",
+    "question": "En el contexto de un rescate centrado en el paciente, ¿qué es la 'Protección Dura'?",
+    "options": [
+      "Plancha de polipropileno posicionada entre el paciente y la herramienta para proteger de proyecciones.",
+      "El uso de casco y cotona.",
+      "Elementos de plástico o lonas suaves.",
+      "El blindaje del vehículo."
+    ],
+    "answer": "Plancha de polipropileno posicionada entre el paciente y la herramienta para proteger de proyecciones.",
+    "explanation": "Definición específica para diferenciarla de la protección blanda (lonas)[cite: 693]."
+  },
+  {
+    "id": 5,
+    "category": "L2: Respuesta",
+    "question": "Al posicionar los vehículos de emergencia en una vía con tránsito, ¿hacia dónde deben apuntar las ruedas?",
+    "options": [
+      "Hacia afuera de la zona de trabajo.",
+      "Hacia la zona de trabajo.",
+      "Rectas, paralelas a la vía.",
+      "Hacia el centro de la calzada."
+    ],
+    "answer": "Hacia afuera de la zona de trabajo.",
+    "explanation": "Para que, en caso de impacto por alcance, el carro no avance hacia los rescatistas[cite: 729]."
+  },
+  {
+    "id": 6,
+    "category": "L2: Respuesta",
+    "question": "En la evaluación inicial, ¿quiénes deben realizar la inspección visual en 360°?",
+    "options": [
+      "El Jefe de Operaciones y el Jefe de Seguridad.",
+      "Solo el Comandante.",
+      "El voluntario más nuevo.",
+      "Carabineros."
+    ],
+    "answer": "El Jefe de Operaciones y el Jefe de Seguridad.",
+    "explanation": "Deben evaluar la magnitud y riesgos antes de iniciar cualquier intervención[cite: 739]."
+  },
+  {
+    "id": 7,
+    "category": "L2: Riesgos de la Escena",
+    "question": "¿Qué herramienta se recomienda para evaluar la electrificación de estructuras cercanas?",
+    "options": [
+      "Un bastón detector de voltaje.",
+      "Un multímetro digital.",
+      "La mano con guante dieléctrico.",
+      "Visualizar si hay chispas."
+    ],
+    "answer": "Un bastón detector de voltaje.",
+    "explanation": "Recomendación específica para unidades de primera intervención[cite: 734]."
+  },
+  {
+    "id": 8,
+    "category": "L2: Riesgos de la Zona de Trabajo",
+    "question": "Al trabajar con herramientas hidráulicas, ¿dónde NUNCA debe posicionarse el rescatista?",
+    "options": [
+      "Entre la herramienta y el vehículo.",
+      "Detrás de la herramienta.",
+      "Al lado del operador.",
+      "Fuera del perímetro interno."
+    ],
+    "answer": "Entre la herramienta y el vehículo.",
+    "explanation": "Para evitar que la herramienta presione contra el rescatista al desplazarse[cite: 762]."
+  },
+  {
+    "id": 9,
+    "category": "L2: Riesgos de la Zona de Trabajo",
+    "question": "¿Cuál es el orden correcto para desconectar una batería manualmente?",
+    "options": [
+      "Cortar contacto, desconectar negativo, luego desconectar positivo.",
+      "Cortar positivo, luego negativo.",
+      "Cortar ambos cables simultáneamente.",
+      "Solo desconectar el positivo."
+    ],
+    "answer": "Cortar contacto, desconectar negativo, luego desconectar positivo.",
+    "explanation": "Nunca cortar el positivo primero para evitar arcos eléctricos con el chasis [cite: 745-746]."
+  },
+  {
+    "id": 10,
+    "category": "L2: Riesgos de la Zona de Trabajo",
+    "question": "¿Qué sucede con la energía cinética del móvil al momento del impacto?",
+    "options": [
+      "Se transforma en sonido, calor y deformación.",
+      "Desaparece instantáneamente.",
+      "Se transfiere al suelo.",
+      "Se convierte en energía eléctrica."
+    ],
+    "answer": "Se transforma en sonido, calor y deformación.",
+    "explanation": "Parte de esta energía puede quedar almacenada en la estructura como riesgo potencial[cite: 750]."
+  },
+  {
+    "id": 11,
+    "category": "L2: Finalización",
+    "question": "¿Por qué se producen muchas lesiones en la fase de 'Finalización del trabajo'?",
+    "options": [
+      "Por trabajo relajado, retiro temprano de demarcación y sensación de satisfacción adelantada.",
+      "Porque las herramientas fallan al final.",
+      "Por la llegada de la prensa.",
+      "Porque se trabaja de noche."
+    ],
+    "answer": "Por trabajo relajado, retiro temprano de demarcación y sensación de satisfacción adelantada.",
+    "explanation": "Se baja la guardia antes de tiempo [cite: 1243-1246]."
+  },
+  {
+    "id": 12,
+    "category": "L2: Riesgos de la Zona de Trabajo",
+    "question": "Las herramientas de corte generan un riesgo específico denominado:",
+    "options": [
+      "Generación de superficies cortantes (cortes vivos).",
+      "Generación de calor extremo.",
+      "Riesgo de electrocución.",
+      "Riesgo de explosión."
+    ],
+    "answer": "Generación de superficies cortantes (cortes vivos).",
+    "explanation": "El corte de metal crea bordes afilados que pueden lesionar[cite: 766]."
+  },
+  {
+    "id": 13,
+    "category": "L2: Respuesta",
+    "question": "¿Quién es el responsable final de la intervención de corte o desvío de tránsito?",
+    "options": [
+      "Carabineros.",
+      "Bomberos.",
+      "Personal municipal.",
+      "El conductor de la ambulancia."
+    ],
+    "answer": "Carabineros.",
+    "explanation": "Aunque Bomberos puede solicitarlo, la responsabilidad legal es policial[cite: 727]."
+  },
+  {
+    "id": 14,
+    "category": "L2: Preparación",
+    "question": "¿En qué se basa el modelo simplificado de control de riesgos del curso?",
+    "options": [
+      "En una adaptación de la norma OHSAS 18001.",
+      "En la norma NFPA 1001.",
+      "En la ley de tránsito.",
+      "En el manual ABC."
+    ],
+    "answer": "En una adaptación de la norma OHSAS 18001.",
+    "explanation": "Fuente del modelo de gestión de riesgos[cite: 702]."
+  },
+  {
+    "id": 15,
+    "category": "L2: Respuesta",
+    "question": "Durante el trayecto a la emergencia, ¿qué actitud deben mantener los conductores?",
+    "options": [
+      "Una actitud defensiva.",
+      "Una actitud ofensiva para llegar rápido.",
+      "Ir lo más rápido posible sin importar las señales.",
+      "Apagar las sirenas para concentrarse."
+    ],
+    "answer": "Una actitud defensiva.",
+    "explanation": "El trayecto es un riesgo en sí mismo[cite: 718]."
+  },
+  {
+    "id": 16,
+    "category": "L2: Riesgos de la Zona de Trabajo",
+    "question": "En el uso de herramientas hidráulicas, ¿qué se debe vigilar respecto a las mangueras?",
+    "options": [
+      "Que no se doblen o pisen durante la extricación.",
+      "Que estén siempre estiradas al máximo.",
+      "Que se mojen para enfriarlas.",
+      "Que se guarden calientes."
+    ],
+    "answer": "Que no se doblen o pisen durante la extricación.",
+    "explanation": "Cuidados específicos para evitar fallas en equipos de alta presión[cite: 764]."
+  },
+  {
+    "id": 17,
+    "category": "L2: Riesgos de la Zona de Trabajo",
+    "question": "Respecto a los escombros generados en la zona de trabajo:",
+    "options": [
+      "Deben retirarse a una zona previamente definida por el Jefe de Operaciones.",
+      "Deben dejarse caer al suelo.",
+      "Deben tirarse fuera de la carretera.",
+      "Deben guardarse en el carro inmediatamente."
+    ],
+    "answer": "Deben retirarse a una zona previamente definida por el Jefe de Operaciones.",
+    "explanation": "Para evitar obstáculos peligrosos para el desplazamiento[cite: 769]."
+  },
+  {
+    "id": 18,
+    "category": "L2: Finalización",
+    "question": "¿Cuándo se deben retirar las medidas de señalización y segregación de vías?",
+    "options": [
+      "No deben retirarse hasta que las máquinas hayan iniciado el regreso al cuartel.",
+      "Apenas sale la ambulancia.",
+      "Cuando se termina de cortar el auto.",
+      "Cuando Carabineros llega."
+    ],
+    "answer": "No deben retirarse hasta que las máquinas hayan iniciado el regreso al cuartel.",
+    "explanation": "Para proteger al personal durante el repliegue de material[cite: 1248]."
+  },
+  {
+    "id": 19,
+    "category": "L2: Riesgos de la Zona de Trabajo",
+    "question": "¿Qué riesgo presentan los vehículos híbridos o eléctricos en la zona de trabajo?",
+    "options": [
+      "Sus dispositivos eléctricos están resguardados, pero no se eliminan los riesgos.",
+      "No presentan riesgos eléctricos.",
+      "Tienen riesgo de radiación.",
+      "Explotan al contacto con agua."
+    ],
+    "answer": "Sus dispositivos eléctricos están resguardados, pero no se eliminan los riesgos.",
+    "explanation": "Están diseñados para protegerse del impacto, pero el riesgo latente existe[cite: 747]."
+  },
+  {
+    "id": 20,
+    "category": "L2: Finalización",
+    "question": "Además de los riesgos físicos, ¿qué otro tipo de riesgo latente enfrenta el rescatista?",
+    "options": [
+      "Riesgo psicológico (estrés post-traumático).",
+      "Riesgo financiero.",
+      "Riesgo legal.",
+      "Riesgo de perder el equipo."
+    ],
+    "answer": "Riesgo psicológico (estrés post-traumático).",
+    "explanation": "Debe detectarse y manejarse adecuadamente [cite: 1249-1250]."
+  }
+]

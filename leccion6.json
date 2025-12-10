@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "category": "L6: Conceptos Básicos",
+    "question": "¿Qué es la 'Estabilización Dinámica'?",
+    "options": [
+      "El proceso de revisar y reajustar constantemente la estabilización a medida que las cargas cambian durante el rescate.",
+      "Estabilizar el vehículo mientras se mueve.",
+      "Usar herramientas hidráulicas para levantar el auto.",
+      "La estabilización que realiza la grúa."
+    ],
+    "answer": "El proceso de revisar y reajustar constantemente la estabilización a medida que las cargas cambian durante el rescate.",
+    "explanation": "Las cargas varían al cortar la estructura, por lo que se debe revisar constantemente[cite: 4676]."
+  },
+  {
+    "id": 2,
+    "category": "L6: Tipos de Estabilización",
+    "question": "¿Cuál es la característica principal de la 'Estabilización Primaria'?",
+    "options": [
+      "Es rápida (máx 1 min), sencilla y permite el ingreso de un (1) solo operador (Unidad de Trauma).",
+      "Es compleja y usa alzaprimas.",
+      "Se usa solo para camiones.",
+      "Toma 10 minutos y permite entrar a todo el equipo."
+    ],
+    "answer": "Es rápida (máx 1 min), sencilla y permite el ingreso de un (1) solo operador (Unidad de Trauma).",
+    "explanation": "Objetivo: acceso inmediato seguro para evaluación inicial[cite: 4682, 4688, 4689]."
+  },
+  {
+    "id": 3,
+    "category": "L6: Tipos de Estabilización",
+    "question": "¿Cuándo se aplica la 'Estabilización Secundaria'?",
+    "options": [
+      "Complementariamente en vehículos volcados o mayores, para aumentar la base de sustentación.",
+      "En todos los choques simples.",
+      "Antes de la primaria.",
+      "Solo si falla la primaria."
+    ],
+    "answer": "Complementariamente en vehículos volcados o mayores, para aumentar la base de sustentación.",
+    "explanation": "Aumenta el soporte de cargas para trabajos pesados[cite: 4681, 4700]."
+  },
+  {
+    "id": 4,
+    "category": "L6: Nemotecnia",
+    "question": "En la regla nemotécnica HO-VE-STOR-5-EN-MA-RATCH-EST, ¿qué significa 'STOR'?",
+    "options": [
+      "Evaluación de ESTORBO (2° vehículo, poste, barrera) o situación externa.",
+      "Estabilización Torácica.",
+      "Estrategia de Organización.",
+      "Salida de Torso."
+    ],
+    "answer": "Evaluación de ESTORBO (2° vehículo, poste, barrera) o situación externa.",
+    "explanation": "Se refiere a gestionar elementos externos que afectan el rescate[cite: 4714, 4749]."
+  },
+  {
+    "id": 5,
+    "category": "L6: Vehículo Posición Normal",
+    "question": "En la estabilización primaria de un auto sobre sus 4 ruedas, ¿cómo se realiza la estabilización Horizontal?",
+    "options": [
+      "Colocando cuñas biseladas en las ruedas (delantera y trasera) de forma alternada.",
+      "Poniendo el freno de mano solamente.",
+      "Desinflando los neumáticos.",
+      "Amarrando el auto a un poste."
+    ],
+    "answer": "Colocando cuñas biseladas en las ruedas (delantera y trasera) de forma alternada.",
+    "explanation": "Bloquea el desplazamiento hacia adelante o atrás[cite: 4716]."
+  },
+  {
+    "id": 6,
+    "category": "L6: Vehículo Posición Normal",
+    "question": "En la estabilización primaria vertical de un auto sobre sus ruedas, ¿dónde se colocan las cuñas escalonadas/chocos?",
+    "options": [
+      "Bajo los pilares A y C (o puntos sólidos cercanos a las ruedas).",
+      "Bajo la puerta.",
+      "Bajo el parachoques de plástico.",
+      "Bajo el tubo de escape."
+    ],
+    "answer": "Bajo los pilares A y C (o puntos sólidos cercanos a las ruedas).",
+    "explanation": "Puntos estructurales fuertes para evitar el movimiento de la suspensión[cite: 4721, 4722]."
+  },
+  {
+    "id": 7,
+    "category": "L6: Vehículo Posición Normal",
+    "question": "¿Cuál es la función específica de la '5ª Cuña'?",
+    "options": [
+      "Eliminar el grado de libertad entre suelo y auto (anular suspensión) para permitir extracción en 0°.",
+      "Sostener el motor.",
+      "Es un repuesto.",
+      "Estabilizar la dirección."
+    ],
+    "answer": "Eliminar el grado de libertad entre suelo y auto (anular suspensión) para permitir extracción en 0°.",
+    "explanation": "Requisito para extracción alineada, se coloca en la parte posterior[cite: 4740, 4742]."
+  },
+  {
+    "id": 8,
+    "category": "L6: Vehículo Posición Normal",
+    "question": "Al estabilizar, ¿qué precaución se debe tener con los parachoques?",
+    "options": [
+      "No utilizarlos como puntos de apoyo (material ligero).",
+      "Son los mejores puntos de apoyo.",
+      "Hay que amarrarlos.",
+      "Se deben retirar siempre."
+    ],
+    "answer": "No utilizarlos como puntos de apoyo (material ligero).",
+    "explanation": "Suelen ser plásticos y no soportan carga[cite: 4732]."
+  },
+  {
+    "id": 9,
+    "category": "L6: Vehículo sobre Techo",
+    "question": "En un vehículo volcado sobre su techo, la estabilización primaria HORIZONTAL se hace con:",
+    "options": [
+      "Dos cuñas en la parte delantera (vértice pilar A/capó).",
+      "Cuñas en el maletero.",
+      "Cintas ratchet.",
+      "No se hace."
+    ],
+    "answer": "Dos cuñas en la parte delantera (vértice pilar A/capó).",
+    "explanation": "Neutraliza la rotación y libera carga de los pilares A[cite: 4755, 4762]."
+  },
+  {
+    "id": 10,
+    "category": "L6: Vehículo sobre Techo",
+    "question": "En un vehículo sobre su techo, la estabilización primaria VERTICAL se hace en:",
+    "options": [
+      "La parte posterior, triángulo entre techo y suelo (marco del techo/Pilar C).",
+      "El centro del techo.",
+      "Las ruedas.",
+      "El capó."
+    ],
+    "answer": "La parte posterior, triángulo entre techo y suelo (marco del techo/Pilar C).",
+    "explanation": "Se usan cuñas escalonadas en el espacio trasero[cite: 4759]."
+  },
+  {
+    "id": 11,
+    "category": "L6: Vehículo sobre Techo",
+    "question": "Para la estabilización SECUNDARIA de un vehículo sobre su techo, la primera opción es:",
+    "options": [
+      "Estabilizar contra un objeto fijo (poste, árbol, otro auto) usando cintas ratchet.",
+      "Usar gatas hidráulicas.",
+      "Empujar el auto.",
+      "Usar cojines de levante."
+    ],
+    "answer": "Estabilizar contra un objeto fijo (poste, árbol, otro auto) usando cintas ratchet.",
+    "explanation": "Aprovecha el entorno para fijar el vehículo[cite: 4768, 4769]."
+  },
+  {
+    "id": 12,
+    "category": "L6: Vehículo de Costado",
+    "question": "¿Cuál se considera la condición más inestable de un vehículo?",
+    "options": [
+      "Volcado sobre su costado.",
+      "Sobre su techo.",
+      "Sobre sus ruedas.",
+      "Con un neumático pinchado."
+    ],
+    "answer": "Volcado sobre su costado.",
+    "explanation": "La superficie de apoyo es mínima[cite: 4784]."
+  },
+  {
+    "id": 13,
+    "category": "L6: Vehículo de Costado",
+    "question": "En un vehículo de costado, la estabilización primaria comienza por:",
+    "options": [
+      "El lado limpio (arriba), bajo pilares A, B y C.",
+      "El lado sucio (abajo).",
+      "El techo.",
+      "El motor."
+    ],
+    "answer": "El lado limpio (arriba), bajo pilares A, B y C.",
+    "explanation": "Se asegura primero la parte superior para evitar el vuelco[cite: 4788]."
+  },
+  {
+    "id": 14,
+    "category": "L6: Vehículo de Costado",
+    "question": "Para la estabilización secundaria de un auto de costado, si se usan 3 estabilizadores (alzaprimas), la configuración ideal es:",
+    "options": [
+      "Dos en el lado limpio (Motor y Maletero/Pilar B) y uno en el lado sucio (Centro).",
+      "Los tres en el lado limpio.",
+      "Los tres en el lado sucio.",
+      "Uno en cada esquina."
+    ],
+    "answer": "Dos en el lado limpio (Motor y Maletero/Pilar B) y uno en el lado sucio (Centro).",
+    "explanation": "Forma un triángulo de soporte robusto[cite: 4796, 4797, 4798]."
+  },
+  {
+    "id": 15,
+    "category": "L6: Vehículos Pesados",
+    "question": "Para estabilizar vehículos pesados (camiones/buses), se deben anular tres movimientos clave:",
+    "options": [
+      "Suelo-chasis, Chasis-cabina y Cabina-asiento.",
+      "Ruedas, Motor y Carga.",
+      "Frenos, Dirección y Aire.",
+      "Delantero, Medio y Trasero."
+    ],
+    "answer": "Suelo-chasis, Chasis-cabina y Cabina-asiento.",
+    "explanation": "Son los tres sistemas de suspensión independientes que posee un camión[cite: 4885]."
+  },
+  {
+    "id": 16,
+    "category": "L6: Vehículos Pesados",
+    "question": "¿Cómo se anula la suspensión del chasis (Suelo-Chasis) en un camión?",
+    "options": [
+      "Fijando cuñas biseladas o chocos en el espacio entre la suspensión (eje) y el chasis.",
+      "Desinflando las ruedas.",
+      "Amarrando el chasis al suelo.",
+      "Levantando el camión."
+    ],
+    "answer": "Fijando cuñas biseladas o chocos en el espacio entre la suspensión (eje) y el chasis.",
+    "explanation": "Bloquea mecánicamente el recorrido de los muelles/amortiguadores[cite: 4896]."
+  },
+  {
+    "id": 17,
+    "category": "L6: Vehículos Pesados",
+    "question": "¿Qué precaución específica se menciona sobre el asiento del conductor de camión?",
+    "options": [
+      "No cortar el contacto antes de estabilizarlo, ya que al perder aire puede moverse/bajar.",
+      "Es muy cómodo.",
+      "Tiene cinturón de 5 puntas.",
+      "Siempre está fijo."
+    ],
+    "answer": "No cortar el contacto antes de estabilizarlo, ya que al perder aire puede moverse/bajar.",
+    "explanation": "El asiento tiene suspensión neumática; si se corta el aire, cae y puede lesionar[cite: 4904, 4905]."
+  },
+  {
+    "id": 18,
+    "category": "L6: Buses",
+    "question": "En la estabilización vertical de un BUS, se requiere fijar al menos:",
+    "options": [
+      "Cuatro (4) puntos de contacto con la estructura.",
+      "Dos (2) puntos.",
+      "Seis (6) puntos.",
+      "Solo las ruedas."
+    ],
+    "answer": "Cuatro (4) puntos de contacto con la estructura.",
+    "explanation": "Debido a su largo y peso, requiere más puntos de apoyo[cite: 4936]."
+  },
+  {
+    "id": 19,
+    "category": "L6: Buses",
+    "question": "¿Qué punto estructural de los buses se menciona como fiable para apoyar la estabilización?",
+    "options": [
+      "Bajo la pisadera.",
+      "El parachoques de fibra.",
+      "Los espejos.",
+      "El techo."
+    ],
+    "answer": "Bajo la pisadera.",
+    "explanation": "La práctica ha mostrado que es un punto robusto[cite: 4939]."
+  },
+  {
+    "id": 20,
+    "category": "L6: Seguridad",
+    "question": "Al usar cintas ratchet con estabilizadores conectados entre sí (solidarios) en vehículo de costado, solo se deben usar si:",
+    "options": [
+      "Están 100% alineadas y con los mismos ángulos (en espejo).",
+      "Están muy tensas.",
+      "Son de color rojo.",
+      "El vehículo es pequeño."
+    ],
+    "answer": "Están 100% alineadas y con los mismos ángulos (en espejo).",
+    "explanation": "Si no están alineadas, pueden generar torsión e inestabilidad[cite: 4816]."
+  }
+]

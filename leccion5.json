@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "category": "L5: Cinemática",
+    "question": "¿En qué consiste el análisis de la 'Cinemática del Trauma' según el manual?",
+    "options": [
+      "En la observación del tipo de impacto, dirección y tipo de atrapamiento para estimar lesiones.",
+      "En medir la velocidad del vehículo con un radar.",
+      "En calcular el peso del vehículo.",
+      "En ver si el paciente tiene licencia de conducir."
+    ],
+    "answer": "En la observación del tipo de impacto, dirección y tipo de atrapamiento para estimar lesiones.",
+    "explanation": "Permite al equipo estimar la intensidad y el tipo de lesión basándose en la energía del accidente[cite: 3272]."
+  },
+  {
+    "id": 2,
+    "category": "L5: Cinemática",
+    "question": "En relación al nivel de atrapamiento y la gravedad de las lesiones, el manual establece que:",
+    "options": [
+      "A mayor nivel de atrapamiento, usualmente se encuentran lesiones de mayor gravedad.",
+      "No existe relación entre atrapamiento y gravedad.",
+      "El atrapamiento protege al paciente de lesiones graves.",
+      "Solo importa la velocidad, no el atrapamiento."
+    ],
+    "answer": "A mayor nivel de atrapamiento, usualmente se encuentran lesiones de mayor gravedad.",
+    "explanation": "Principio básico de la evaluación de la escena y el paciente[cite: 3273]."
+  },
+  {
+    "id": 3,
+    "category": "L5: Cadena de Sobrevida",
+    "question": "¿Cuál es el eslabón de la 'Cadena de Sobrevida' donde se centra la principal función de Bomberos?",
+    "options": [
+      "Manejo prehospitalario del trauma y extricación.",
+      "Manejo hospitalario.",
+      "Prevención vial.",
+      "Rehabilitación."
+    ],
+    "answer": "Manejo prehospitalario del trauma y extricación.",
+    "explanation": "Es la fase de aplicación de procedimientos para la liberación segura y coordinación médica[cite: 3323]."
+  },
+  {
+    "id": 4,
+    "category": "L5: ABC del Trauma",
+    "question": "Al acceder a un paciente CONSCIENTE, ¿cuál es la primera acción recomendada?",
+    "options": [
+      "Contacto verbal frontal para evitar que mueva la cabeza.",
+      "Ponerle el collar cervical inmediatamente desde atrás.",
+      "Tomarle el pulso.",
+      "Abrir la vía aérea con maniobra frente-mentón."
+    ],
+    "answer": "Contacto verbal frontal para evitar que mueva la cabeza.",
+    "explanation": "Busca la inmovilización 'psicológica' y explicar los procedimientos antes de tocar[cite: 3330]."
+  },
+  {
+    "id": 5,
+    "category": "L5: ABC del Trauma",
+    "question": "En el paciente INCONSCIENTE, la prioridad inicial al acceder es:",
+    "options": [
+      "Inmovilizar rápidamente la columna cervical e iniciar el manejo del ABC.",
+      "Buscar documentos de identificación.",
+      "Sacarlo inmediatamente del auto.",
+      "Esperar a la ambulancia."
+    ],
+    "answer": "Inmovilizar rápidamente la columna cervical e iniciar el manejo del ABC.",
+    "explanation": "El manejo debe ser agresivo en el paciente atrapado e inconsciente[cite: 3333]."
+  },
+  {
+    "id": 6,
+    "category": "L5: ABC del Trauma",
+    "question": "En la evaluación 'C' (Circulación) de un paciente atrapado, ¿qué fenómeno peligroso puede ocurrir al liberar la presión de una estructura?",
+    "options": [
+      "Shock por liberación de toxinas o reactivación de sangrados (Síndrome de Aplastamiento / Efecto Torniquete).",
+      "Mejora inmediata de la presión arterial.",
+      "Aumento de la temperatura corporal.",
+      "Rigidez muscular inmediata."
+    ],
+    "answer": "Shock por liberación de toxinas o reactivación de sangrados (Síndrome de Aplastamiento / Efecto Torniquete).",
+    "explanation": "Las estructuras pueden estar actuando como torniquete mecánico; al liberar, el paciente puede colapsar [cite: 3355-3356]."
+  },
+  {
+    "id": 7,
+    "category": "L5: ABC del Trauma",
+    "question": "¿Qué consideración especial se debe tener con la 'B' (Ventilación) en un paciente atrapado?",
+    "options": [
+      "Evitar elementos (como chalecos de extricación) que limiten los movimientos respiratorios si hay dolor o sospecha de trauma torácico.",
+      "Pedirle que aguante la respiración.",
+      "No administrar oxígeno.",
+      "Ventilar siempre con bolsa-mascarilla."
+    ],
+    "answer": "Evitar elementos (como chalecos de extricación) que limiten los movimientos respiratorios si hay dolor o sospecha de trauma torácico.",
+    "explanation": "Si hay compromiso torácico, se prefiere extracción en 0° sin chaleco para no comprimir [cite: 3348-3349]."
+  },
+  {
+    "id": 8,
+    "category": "L5: Tipos de Atrapamiento",
+    "question": "¿Qué es el 'Atrapamiento Médico'?",
+    "options": [
+      "Situación donde hay vías de salida, pero las lesiones del paciente impiden su salida normal.",
+      "Cuando el médico queda atrapado en la ambulancia.",
+      "Cuando el paciente está atrapado por los pedales.",
+      "Cuando las puertas están bloqueadas."
+    ],
+    "answer": "Situación donde hay vías de salida, pero las lesiones del paciente impiden su salida normal.",
+    "explanation": "No requiere necesariamente corte de estructura, sino inmovilización y extracción técnica[cite: 3372]."
+  },
+  {
+    "id": 9,
+    "category": "L5: Tipos de Atrapamiento",
+    "question": "¿Qué es el 'Atrapamiento Físico'?",
+    "options": [
+      "La deformidad del móvil bloquea las salidas o comprime el cuerpo del paciente.",
+      "El paciente tiene miedo de salir.",
+      "El cinturón de seguridad está atascado solamente.",
+      "El paciente está inconsciente pero libre."
+    ],
+    "answer": "La deformidad del móvil bloquea las salidas o comprime el cuerpo del paciente.",
+    "explanation": "Requiere uso de herramientas para generar espacio o abrir vías[cite: 3376]."
+  },
+  {
+    "id": 10,
+    "category": "L5: Tipos de Atrapamiento",
+    "question": "El 'Empalamiento' se define como:",
+    "options": [
+      "Cuando una estructura del vehículo u objeto externo penetra un segmento corporal.",
+      "Cuando el paciente está aplastado por el techo.",
+      "Cuando el paciente sale eyectado.",
+      "Cuando el paciente queda colgado del cinturón."
+    ],
+    "answer": "Cuando una estructura del vehículo u objeto externo penetra un segmento corporal.",
+    "explanation": "Requiere fijación y corte del objeto, nunca retiro en la escena[cite: 3381]."
+  },
+  {
+    "id": 11,
+    "category": "L5: Tipos de Atrapamiento",
+    "question": "¿Cuál es la causa más común del 'Atrapamiento Toracoabdominal' en choques frontales?",
+    "options": [
+      "Intromisión de la columna de dirección/volante.",
+      "Desplazamiento del panel frontal (tablero).",
+      "Hundimiento del techo.",
+      "Golpe lateral del pilar B."
+    ],
+    "answer": "Intromisión de la columna de dirección/volante.",
+    "explanation": "Comprime el pecho o abdomen contra el asiento[cite: 3401]."
+  },
+  {
+    "id": 12,
+    "category": "L5: Tipos de Atrapamiento",
+    "question": "¿Cuál es la causa más común del 'Atrapamiento Pélvico-femoral' en choques frontales?",
+    "options": [
+      "Intromisión del panel frontal (tablero) hacia el habitáculo.",
+      "Colapso del techo.",
+      "Golpe trasero.",
+      "Volcamiento."
+    ],
+    "answer": "Intromisión del panel frontal (tablero) hacia el habitáculo.",
+    "explanation": "Atrapa las piernas o la cadera, requiriendo desplazamiento de tablero[cite: 3403]."
+  },
+  {
+    "id": 13,
+    "category": "L5: Extracción",
+    "question": "¿Qué es la 'Extracción en 0 grados'?",
+    "options": [
+      "Extraer al paciente siguiendo el eje longitudinal de su columna, sin rotaciones.",
+      "Sacar al paciente por la ventana lateral.",
+      "Rotar al paciente 90 grados para sacarlo sentado.",
+      "Sacar al paciente caminando."
+    ],
+    "answer": "Extraer al paciente siguiendo el eje longitudinal de su columna, sin rotaciones.",
+    "explanation": "Es la técnica recomendada para minimizar lesiones espinales[cite: 3418]."
+  },
+  {
+    "id": 14,
+    "category": "L5: Extracción",
+    "question": "¿En qué consiste el 'Método Diagonal' de extracción?",
+    "options": [
+      "Extracción con un giro de 45° por la puerta trasera del lado contrario.",
+      "Extracción por el parabrisas.",
+      "Extracción por el techo.",
+      "Extracción por la maleta."
+    ],
+    "answer": "Extracción con un giro de 45° por la puerta trasera del lado contrario.",
+    "explanation": "Segunda opción si no se puede realizar la extracción en 0°[cite: 3422]."
+  },
+  {
+    "id": 15,
+    "category": "L5: Tipos de Extracción",
+    "question": "La 'Extracción Rápida' (Plan Rápido) se decide cuando:",
+    "options": [
+      "Hay un cambio negativo en la condición MÉDICA del paciente (ej. PCR).",
+      "El auto se está incendiando.",
+      "Empieza a llover.",
+      "Llega la prensa."
+    ],
+    "answer": "Hay un cambio negativo en la condición MÉDICA del paciente (ej. PCR).",
+    "explanation": "Sacrifica la técnica ideal por velocidad ante riesgo de muerte clínica[cite: 3446]."
+  },
+  {
+    "id": 16,
+    "category": "L5: Tipos de Extracción",
+    "question": "La 'Extracción de Emergencia' se decide cuando:",
+    "options": [
+      "Hay un cambio en las condiciones de SEGURIDAD de la escena (ej. fuego, riesgo de colapso).",
+      "El paciente tiene mucho dolor.",
+      "El paciente entra en paro cardíaco.",
+      "Se rompe una herramienta."
+    ],
+    "answer": "Hay un cambio en las condiciones de SEGURIDAD de la escena (ej. fuego, riesgo de colapso).",
+    "explanation": "Implica un repliegue inmediato para salvar la vida de rescatistas y paciente[cite: 3465]."
+  },
+  {
+    "id": 17,
+    "category": "L5: Extracción de Emergencia",
+    "question": "En una 'Extracción de Emergencia', ¿cuál es el estándar de inmovilización?",
+    "options": [
+      "Extracción manual rápida, usualmente sin elementos de inmovilización (salvo los ya puestos).",
+      "Se debe poner chaleco de extricación siempre.",
+      "Se debe poner tabla espinal completa.",
+      "Se espera a que el fuego se apague."
+    ],
+    "answer": "Extracción manual rápida, usualmente sin elementos de inmovilización (salvo los ya puestos).",
+    "explanation": "La prioridad es la vida inmediata ante un riesgo inminente, no la secuela[cite: 3476]."
+  },
+  {
+    "id": 18,
+    "category": "L5: Evaluación",
+    "question": "¿Cuándo se considera que la planificación de la extricación está completa?",
+    "options": [
+      "Cuando el cuerpo del paciente se encuentra completamente visualizado (se sabe dónde está cada segmento).",
+      "Cuando se rompe el primer vidrio.",
+      "Cuando se abre la puerta.",
+      "Cuando llega el Comandante."
+    ],
+    "answer": "Cuando el cuerpo del paciente se encuentra completamente visualizado (se sabe dónde está cada segmento).",
+    "explanation": "Especialmente la ubicación de los pies, que puede cambiar la técnica [cite: 3296-3298]."
+  },
+  {
+    "id": 19,
+    "category": "L5: Soporte Vital",
+    "question": "¿Qué debe portar siempre el Asesor de Trauma al ingresar al vehículo?",
+    "options": [
+      "Un equipo de oxigenoterapia.",
+      "Una cizalla.",
+      "Un extintor.",
+      "Una radio."
+    ],
+    "answer": "Un equipo de oxigenoterapia.",
+    "explanation": "Todo paciente politraumatizado requiere oxígeno precozmente[cite: 3334]."
+  },
+  {
+    "id": 20,
+    "category": "L5: Tipos de Extracción",
+    "question": "Si el pilar B ha sido removido (remoción lateral), ¿qué ángulo de extracción alternativo se facilita?",
+    "options": [
+      "Extracción en 15°.",
+      "Extracción en 90°.",
+      "Extracción vertical.",
+      "Extracción inversa."
+    ],
+    "answer": "Extracción en 15°.",
+    "explanation": "Al no estar el pilar B, se puede angular ligeramente la tabla para salir por el costado[cite: 3423]."
+  }
+]
