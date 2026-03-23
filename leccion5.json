@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": 1,
     "category": "L5: Cinemática",
@@ -186,12 +186,12 @@
     "category": "L5: Tipos de Extracción",
     "question": "La 'Extracción Rápida' (Plan Rápido) se decide cuando:",
     "options": [
-      "Hay un cambio negativo en la condición MÉDICA del paciente (ej. PCR).",
+      "Hay un cambio negativo en la condición MÃ‰DICA del paciente (ej. PCR).",
       "El auto se está incendiando.",
       "Empieza a llover.",
       "Llega la prensa."
     ],
-    "answer": "Hay un cambio negativo en la condición MÉDICA del paciente (ej. PCR).",
+    "answer": "Hay un cambio negativo en la condición MÃ‰DICA del paciente (ej. PCR).",
     "explanation": "Sacrifica la técnica ideal por velocidad ante riesgo de muerte clínica[cite: 3446]."
   },
   {

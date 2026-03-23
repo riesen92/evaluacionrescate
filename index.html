@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Centro de Entrenamiento | Bomberos</title>
+    <title>Centro de Entrenamiento | Rescate Primera</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -18,33 +18,33 @@
         </header>
 
         <section id="main-menu-screen" class="screen active">
-            <h2 class="menu-title">Selecciona tu Objetivo</h2>
+            <h2 class="menu-title">¿Qué deseas entrenar hoy?</h2>
             <div class="menu-grid">
                 
-                <button class="menu-card" onclick="showAnbMenu()">
+                <div class="menu-card" onclick="showAnbMenu()" role="button" tabindex="0">
                     <div class="icon">📚</div>
                     <div class="content">
                         <h3>Manual Extricación ANB</h3>
-                        <p>Estudio por Lecciones y Final</p>
-                        <span class="tag">Teórico</span>
+                        <p>Estudio Teórico Completo (11 Lecciones)</p>
+                        <span class="tag">Académico</span>
                     </div>
-                </button>
+                </div>
 
-                <button class="menu-card" onclick="startR1Exam()">
+                <div class="menu-card" onclick="startR1Exam()" role="button" tabindex="0">
                     <div class="icon">🚒</div>
                     <div class="content">
                         <h3>Herramientas R-1</h3>
-                        <p>Evaluación Operativa (30 preguntas)</p>
-                        <span class="tag">Técnico</span>
+                        <p>Evaluación Operativa (Protocolo Chillán)</p>
+                        <span class="tag">Práctico</span>
                     </div>
-                </button>
+                </div>
 
             </div>
         </section>
 
         <section id="anb-menu-screen" class="screen hidden">
-            <h2 class="menu-title">Selecciona Lección</h2>
-            <button class="btn btn-secondary" onclick="goToMainMenu()" style="margin-bottom: 20px; width: 100%;">⬅ Volver al Inicio</button>
+            <h2 class="menu-title">Selecciona una Lección</h2>
+            <button class="btn btn-secondary" onclick="goToMainMenu()" style="width: 100%; margin-bottom: 25px;">⬅ Volver al Inicio</button>
             
             <div class="lessons-grid">
                 <button class="btn-lesson" onclick="startAnbLesson(1)">1. Aproximación</button>
@@ -60,10 +60,10 @@
                 <button class="btn-lesson" onclick="startAnbLesson(11)">11. Anexos/POE</button>
             </div>
 
-            <div class="final-exam-container">
+            <div class="final-exam-container" style="margin-top: 20px;">
                 <button class="btn-final-exam" onclick="startFinalAnbExam()">
                     ⭐ EVALUACIÓN FINAL ANB ⭐
-                    <small>55 Preguntas (5 de cada lección)</small>
+                    <small>Test de Integración (55 Preguntas)</small>
                 </button>
             </div>
         </section>
@@ -74,7 +74,7 @@
                 <span class="counter" id="question-number">1/30</span>
             </div>
 
-            <h2 id="question-text" class="question-text">Cargando...</h2>
+            <h2 id="question-text" class="question-text" aria-live="polite">Cargando...</h2>
 
             <div id="options-container" class="options-grid"></div>
 
@@ -92,22 +92,22 @@
             <div class="score-card">
                 <div class="score-circle" id="score-circle">0%</div>
                 <h2 id="result-title">Evaluación Finalizada</h2>
-                <p id="result-message">Calculando...</p>
+                <p id="result-message" aria-live="polite">Calculando...</p>
                 
-                <div class="result-actions">
+                <div class="result-actions" style="margin-top: 30px;">
                     <button class="btn btn-secondary" onclick="goToMainMenu()">Menú Principal</button>
                     <button class="btn btn-primary" id="retry-btn">Reintentar</button>
                 </div>
             </div>
 
             <div class="review-section">
-                <h3>Revisión de Errores</h3>
+                <h3>Revisión de Procedimientos</h3>
                 <div id="review-container"></div>
             </div>
         </section>
 
     </div>
 
-    <script src="script.js"></script>
+    <script src="script.js" charset="utf-8"></script>
 </body>
 </html>

@@ -6,135 +6,138 @@ let currentExamName = '';
 let isAnswered = false;
 let selectedOption = null;
 
-// Configuración de reintento (guarda qué función llamar al reiniciar)
-let retryFunction = null; 
-let retryParams = null;
+let lastExamFunction = null;
+let lastExamParam = null;
 
-// Lista de archivos para el examen final
 const anbFiles = [
     'leccion1.json', 'leccion2.json', 'leccion3.json', 'leccion4.json', 
     'leccion5.json', 'leccion6.json', 'leccion7.json', 'leccion8.json', 
     'leccion9.json', 'leccion10.json', 'leccion11.json'
 ];
+let screens = {};
+let ui = {};
 
-// --- ELEMENTOS DOM ---
-const screens = {
-    mainMenu: document.getElementById('main-menu-screen'),
-    anbMenu: document.getElementById('anb-menu-screen'),
-    quiz: document.getElementById('quiz-screen'),
-    result: document.getElementById('result-screen')
-};
+// --- INICIALIZACIÓN ---
+document.addEventListener('DOMContentLoaded', () => {
+    screens = {
+        mainMenu: document.getElementById('main-menu-screen'),
+        anbMenu: document.getElementById('anb-menu-screen'),
+        quiz: document.getElementById('quiz-screen'),
+        result: document.getElementById('result-screen')
+    };
 
-const ui = {
-    examBadge: document.getElementById('exam-badge'),
-    qNumber: document.getElementById('question-number'),
-    qText: document.getElementById('question-text'),
-    options: document.getElementById('options-container'),
-    explanationBox: document.getElementById('explanation-box'),
-    explanationText: document.getElementById('explanation-text'),
-    actionBtn: document.getElementById('action-btn'),
-    progressBar: document.getElementById('progress-bar'),
-    scoreCircle: document.getElementById('score-circle'),
-    resultTitle: document.getElementById('result-title'),
-    resultMsg: document.getElementById('result-message'),
-    reviewContainer: document.getElementById('review-container'),
-    retryBtn: document.getElementById('retry-btn')
-};
+    ui = {
+        examBadge: document.getElementById('exam-badge'),
+        qNumber: document.getElementById('question-number'),
+        qText: document.getElementById('question-text'),
+        options: document.getElementById('options-container'),
+        explanationBox: document.getElementById('explanation-box'),
+        explanationText: document.getElementById('explanation-text'),
+        actionBtn: document.getElementById('action-btn'),
+        progressBar: document.getElementById('progress-bar'),
+        scoreCircle: document.getElementById('score-circle'),
+        resultTitle: document.getElementById('result-title'),
+        resultMsg: document.getElementById('result-message'),
+        reviewContainer: document.getElementById('review-container'),
+        retryBtn: document.getElementById('retry-btn')
+    };
+    
+    console.log("App Initialized", { screens, ui });
+});
 
-// --- 1. NAVEGACIÓN ---
+// --- 1. NAVEGACIÓN DE MENÚS ---
 
 function showScreen(screenName) {
+    if (!screens[screenName]) {
+        console.error(`Screen ${screenName} not found`);
+        return;
+    }
+    // Oculta todas las pantallas
     Object.values(screens).forEach(s => {
-        s.classList.add('hidden');
-        s.classList.remove('active');
+        if (s) {
+            s.classList.add('hidden');
+            s.classList.remove('active');
+        }
     });
+    // Muestra la solicitada
     screens[screenName].classList.remove('hidden');
     screens[screenName].classList.add('active');
-}
-
-function showAnbMenu() {
-    showScreen('anbMenu');
 }
 
 function goToMainMenu() {
     showScreen('mainMenu');
 }
 
-// --- 2. MODOS DE EXAMEN ---
+function showAnbMenu() {
+    showScreen('anbMenu');
+}
 
-// MODO A: HERRAMIENTAS R-1 (30 de 90 al azar)
+// --- 2. LOGICA DE EXÁMENES ---
+
 async function startR1Exam() {
     try {
         const response = await fetch('herramientas_chillan.json');
-        if (!response.ok) throw new Error("Error HTTP");
+        if (!response.ok) throw new Error("Error al cargar herramientas_chillan.json");
         const data = await response.json();
         
-        // Mezclar y tomar 30
         currentExamQuestions = shuffle([...data]).slice(0, 30);
-        currentExamName = "Técnica R-1";
+        currentExamName = "Herramientas R-1";
         
-        // Configurar reintento
-        retryFunction = startR1Exam;
-        retryParams = null;
-        
+        lastExamFunction = startR1Exam;
+        lastExamParam = null;
+
         initQuizRound();
     } catch (error) {
         console.error(error);
-        alert("Error cargando R-1. Usa Live Server.");
+        alert("Error cargando el archivo R-1. Asegúrate de que el servidor local esté funcionando (ej: Live Server) para evitar errores CORS.");
     }
 }
 
-// MODO B: LECCIÓN INDIVIDUAL ANB (Todas las preguntas de la lección)
 async function startAnbLesson(lessonNum) {
     const filename = `leccion${lessonNum}.json`;
     try {
         const response = await fetch(filename);
-        if (!response.ok) throw new Error("Error HTTP");
+        if (!response.ok) throw new Error(`Error al cargar ${filename}`);
         const data = await response.json();
         
-        // Usar TODAS las preguntas de la lección, pero mezcladas
         currentExamQuestions = shuffle([...data]);
         currentExamName = `Lección ${lessonNum}`;
         
-        // Configurar reintento
-        retryFunction = startAnbLesson;
-        retryParams = lessonNum;
+        lastExamFunction = startAnbLesson;
+        lastExamParam = lessonNum;
 
         initQuizRound();
     } catch (error) {
         console.error(error);
-        alert(`Error cargando ${filename}.`);
+        alert(`Error al cargar la lección ${lessonNum}. Verifica si hay problemas de CORS.`);
     }
 }
 
-// MODO C: FINAL ANB (5 preguntas de cada uno de los 11 archivos)
 async function startFinalAnbExam() {
     try {
         let finalQuestions = [];
-        
-        // Cargar los 11 archivos en paralelo
-        const promises = anbFiles.map(file => fetch(file).then(res => res.json()));
+        const promises = anbFiles.map(file => fetch(file).then(res => {
+            if (!res.ok) throw new Error('Error al cargar archivo');
+            return res.json();
+        }));
         const results = await Promise.all(promises);
         
-        // Extraer 5 de cada uno
         results.forEach((lessonQuestions) => {
             const selected = shuffle([...lessonQuestions]).slice(0, 5);
             finalQuestions = finalQuestions.concat(selected);
         });
 
-        // Mezclar todo el examen
         currentExamQuestions = shuffle(finalQuestions);
-        currentExamName = "Final ANB Integrada";
+        currentExamName = "Final ANB Integrado";
         
-        // Configurar reintento
-        retryFunction = startFinalAnbExam;
-        retryParams = null;
+        lastExamFunction = startFinalAnbExam;
+        lastExamParam = null;
 
         initQuizRound();
 
     } catch (error) {
-        console.error("Error armando final:", error);
-        alert("Falta algún archivo de lección (leccion1.json ... leccion11.json)");
+        console.error("Error armando examen final:", error);
+        alert("Error al cargar los archivos de las lecciones.");
     }
 }
 
@@ -150,20 +153,21 @@ function shuffle(array) {
     return array;
 }
 
-// --- 4. MOTOR DEL QUIZ (Común para todos) ---
+// --- 4. MOTOR DEL QUIZ ---
 
 function initQuizRound() {
     currentQuestionIndex = 0;
     userAnswers = [];
     
-    // Configurar botón de reintento en la pantalla de resultados
-    ui.retryBtn.onclick = () => {
-        if (retryParams) retryFunction(retryParams);
-        else retryFunction();
-    };
+    if (ui.retryBtn) {
+        ui.retryBtn.onclick = () => {
+            if (lastExamParam) lastExamFunction(lastExamParam);
+            else lastExamFunction();
+        };
+    }
 
     showScreen('quiz');
-    ui.examBadge.innerText = currentExamName;
+    if (ui.examBadge) ui.examBadge.innerText = currentExamName;
     loadQuestionUI();
 }
 
@@ -184,7 +188,6 @@ function loadQuestionUI() {
     ui.progressBar.style.width = `${percent}%`;
 
     ui.options.innerHTML = '';
-    // Mezclar opciones para que no siempre la A sea la correcta
     const shuffledOptions = shuffle([...q.options]);
 
     shuffledOptions.forEach(opt => {
@@ -204,7 +207,14 @@ function selectOption(btnElement, text) {
     ui.actionBtn.disabled = false;
 }
 
-ui.actionBtn.addEventListener('click', () => {
+// Event listener for action button
+document.addEventListener('click', (e) => {
+    if (e.target && e.target.id === 'action-btn') {
+        handleActionClick();
+    }
+});
+
+function handleActionClick() {
     const q = currentExamQuestions[currentQuestionIndex];
 
     if (!isAnswered) {
@@ -243,7 +253,7 @@ ui.actionBtn.addEventListener('click', () => {
             showResults();
         }
     }
-});
+}
 
 // --- 5. RESULTADOS ---
 
@@ -268,7 +278,7 @@ function showResults() {
         ui.resultTitle.innerText = "REPROBADO";
         ui.resultTitle.style.color = "var(--error)";
     }
-    ui.resultMsg.innerText = `${correctCount} correctas de ${total} preguntas.`;
+    ui.resultMsg.innerText = `${correctCount} correctas de ${total}.`;
 
     renderReview();
 }
