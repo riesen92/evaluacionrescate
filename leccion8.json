@@ -10,7 +10,7 @@
       "El traslado del paciente."
     ],
     "answer": "Aquellas que facilitan el acceso y contacto (ej. vidrios, espacios), pero no son la técnica principal de liberación.",
-    "explanation": "Se usan cuando se requieren para habilitar vías o facilitar herramientas[cite: 4948]."
+    "explanation": "Se usan cuando se requieren para habilitar vías o facilitar herramientas."
   },
   {
     "id": 2,
@@ -23,7 +23,7 @@
       "Delantero, Trasero y Lateral."
     ],
     "answer": "Templado, Inastillable (Laminado) y Anti-asaltos (Seguridad).",
-    "explanation": "Clasificación oficial del manual para definir la técnica de ruptura [cite: 4955-4957]."
+    "explanation": "Clasificación oficial del manual para definir la técnica de ruptura ."
   },
   {
     "id": 3,
@@ -36,7 +36,7 @@
       "Queda pegado en una lámina."
     ],
     "answer": "Se fragmenta en múltiples y pequeñas piezas (granallas) poco cortantes.",
-    "explanation": "Diseñado para minimizar lesiones por corte[cite: 4959]."
+    "explanation": "Diseñado para minimizar lesiones por corte."
   },
   {
     "id": 4,
@@ -49,7 +49,7 @@
       "No tocarlo."
     ],
     "answer": "Bajar el vidrio hasta dejar 2-3 cm visibles, tapar con lona y romper controladamente.",
-    "explanation": "Minimiza la caída de vidrio al interior y facilita la contención[cite: 4962]."
+    "explanation": "Minimiza la caída de vidrio al interior y facilita la contención."
   },
   {
     "id": 5,
@@ -62,7 +62,7 @@
       "Usar un imán."
     ],
     "answer": "Instalar una lámina adhesiva o hacer un entramado con cinta adhesiva antes de romper.",
-    "explanation": "Mantiene los fragmentos unidos para retirarlos en bloque[cite: 4969]."
+    "explanation": "Mantiene los fragmentos unidos para retirarlos en bloque."
   },
   {
     "id": 6,
@@ -75,7 +75,7 @@
       "De malla metálica."
     ],
     "answer": "Dos piezas de vidrio con una lámina adhesiva transparente entre ellas.",
-    "explanation": "Los fragmentos quedan adheridos a la lámina intermedia [cite: 4993-4994]."
+    "explanation": "Los fragmentos quedan adheridos a la lámina intermedia ."
   },
   {
     "id": 7,
@@ -88,7 +88,7 @@
       "Usar fuego."
     ],
     "answer": "Método de remoción de goma de sello (cortar la goma perimetral).",
-    "explanation": "Permite retirar el vidrio entero sin generar polvo de vidrio[cite: 4998]."
+    "explanation": "Permite retirar el vidrio entero sin generar polvo de vidrio."
   },
   {
     "id": 8,
@@ -101,7 +101,7 @@
       "Martillo."
     ],
     "answer": "Sierra sable eléctrica, sierra manual para vidrios o hacha (corte controlado).",
-    "explanation": "Se debe cortar generando un punto de entrada [cite: 5004-5010]."
+    "explanation": "Se debe cortar generando un punto de entrada ."
   },
   {
     "id": 9,
@@ -114,7 +114,7 @@
       "¡Atención!"
     ],
     "answer": "¡Rompiendo vidrio!",
-    "explanation": "Advertencia obligatoria para alertar al paciente y equipo[cite: 5021]."
+    "explanation": "Advertencia obligatoria para alertar al paciente y equipo."
   },
   {
     "id": 10,
@@ -127,7 +127,7 @@
       "Traje encapsulado."
     ],
     "answer": "Mascarilla buconasal (tipo N95).",
-    "explanation": "Protege las vías aéreas del polvo de vidrio[cite: 5019]."
+    "explanation": "Protege las vías aéreas del polvo de vidrio."
   },
   {
     "id": 11,
@@ -140,7 +140,7 @@
       "Cortar el pilar."
     ],
     "answer": "Generar una deformación pequeña (brecha) para introducir las puntas de la herramienta.",
-    "explanation": "A veces el espacio es muy estrecho para meter las puntas del expansor[cite: 5035]."
+    "explanation": "A veces el espacio es muy estrecho para meter las puntas del expansor."
   },
   {
     "id": 12,
@@ -153,7 +153,7 @@
       "Nada, se aprieta directo."
     ],
     "answer": "Identificar la presencia de sensores o actuadores de Airbag/SRS en la zona a deformar.",
-    "explanation": "La compresión podría activar un sensor de impacto lateral[cite: 5037]."
+    "explanation": "La compresión podría activar un sensor de impacto lateral."
   },
   {
     "id": 13,
@@ -166,7 +166,7 @@
       "En la manilla."
     ],
     "answer": "Comprimiendo la puerta lo más próximo a la cerradura (o bisagra) con las puntas del expansor.",
-    "explanation": "Se aplasta la chapa para que se separe del marco y entre la herramienta[cite: 5063]."
+    "explanation": "Se aplasta la chapa para que se separe del marco y entre la herramienta."
   },
   {
     "id": 14,
@@ -179,7 +179,7 @@
       "Se usa para trabar la puerta."
     ],
     "answer": "Se inserta el pico/uña en el marco y se rota para apalancar.",
-    "explanation": "Método manual para crear la brecha inicial[cite: 5073]."
+    "explanation": "Método manual para crear la brecha inicial."
   },
   {
     "id": 15,
@@ -192,7 +192,7 @@
       "Levantar el auto."
     ],
     "answer": "Comprimir el tapabarro con el expansor para exponer las bisagras de la puerta delantera.",
-    "explanation": "Permite ver y atacar las bisagras[cite: 5091]."
+    "explanation": "Permite ver y atacar las bisagras."
   },
   {
     "id": 16,
@@ -205,7 +205,7 @@
       "Para guardar herramientas."
     ],
     "answer": "Para desconectar la batería y deshabilitar sistemas eléctricos/SRS.",
-    "explanation": "Paso crítico de seguridad[cite: 5102]."
+    "explanation": "Paso crítico de seguridad."
   },
   {
     "id": 17,
@@ -218,7 +218,7 @@
       "No abrirlo."
     ],
     "answer": "Apertura lateral del capó (corte o palanca por el costado).",
-    "explanation": "Permite acceder a los bornes de la batería desde el lado[cite: 5107]."
+    "explanation": "Permite acceder a los bornes de la batería desde el lado."
   },
   {
     "id": 18,
@@ -231,7 +231,7 @@
       "Para ventilar el auto."
     ],
     "answer": "Para identificar y controlar sistemas de gas (GNC/GLP) o baterías auxiliares.",
-    "explanation": "Riesgo oculto común en vehículos modificados o híbridos[cite: 5113]."
+    "explanation": "Riesgo oculto común en vehículos modificados o híbridos."
   },
   {
     "id": 19,
@@ -244,7 +244,7 @@
       "Usar la llave de fuerza."
     ],
     "answer": "Pinzamiento de maletero (comprimir cerca de la chapa) para meter el expansor.",
-    "explanation": "Mismo principio que en las puertas: generar brecha para forzar[cite: 5115]."
+    "explanation": "Mismo principio que en las puertas: generar brecha para forzar."
   },
   {
     "id": 20,
@@ -257,6 +257,6 @@
       "No hacer nada."
     ],
     "answer": "Asumir que es templado y probar romperlo con punzón en una esquina.",
-    "explanation": "Es el método de descarte estándar[cite: 5025]."
+    "explanation": "Es el método de descarte estándar."
   }
 ]

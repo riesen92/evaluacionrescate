@@ -10,7 +10,7 @@
       "El maquinista."
     ],
     "answer": "El voluntario con mayor experiencia de la Unidad de Rescate (asignado por Orden del Día).",
-    "explanation": "El JO dirige las operaciones técnicas, reportando al Comandante del Incidente (CI)[cite: 10537]."
+    "explanation": "El JO dirige las operaciones técnicas, reportando al Comandante del Incidente (CI)."
   },
   {
     "id": 2,
@@ -23,7 +23,7 @@
       "Dirigir el tránsito."
     ],
     "answer": "Operar la bomba hidráulica (usualmente es el conductor/maquinista).",
-    "explanation": "El conductor del carro siempre será Ayudante de esta Unidad[cite: 10520, 10524]."
+    "explanation": "El conductor del carro siempre será Ayudante de esta Unidad."
   },
   {
     "id": 3,
@@ -36,7 +36,7 @@
       "Atender a los pacientes leves."
     ],
     "answer": "Atender al paciente de mayor gravedad y realizar el Triage.",
-    "explanation": "Es la unidad más competente y su jefe lidera la priorización médica[cite: 10510]."
+    "explanation": "Es la unidad más competente y su jefe lidera la priorización médica."
   },
   {
     "id": 4,
@@ -49,7 +49,7 @@
       "El Comandante."
     ],
     "answer": "Unidad de Equipos (Amarillo).",
-    "explanation": "Deben llevar el control del inventario desplegado y recuperado[cite: 10522]."
+    "explanation": "Deben llevar el control del inventario desplegado y recuperado."
   },
   {
     "id": 5,
@@ -62,7 +62,7 @@
       "El personal de la ambulancia."
     ],
     "answer": "El personal del carro de Agua (reforzado con un rescatista si es necesario).",
-    "explanation": "Protocolo estándar para optimizar recursos en el despacho conjunto[cite: 10497]."
+    "explanation": "Protocolo estándar para optimizar recursos en el despacho conjunto."
   },
   {
     "id": 6,
@@ -75,7 +75,7 @@
       "Una llave inglesa."
     ],
     "answer": "Herramienta metálica robusta (mini Halligan) para retirar revestimientos interiores y ver airbags.",
-    "explanation": "Permite exponer la estructura antes de cortar[cite: 10582]."
+    "explanation": "Permite exponer la estructura antes de cortar."
   },
   {
     "id": 7,
@@ -88,7 +88,7 @@
       "Para ajustar las herramientas hidráulicas."
     ],
     "answer": "Permite un controlado retiro de la válvula para desinflar neumáticos.",
-    "explanation": "Facilita la estabilización bajando el perfil del vehículo[cite: 10587]."
+    "explanation": "Facilita la estabilización bajando el perfil del vehículo."
   },
   {
     "id": 8,
@@ -101,7 +101,7 @@
       "Inmovilizar al paciente."
     ],
     "answer": "Fijación de lonas/frazadas para protección de cortes vivos.",
-    "explanation": "Aseguran que la protección de bordes afilados no se caiga[cite: 10589]."
+    "explanation": "Aseguran que la protección de bordes afilados no se caiga."
   },
   {
     "id": 9,
@@ -114,7 +114,7 @@
       "Remolcar el auto."
     ],
     "answer": "Apoyo en fijación de estructuras interiores o maniobras de extracción de pacientes (tracción).",
-    "explanation": "Herramienta versátil para tracción manual (ej. pedales o pacientes obesos)[cite: 10590]."
+    "explanation": "Herramienta versátil para tracción manual (ej. pedales o pacientes obesos)."
   },
   {
     "id": 10,
@@ -127,7 +127,7 @@
       "Bengala."
     ],
     "answer": "Linterna.",
-    "explanation": "Permite inspeccionar zonas oscuras bajo el tablero o asientos[cite: 10586]."
+    "explanation": "Permite inspeccionar zonas oscuras bajo el tablero o asientos."
   },
   {
     "id": 11,
@@ -140,7 +140,7 @@
       "6.500 kg."
     ],
     "answer": "2.700 kg por punto (10.800 kg total caja de 4 puntos).",
-    "explanation": "Dato técnico de resistencia de la madera de 4x4 [cite: 10601-10602]."
+    "explanation": "Dato técnico de resistencia de la madera de 4x4 ."
   },
   {
     "id": 12,
@@ -153,7 +153,7 @@
       "5.000 kg."
     ],
     "answer": "26.000 kg.",
-    "explanation": "Dato técnico para madera de 6x6[cite: 10603]."
+    "explanation": "Dato técnico para madera de 6x6."
   },
   {
     "id": 13,
@@ -166,7 +166,7 @@
       "No hay límite si está bien hecha."
     ],
     "answer": "No hacerlas más altas que tres (3) veces el ancho del cuartón utilizado (o el lado más corto de la base).",
-    "explanation": "Regla de estabilidad para evitar el volcamiento de la caja[cite: 10606]."
+    "explanation": "Regla de estabilidad para evitar el volcamiento de la caja."
   },
   {
     "id": 14,
@@ -179,7 +179,7 @@
       "Es transparente a los rayos X."
     ],
     "answer": "Avisa lentamente con un gran ruido de resquebrajamiento antes de fallar.",
-    "explanation": "Provee una advertencia auditiva a los rescatistas[cite: 10600]."
+    "explanation": "Provee una advertencia auditiva a los rescatistas."
   },
   {
     "id": 15,
@@ -192,7 +192,7 @@
       "Tracción."
     ],
     "answer": "Compresión (nunca a la flexión).",
-    "explanation": "La madera es fuerte comprimida, débil si se flecta[cite: 10609]."
+    "explanation": "La madera es fuerte comprimida, débil si se flecta."
   },
   {
     "id": 16,
@@ -205,7 +205,7 @@
       "Ignorar el riesgo."
     ],
     "answer": "Separar el riesgo completamente del resto de la escena (Zona caliente/tibia/fría).",
-    "explanation": "Definición del glosario[cite: 10422]."
+    "explanation": "Definición del glosario."
   },
   {
     "id": 17,
@@ -218,7 +218,7 @@
       "No importa la ubicación."
     ],
     "answer": "Debe estar alejada y asegurada, ya que el aire del helicóptero puede proyectar escombros.",
-    "explanation": "Riesgo de proyección por el flujo de aire de la aeronave[cite: 7108]."
+    "explanation": "Riesgo de proyección por el flujo de aire de la aeronave."
   },
   {
     "id": 18,
@@ -231,7 +231,7 @@
       "Cualquier voluntario."
     ],
     "answer": "Unidad de Extricación (Naranjo).",
-    "explanation": "Función exclusiva de la unidad especializada[cite: 10526]."
+    "explanation": "Función exclusiva de la unidad especializada."
   },
   {
     "id": 19,
@@ -244,7 +244,7 @@
       "Trauma."
     ],
     "answer": "POE (Procedimiento de Operación Estándar).",
-    "explanation": "El POE debe establecer claramente quién toma la decisión final[cite: 10414]."
+    "explanation": "El POE debe establecer claramente quién toma la decisión final."
   },
   {
     "id": 20,

@@ -10,7 +10,7 @@
       "No es necesario usar guantes biológicos si no hay sangre visible."
     ],
     "answer": "Usar siempre guantes de látex (vinilo/nitrilo) BAJO el guante de trabajo.",
-    "explanation": "Norma de protección biológica obligatoria para evitar contacto con fluidos[cite: 3849]."
+    "explanation": "Norma de protección biológica obligatoria para evitar contacto con fluidos."
   },
   {
     "id": 2,
@@ -23,7 +23,7 @@
       "Los lentes de sol son aceptables."
     ],
     "answer": "El visor incorporado en el casco NO reemplaza la protección de las antiparras.",
-    "explanation": "Las antiparras proveen sello contra fluidos y partículas que el visor no garantiza[cite: 3855]."
+    "explanation": "Las antiparras proveen sello contra fluidos y partículas que el visor no garantiza."
   },
   {
     "id": 3,
@@ -36,7 +36,7 @@
       "Equipo ERA."
     ],
     "answer": "Mascarilla N95 (norma OSHA).",
-    "explanation": "Protege contra partículas en suspensión de vidrio molido[cite: 3870]."
+    "explanation": "Protege contra partículas en suspensión de vidrio molido."
   },
   {
     "id": 4,
@@ -49,7 +49,7 @@
       "Debe tener ala ancha completa."
     ],
     "answer": "Debe ser de menor tamaño para facilitar la maniobrabilidad en espacios reducidos.",
-    "explanation": "Adaptado a los espacios confinados del vehículo[cite: 3861]."
+    "explanation": "Adaptado a los espacios confinados del vehículo."
   },
   {
     "id": 5,
@@ -62,7 +62,7 @@
       "La electricidad estática."
     ],
     "answer": "La incapacidad que tienen los líquidos de ser comprimidos.",
-    "explanation": "Principio físico de transmisión de fuerza hidráulica[cite: 3908]."
+    "explanation": "Principio físico de transmisión de fuerza hidráulica."
   },
   {
     "id": 6,
@@ -75,7 +75,7 @@
       "Un candado."
     ],
     "answer": "Una bitácora de uso y mantención.",
-    "explanation": "Permite trazar el desgaste y calendarizar mantenciones[cite: 3912]."
+    "explanation": "Permite trazar el desgaste y calendarizar mantenciones."
   },
   {
     "id": 7,
@@ -88,7 +88,7 @@
       "Cualquier parte de la herramienta."
     ],
     "answer": "Solamente las puntas (zona activa).",
-    "explanation": "Nunca se deben apoyar los brazos, ya que pueden dañarse[cite: 3999]."
+    "explanation": "Nunca se deben apoyar los brazos, ya que pueden dañarse."
   },
   {
     "id": 8,
@@ -101,7 +101,7 @@
       "Es igual en toda la hoja."
     ],
     "answer": "En la base (donde convergen las hojas).",
-    "explanation": "Se debe buscar llevar el material hacia la base (corte envolvente)[cite: 3942]."
+    "explanation": "Se debe buscar llevar el material hacia la base (corte envolvente)."
   },
   {
     "id": 9,
@@ -114,7 +114,7 @@
       "Usar un martillo."
     ],
     "answer": "Detener la maniobra inmediatamente.",
-    "explanation": "Riesgo de fractura de las hojas por palanca lateral[cite: 4001]."
+    "explanation": "Riesgo de fractura de las hojas por palanca lateral."
   },
   {
     "id": 10,
@@ -127,7 +127,7 @@
       "El largo de la manguera."
     ],
     "answer": "La distancia de punta a punta con la herramienta completamente retraída (punto de máxima potencia).",
-    "explanation": "Definición técnica de las medidas del RAM[cite: 3973, 3974]."
+    "explanation": "Definición técnica de las medidas del RAM."
   },
   {
     "id": 11,
@@ -140,7 +140,7 @@
       "No cortan metal."
     ],
     "answer": "Su menor potencia y rango limitado las hace no recomendables para vehículos pesados o de alta gama.",
-    "explanation": "Son versátiles pero menos potentes que las herramientas dedicadas[cite: 3983, 3987]."
+    "explanation": "Son versátiles pero menos potentes que las herramientas dedicadas."
   },
   {
     "id": 12,
@@ -153,7 +153,7 @@
       "Frente a las puntas."
     ],
     "answer": "Fuera de la zona de desplazamiento de la herramienta (Estructura-Herramienta-Operador).",
-    "explanation": "Para evitar ser aplastado si la herramienta se mueve al aplicar fuerza[cite: 3991, 4034]."
+    "explanation": "Para evitar ser aplastado si la herramienta se mueve al aplicar fuerza."
   },
   {
     "id": 13,
@@ -166,7 +166,7 @@
       "Solo con otros cojines."
     ],
     "answer": "Cuñas y cuartones de madera (estabilización de seguridad).",
-    "explanation": "Seguridad obligatoria: asegurar la carga levantada[cite: 4014]."
+    "explanation": "Seguridad obligatoria: asegurar la carga levantada."
   },
   {
     "id": 14,
@@ -179,7 +179,7 @@
       "Para cortar concreto."
     ],
     "answer": "Para remoción de parabrisas y corte de materiales compuestos/aleaciones.",
-    "explanation": "Uso específico donde la hidráulica puede no ser la mejor opción[cite: 4038, 4039]."
+    "explanation": "Uso específico donde la hidráulica puede no ser la mejor opción."
   },
   {
     "id": 15,
@@ -192,7 +192,7 @@
       "Cinco vehículos."
     ],
     "answer": "Dos (2) vehículos menores en posición sobre sus ruedas.",
-    "explanation": "Estándar mínimo recomendado de equipamiento[cite: 4051]."
+    "explanation": "Estándar mínimo recomendado de equipamiento."
   },
   {
     "id": 16,
@@ -205,7 +205,7 @@
       "Sin cintas."
     ],
     "answer": "En pares.",
-    "explanation": "Para asegurar la estabilidad simétrica[cite: 4055]."
+    "explanation": "Para asegurar la estabilidad simétrica."
   },
   {
     "id": 17,
@@ -218,7 +218,7 @@
       "Llave inglesa."
     ],
     "answer": "Punzón rompevidrios.",
-    "explanation": "Herramienta de propósito específico listada[cite: 3892]."
+    "explanation": "Herramienta de propósito específico listada."
   },
   {
     "id": 18,
@@ -231,7 +231,7 @@
       "Que tiene un botón de pánico."
     ],
     "answer": "Que el mando vuelve a posición neutra (se detiene) si el operador lo suelta.",
-    "explanation": "Mecanismo de seguridad estándar en hidráulica y neumática[cite: 3996, 4009]."
+    "explanation": "Mecanismo de seguridad estándar en hidráulica y neumática."
   },
   {
     "id": 19,
@@ -244,7 +244,7 @@
       "Cualquier ángulo."
     ],
     "answer": "90 grados con respecto a la estructura.",
-    "explanation": "Optimiza el corte y evita la torsión de las hojas[cite: 4000]."
+    "explanation": "Optimiza el corte y evita la torsión de las hojas."
   },
   {
     "id": 20,
@@ -257,6 +257,6 @@
       "Sopletes."
     ],
     "answer": "Sierras circulares o esmeriles angulares con discos de corte.",
-    "explanation": "Herramientas de corte abrasivo para aceros especiales[cite: 4035]."
+    "explanation": "Herramientas de corte abrasivo para aceros especiales."
   }
 ]

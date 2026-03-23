@@ -10,7 +10,7 @@
       "La estabilización que realiza la grúa."
     ],
     "answer": "El proceso de revisar y reajustar constantemente la estabilización a medida que las cargas cambian durante el rescate.",
-    "explanation": "Las cargas varían al cortar la estructura, por lo que se debe revisar constantemente[cite: 4676]."
+    "explanation": "Las cargas varían al cortar la estructura, por lo que se debe revisar constantemente."
   },
   {
     "id": 2,
@@ -23,7 +23,7 @@
       "Toma 10 minutos y permite entrar a todo el equipo."
     ],
     "answer": "Es rápida (máx 1 min), sencilla y permite el ingreso de un (1) solo operador (Unidad de Trauma).",
-    "explanation": "Objetivo: acceso inmediato seguro para evaluación inicial[cite: 4682, 4688, 4689]."
+    "explanation": "Objetivo: acceso inmediato seguro para evaluación inicial."
   },
   {
     "id": 3,
@@ -36,7 +36,7 @@
       "Solo si falla la primaria."
     ],
     "answer": "Complementariamente en vehículos volcados o mayores, para aumentar la base de sustentación.",
-    "explanation": "Aumenta el soporte de cargas para trabajos pesados[cite: 4681, 4700]."
+    "explanation": "Aumenta el soporte de cargas para trabajos pesados."
   },
   {
     "id": 4,
@@ -49,7 +49,7 @@
       "Salida de Torso."
     ],
     "answer": "Evaluación de ESTORBO (2° vehículo, poste, barrera) o situación externa.",
-    "explanation": "Se refiere a gestionar elementos externos que afectan el rescate[cite: 4714, 4749]."
+    "explanation": "Se refiere a gestionar elementos externos que afectan el rescate."
   },
   {
     "id": 5,
@@ -62,7 +62,7 @@
       "Amarrando el auto a un poste."
     ],
     "answer": "Colocando cuñas biseladas en las ruedas (delantera y trasera) de forma alternada.",
-    "explanation": "Bloquea el desplazamiento hacia adelante o atrás[cite: 4716]."
+    "explanation": "Bloquea el desplazamiento hacia adelante o atrás."
   },
   {
     "id": 6,
@@ -75,7 +75,7 @@
       "Bajo el tubo de escape."
     ],
     "answer": "Bajo los pilares A y C (o puntos sólidos cercanos a las ruedas).",
-    "explanation": "Puntos estructurales fuertes para evitar el movimiento de la suspensión[cite: 4721, 4722]."
+    "explanation": "Puntos estructurales fuertes para evitar el movimiento de la suspensión."
   },
   {
     "id": 7,
@@ -88,7 +88,7 @@
       "Estabilizar la dirección."
     ],
     "answer": "Eliminar el grado de libertad entre suelo y auto (anular suspensión) para permitir extracción en 0°.",
-    "explanation": "Requisito para extracción alineada, se coloca en la parte posterior[cite: 4740, 4742]."
+    "explanation": "Requisito para extracción alineada, se coloca en la parte posterior."
   },
   {
     "id": 8,
@@ -101,7 +101,7 @@
       "Se deben retirar siempre."
     ],
     "answer": "No utilizarlos como puntos de apoyo (material ligero).",
-    "explanation": "Suelen ser plásticos y no soportan carga[cite: 4732]."
+    "explanation": "Suelen ser plásticos y no soportan carga."
   },
   {
     "id": 9,
@@ -114,7 +114,7 @@
       "No se hace."
     ],
     "answer": "Dos cuñas en la parte delantera (vértice pilar A/capó).",
-    "explanation": "Neutraliza la rotación y libera carga de los pilares A[cite: 4755, 4762]."
+    "explanation": "Neutraliza la rotación y libera carga de los pilares A."
   },
   {
     "id": 10,
@@ -127,7 +127,7 @@
       "El capó."
     ],
     "answer": "La parte posterior, triángulo entre techo y suelo (marco del techo/Pilar C).",
-    "explanation": "Se usan cuñas escalonadas en el espacio trasero[cite: 4759]."
+    "explanation": "Se usan cuñas escalonadas en el espacio trasero."
   },
   {
     "id": 11,
@@ -140,7 +140,7 @@
       "Usar cojines de levante."
     ],
     "answer": "Estabilizar contra un objeto fijo (poste, árbol, otro auto) usando cintas ratchet.",
-    "explanation": "Aprovecha el entorno para fijar el vehículo[cite: 4768, 4769]."
+    "explanation": "Aprovecha el entorno para fijar el vehículo."
   },
   {
     "id": 12,
@@ -153,7 +153,7 @@
       "Con un neumático pinchado."
     ],
     "answer": "Volcado sobre su costado.",
-    "explanation": "La superficie de apoyo es mínima[cite: 4784]."
+    "explanation": "La superficie de apoyo es mínima."
   },
   {
     "id": 13,
@@ -166,7 +166,7 @@
       "El motor."
     ],
     "answer": "El lado limpio (arriba), bajo pilares A, B y C.",
-    "explanation": "Se asegura primero la parte superior para evitar el vuelco[cite: 4788]."
+    "explanation": "Se asegura primero la parte superior para evitar el vuelco."
   },
   {
     "id": 14,
@@ -179,7 +179,7 @@
       "Uno en cada esquina."
     ],
     "answer": "Dos en el lado limpio (Motor y Maletero/Pilar B) y uno en el lado sucio (Centro).",
-    "explanation": "Forma un triángulo de soporte robusto[cite: 4796, 4797, 4798]."
+    "explanation": "Forma un triángulo de soporte robusto."
   },
   {
     "id": 15,
@@ -192,7 +192,7 @@
       "Delantero, Medio y Trasero."
     ],
     "answer": "Suelo-chasis, Chasis-cabina y Cabina-asiento.",
-    "explanation": "Son los tres sistemas de suspensión independientes que posee un camión[cite: 4885]."
+    "explanation": "Son los tres sistemas de suspensión independientes que posee un camión."
   },
   {
     "id": 16,
@@ -205,7 +205,7 @@
       "Levantando el camión."
     ],
     "answer": "Fijando cuñas biseladas o chocos en el espacio entre la suspensión (eje) y el chasis.",
-    "explanation": "Bloquea mecánicamente el recorrido de los muelles/amortiguadores[cite: 4896]."
+    "explanation": "Bloquea mecánicamente el recorrido de los muelles/amortiguadores."
   },
   {
     "id": 17,
@@ -218,7 +218,7 @@
       "Siempre está fijo."
     ],
     "answer": "No cortar el contacto antes de estabilizarlo, ya que al perder aire puede moverse/bajar.",
-    "explanation": "El asiento tiene suspensión neumática; si se corta el aire, cae y puede lesionar[cite: 4904, 4905]."
+    "explanation": "El asiento tiene suspensión neumática; si se corta el aire, cae y puede lesionar."
   },
   {
     "id": 18,
@@ -231,7 +231,7 @@
       "Solo las ruedas."
     ],
     "answer": "Cuatro (4) puntos de contacto con la estructura.",
-    "explanation": "Debido a su largo y peso, requiere más puntos de apoyo[cite: 4936]."
+    "explanation": "Debido a su largo y peso, requiere más puntos de apoyo."
   },
   {
     "id": 19,
@@ -244,7 +244,7 @@
       "El techo."
     ],
     "answer": "Bajo la pisadera.",
-    "explanation": "La práctica ha mostrado que es un punto robusto[cite: 4939]."
+    "explanation": "La práctica ha mostrado que es un punto robusto."
   },
   {
     "id": 20,
@@ -257,6 +257,6 @@
       "El vehículo es pequeño."
     ],
     "answer": "Están 100% alineadas y con los mismos ángulos (en espejo).",
-    "explanation": "Si no están alineadas, pueden generar torsión e inestabilidad[cite: 4816]."
+    "explanation": "Si no están alineadas, pueden generar torsión e inestabilidad."
   }
 ]

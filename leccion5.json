@@ -10,7 +10,7 @@
       "En ver si el paciente tiene licencia de conducir."
     ],
     "answer": "En la observación del tipo de impacto, dirección y tipo de atrapamiento para estimar lesiones.",
-    "explanation": "Permite al equipo estimar la intensidad y el tipo de lesión basándose en la energía del accidente[cite: 3272]."
+    "explanation": "Permite al equipo estimar la intensidad y el tipo de lesión basándose en la energía del accidente."
   },
   {
     "id": 2,
@@ -23,7 +23,7 @@
       "Solo importa la velocidad, no el atrapamiento."
     ],
     "answer": "A mayor nivel de atrapamiento, usualmente se encuentran lesiones de mayor gravedad.",
-    "explanation": "Principio básico de la evaluación de la escena y el paciente[cite: 3273]."
+    "explanation": "Principio básico de la evaluación de la escena y el paciente."
   },
   {
     "id": 3,
@@ -36,7 +36,7 @@
       "Rehabilitación."
     ],
     "answer": "Manejo prehospitalario del trauma y extricación.",
-    "explanation": "Es la fase de aplicación de procedimientos para la liberación segura y coordinación médica[cite: 3323]."
+    "explanation": "Es la fase de aplicación de procedimientos para la liberación segura y coordinación médica."
   },
   {
     "id": 4,
@@ -49,7 +49,7 @@
       "Abrir la vía aérea con maniobra frente-mentón."
     ],
     "answer": "Contacto verbal frontal para evitar que mueva la cabeza.",
-    "explanation": "Busca la inmovilización 'psicológica' y explicar los procedimientos antes de tocar[cite: 3330]."
+    "explanation": "Busca la inmovilización 'psicológica' y explicar los procedimientos antes de tocar."
   },
   {
     "id": 5,
@@ -62,7 +62,7 @@
       "Esperar a la ambulancia."
     ],
     "answer": "Inmovilizar rápidamente la columna cervical e iniciar el manejo del ABC.",
-    "explanation": "El manejo debe ser agresivo en el paciente atrapado e inconsciente[cite: 3333]."
+    "explanation": "El manejo debe ser agresivo en el paciente atrapado e inconsciente."
   },
   {
     "id": 6,
@@ -75,7 +75,7 @@
       "Rigidez muscular inmediata."
     ],
     "answer": "Shock por liberación de toxinas o reactivación de sangrados (Síndrome de Aplastamiento / Efecto Torniquete).",
-    "explanation": "Las estructuras pueden estar actuando como torniquete mecánico; al liberar, el paciente puede colapsar [cite: 3355-3356]."
+    "explanation": "Las estructuras pueden estar actuando como torniquete mecánico; al liberar, el paciente puede colapsar ."
   },
   {
     "id": 7,
@@ -88,7 +88,7 @@
       "Ventilar siempre con bolsa-mascarilla."
     ],
     "answer": "Evitar elementos (como chalecos de extricación) que limiten los movimientos respiratorios si hay dolor o sospecha de trauma torácico.",
-    "explanation": "Si hay compromiso torácico, se prefiere extracción en 0° sin chaleco para no comprimir [cite: 3348-3349]."
+    "explanation": "Si hay compromiso torácico, se prefiere extracción en 0° sin chaleco para no comprimir ."
   },
   {
     "id": 8,
@@ -101,7 +101,7 @@
       "Cuando las puertas están bloqueadas."
     ],
     "answer": "Situación donde hay vías de salida, pero las lesiones del paciente impiden su salida normal.",
-    "explanation": "No requiere necesariamente corte de estructura, sino inmovilización y extracción técnica[cite: 3372]."
+    "explanation": "No requiere necesariamente corte de estructura, sino inmovilización y extracción técnica."
   },
   {
     "id": 9,
@@ -114,7 +114,7 @@
       "El paciente está inconsciente pero libre."
     ],
     "answer": "La deformidad del móvil bloquea las salidas o comprime el cuerpo del paciente.",
-    "explanation": "Requiere uso de herramientas para generar espacio o abrir vías[cite: 3376]."
+    "explanation": "Requiere uso de herramientas para generar espacio o abrir vías."
   },
   {
     "id": 10,
@@ -127,7 +127,7 @@
       "Cuando el paciente queda colgado del cinturón."
     ],
     "answer": "Cuando una estructura del vehículo u objeto externo penetra un segmento corporal.",
-    "explanation": "Requiere fijación y corte del objeto, nunca retiro en la escena[cite: 3381]."
+    "explanation": "Requiere fijación y corte del objeto, nunca retiro en la escena."
   },
   {
     "id": 11,
@@ -140,7 +140,7 @@
       "Golpe lateral del pilar B."
     ],
     "answer": "Intromisión de la columna de dirección/volante.",
-    "explanation": "Comprime el pecho o abdomen contra el asiento[cite: 3401]."
+    "explanation": "Comprime el pecho o abdomen contra el asiento."
   },
   {
     "id": 12,
@@ -153,7 +153,7 @@
       "Volcamiento."
     ],
     "answer": "Intromisión del panel frontal (tablero) hacia el habitáculo.",
-    "explanation": "Atrapa las piernas o la cadera, requiriendo desplazamiento de tablero[cite: 3403]."
+    "explanation": "Atrapa las piernas o la cadera, requiriendo desplazamiento de tablero."
   },
   {
     "id": 13,
@@ -166,7 +166,7 @@
       "Sacar al paciente caminando."
     ],
     "answer": "Extraer al paciente siguiendo el eje longitudinal de su columna, sin rotaciones.",
-    "explanation": "Es la técnica recomendada para minimizar lesiones espinales[cite: 3418]."
+    "explanation": "Es la técnica recomendada para minimizar lesiones espinales."
   },
   {
     "id": 14,
@@ -179,7 +179,7 @@
       "Extracción por la maleta."
     ],
     "answer": "Extracción con un giro de 45° por la puerta trasera del lado contrario.",
-    "explanation": "Segunda opción si no se puede realizar la extracción en 0°[cite: 3422]."
+    "explanation": "Segunda opción si no se puede realizar la extracción en 0°."
   },
   {
     "id": 15,
@@ -192,7 +192,7 @@
       "Llega la prensa."
     ],
     "answer": "Hay un cambio negativo en la condición MÃ‰DICA del paciente (ej. PCR).",
-    "explanation": "Sacrifica la técnica ideal por velocidad ante riesgo de muerte clínica[cite: 3446]."
+    "explanation": "Sacrifica la técnica ideal por velocidad ante riesgo de muerte clínica."
   },
   {
     "id": 16,
@@ -205,7 +205,7 @@
       "Se rompe una herramienta."
     ],
     "answer": "Hay un cambio en las condiciones de SEGURIDAD de la escena (ej. fuego, riesgo de colapso).",
-    "explanation": "Implica un repliegue inmediato para salvar la vida de rescatistas y paciente[cite: 3465]."
+    "explanation": "Implica un repliegue inmediato para salvar la vida de rescatistas y paciente."
   },
   {
     "id": 17,
@@ -218,7 +218,7 @@
       "Se espera a que el fuego se apague."
     ],
     "answer": "Extracción manual rápida, usualmente sin elementos de inmovilización (salvo los ya puestos).",
-    "explanation": "La prioridad es la vida inmediata ante un riesgo inminente, no la secuela[cite: 3476]."
+    "explanation": "La prioridad es la vida inmediata ante un riesgo inminente, no la secuela."
   },
   {
     "id": 18,
@@ -231,7 +231,7 @@
       "Cuando llega el Comandante."
     ],
     "answer": "Cuando el cuerpo del paciente se encuentra completamente visualizado (se sabe dónde está cada segmento).",
-    "explanation": "Especialmente la ubicación de los pies, que puede cambiar la técnica [cite: 3296-3298]."
+    "explanation": "Especialmente la ubicación de los pies, que puede cambiar la técnica ."
   },
   {
     "id": 19,
@@ -244,7 +244,7 @@
       "Una radio."
     ],
     "answer": "Un equipo de oxigenoterapia.",
-    "explanation": "Todo paciente politraumatizado requiere oxígeno precozmente[cite: 3334]."
+    "explanation": "Todo paciente politraumatizado requiere oxígeno precozmente."
   },
   {
     "id": 20,
@@ -257,6 +257,6 @@
       "Extracción inversa."
     ],
     "answer": "Extracción en 15°.",
-    "explanation": "Al no estar el pilar B, se puede angular ligeramente la tabla para salir por el costado[cite: 3423]."
+    "explanation": "Al no estar el pilar B, se puede angular ligeramente la tabla para salir por el costado."
   }
 ]

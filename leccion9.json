@@ -10,7 +10,7 @@
       "Siempre se debe empezar por volar el techo."
     ],
     "answer": "Debe ser UNA sola técnica elegida para el logro del objetivo, evitando el 'prueba y error'.",
-    "explanation": "La improvisación o cambio constante de técnica consume tiempo valioso[cite: 7918]."
+    "explanation": "La improvisación o cambio constante de técnica consume tiempo valioso."
   },
   {
     "id": 2,
@@ -23,7 +23,7 @@
       "Primero cortar el vidrio, luego la bisagra."
     ],
     "answer": "Primero Método de la Cerradura, luego Método de la Bisagra.",
-    "explanation": "La cerradura suele ceder más fácil o permite abrir la puerta sin volarla completamente [cite: 7935-7950]."
+    "explanation": "La cerradura suele ceder más fácil o permite abrir la puerta sin volarla completamente ."
   },
   {
     "id": 3,
@@ -36,7 +36,7 @@
       "Hacia ARRIBA solamente."
     ],
     "answer": "Hacia AFUERA y no hacia abajo.",
-    "explanation": "Para evitar comprimir el pilar o la estructura contra el paciente[cite: 7875]."
+    "explanation": "Para evitar comprimir el pilar o la estructura contra el paciente."
   },
   {
     "id": 4,
@@ -49,7 +49,7 @@
       "Cortar solo los pilares A."
     ],
     "answer": "Levantar el techo o ampliar el área del parabrisas trasero con RAM/Expansor para una vía de extracción.",
-    "explanation": "Genera espacio vertical o de salida sin remover todo el techo [cite: 7984-7986]."
+    "explanation": "Genera espacio vertical o de salida sin remover todo el techo ."
   },
   {
     "id": 5,
@@ -62,7 +62,7 @@
       "Corte solo del pilar B."
     ],
     "answer": "Corte total de pilares traseros (C/D) y cortes de alivio detrás del pilar B.",
-    "explanation": "Permite abatir el techo hacia el frente del vehículo[cite: 7998]."
+    "explanation": "Permite abatir el techo hacia el frente del vehículo."
   },
   {
     "id": 6,
@@ -75,7 +75,7 @@
       "Traccionar el volante con la mano."
     ],
     "answer": "Cortar el aro del volante (nunca los rayos) para liberar espacio abdominal.",
-    "explanation": "Cortar los rayos es peligroso por los detonadores de airbag [cite: 8050-8051]."
+    "explanation": "Cortar los rayos es peligroso por los detonadores de airbag ."
   },
   {
     "id": 7,
@@ -88,7 +88,7 @@
       "Estabilizar el auto."
     ],
     "answer": "Dirigir la fuerza resultante hacia ARRIBA y no hacia adelante.",
-    "explanation": "Cambia el vector de tracción para levantar efectivamente la columna[cite: 8131]."
+    "explanation": "Cambia el vector de tracción para levantar efectivamente la columna."
   },
   {
     "id": 8,
@@ -101,7 +101,7 @@
       "En el pilar B."
     ],
     "answer": "En la base del pilar A, paralelo al zócalo (NUNCA cortar el zócalo).",
-    "explanation": "Cortar el zócalo es peligroso por líneas de combustible o cables[cite: 8162]."
+    "explanation": "Cortar el zócalo es peligroso por líneas de combustible o cables."
   },
   {
     "id": 9,
@@ -114,7 +114,7 @@
       "Entre las dos puertas delanteras."
     ],
     "answer": "Base en el Pilar B (con apoyo) y extremo móvil en la parte alta del Pilar A/Bisagra superior.",
-    "explanation": "Utiliza la robustez del pilar B para empujar el frente hacia adelante [cite: 8164-8166]."
+    "explanation": "Utiliza la robustez del pilar B para empujar el frente hacia adelante ."
   },
   {
     "id": 10,
@@ -127,7 +127,7 @@
       "Cortar el techo antes."
     ],
     "answer": "Acuñar (chocos) cada centímetro ganado en el corte de alivio para evitar el retroceso.",
-    "explanation": "La estructura tiende a volver a su posición elástica si falla la herramienta[cite: 8179]."
+    "explanation": "La estructura tiende a volver a su posición elástica si falla la herramienta."
   },
   {
     "id": 11,
@@ -140,7 +140,7 @@
       "Sacar los asientos."
     ],
     "answer": "Remover puertas delantera, trasera y pilar B para crear un gran acceso lateral.",
-    "explanation": "Ãštil en impactos laterales severos o múltiples víctimas [cite: 8186-8192]."
+    "explanation": "Ãštil en impactos laterales severos o múltiples víctimas ."
   },
   {
     "id": 12,
@@ -153,7 +153,7 @@
       "Romper el vidrio."
     ],
     "answer": "Forzar primero la puerta delantera (bisagra), luego cortar pilar B y llevar todo hacia atrás.",
-    "explanation": "Permite abatir todo el lateral como una sola pieza[cite: 8230]."
+    "explanation": "Permite abatir todo el lateral como una sola pieza."
   },
   {
     "id": 13,
@@ -166,7 +166,7 @@
       "Para abrir el maletero."
     ],
     "answer": "Para recuperar la forma del habitáculo en impactos laterales (deformación transversal).",
-    "explanation": "Empuja desde el lado sano o pilar B hacia la zona deformada [cite: 8272-8275]."
+    "explanation": "Empuja desde el lado sano o pilar B hacia la zona deformada ."
   },
   {
     "id": 14,
@@ -179,7 +179,7 @@
       "Parabrisas y Luneta."
     ],
     "answer": "Pilar B (arriba) y Zócalo/Pilar A del lado opuesto (abajo).",
-    "explanation": "Busca puntos estructurales fuertes para la tracción cruzada[cite: 8277]."
+    "explanation": "Busca puntos estructurales fuertes para la tracción cruzada."
   },
   {
     "id": 15,
@@ -192,7 +192,7 @@
       "El Halligan a golpes."
     ],
     "answer": "Una cinta tubular o cordín para traccionar el pedal hacia arriba/atrás.",
-    "explanation": "Técnica manual rápida y efectiva[cite: 8297]."
+    "explanation": "Técnica manual rápida y efectiva."
   },
   {
     "id": 16,
@@ -205,7 +205,7 @@
       "La fuerza bruta de los bomberos."
     ],
     "answer": "Cojines de alta presión (neumáticos).",
-    "explanation": "Permiten levantar cargas pesadas desde espacios reducidos[cite: 8313]."
+    "explanation": "Permiten levantar cargas pesadas desde espacios reducidos."
   },
   {
     "id": 17,
@@ -218,7 +218,7 @@
       "Gritar fuerte."
     ],
     "answer": "Acuñar (chocos) progresivamente a medida que se levanta para evitar caídas accidentales.",
-    "explanation": "Si el cojín falla, la carga debe quedar soportada por la madera[cite: 8325]."
+    "explanation": "Si el cojín falla, la carga debe quedar soportada por la madera."
   },
   {
     "id": 18,
@@ -231,7 +231,7 @@
       "Desinflar la rueda."
     ],
     "answer": "Fijar el eje al chasis con una cinta ratchet para anular la suspensión.",
-    "explanation": "Permite que la rueda suba junto con el chasis inmediatamente [cite: 8332-8333]."
+    "explanation": "Permite que la rueda suba junto con el chasis inmediatamente ."
   },
   {
     "id": 19,
@@ -244,7 +244,7 @@
       "Pintar la zona de corte."
     ],
     "answer": "Desvestir (retirar plásticos) para identificar actuadores de airbag o pretensores.",
-    "explanation": "Evita cortar cilindros de gas comprimido o explosivos[cite: 7994]."
+    "explanation": "Evita cortar cilindros de gas comprimido o explosivos."
   },
   {
     "id": 20,
@@ -257,6 +257,6 @@
       "El SAMU."
     ],
     "answer": "El Jefe de Operaciones (basado en input de Trauma y Extricación).",
-    "explanation": "Es una decisión de mando basada en la reunión tripartita[cite: 7916]."
+    "explanation": "Es una decisión de mando basada en la reunión tripartita."
   }
 ]

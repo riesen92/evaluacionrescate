@@ -10,7 +10,7 @@
       "Instalar vías venosas."
     ],
     "answer": "Obtener información de la condición médica y situación estructural para planificar la extracción.",
-    "explanation": "El acceso permite evaluar el ABC, el PATER y planificar la vía de salida[cite: 8631, 8632]."
+    "explanation": "El acceso permite evaluar el ABC, el PATER y planificar la vía de salida."
   },
   {
     "id": 2,
@@ -23,7 +23,7 @@
       "Romper el vidrio para que nos escuche."
     ],
     "answer": "Contacto verbal frontal para evitar que mueva la cabeza.",
-    "explanation": "Se busca evitar movimientos de la columna cervical mediante inmovilización 'psicológica'[cite: 8643]."
+    "explanation": "Se busca evitar movimientos de la columna cervical mediante inmovilización 'psicológica'."
   },
   {
     "id": 3,
@@ -36,7 +36,7 @@
       "Por el techo."
     ],
     "answer": "Por la zona más alejada del paciente.",
-    "explanation": "Para no invadir su espacio bruscamente ni generar ansiedad, mientras se mantiene contacto visual[cite: 8650]."
+    "explanation": "Para no invadir su espacio bruscamente ni generar ansiedad, mientras se mantiene contacto visual."
   },
   {
     "id": 4,
@@ -49,7 +49,7 @@
       "No se hace ABC hasta sacarlo."
     ],
     "answer": "Desde el exterior, por el lugar más cercano al paciente.",
-    "explanation": "La prioridad es la vida; se inicia la evaluación inmediatamente desde afuera mientras otro operador accede[cite: 8655]."
+    "explanation": "La prioridad es la vida; se inicia la evaluación inmediatamente desde afuera mientras otro operador accede."
   },
   {
     "id": 5,
@@ -62,7 +62,7 @@
       "Usarlos para estabilizar al paciente."
     ],
     "answer": "Despejar la zona movilizando asientos y retirando respaldos/cabezales para generar espacio.",
-    "explanation": "El primer operador en ingresar debe generar espacio interior manualmente[cite: 8652, 8666]."
+    "explanation": "El primer operador en ingresar debe generar espacio interior manualmente."
   },
   {
     "id": 6,
@@ -75,7 +75,7 @@
       "Cortar la palanca."
     ],
     "answer": "Activarlo (freno de mano).",
-    "explanation": "Es una medida de seguridad básica para evitar movimientos del vehículo[cite: 8667]."
+    "explanation": "Es una medida de seguridad básica para evitar movimientos del vehículo."
   },
   {
     "id": 7,
@@ -88,7 +88,7 @@
       "Antes de entrar al vehículo."
     ],
     "answer": "Solo cuando todas las funciones eléctricas (vidrios, seguros, asientos) hayan sido revisadas/operadas.",
-    "explanation": "Si se corta antes, se pierden funciones como mover asientos eléctricos o bajar vidrios[cite: 8668]."
+    "explanation": "Si se corta antes, se pierden funciones como mover asientos eléctricos o bajar vidrios."
   },
   {
     "id": 8,
@@ -101,7 +101,7 @@
       "Debajo del auto."
     ],
     "answer": "Los maleteros (revisar presencia de terceros o riesgos).",
-    "explanation": "Nunca olvidar revisar maleteros por posibles víctimas adicionales o materiales peligrosos[cite: 8672]."
+    "explanation": "Nunca olvidar revisar maleteros por posibles víctimas adicionales o materiales peligrosos."
   },
   {
     "id": 9,
@@ -114,7 +114,7 @@
       "Usar una cámara térmica."
     ],
     "answer": "Recorrer manualmente toda la extensión de su cuerpo buscando secciones atrapadas.",
-    "explanation": "Especialmente zonas no visibles para confirmar atrapamientos físicos[cite: 8651]."
+    "explanation": "Especialmente zonas no visibles para confirmar atrapamientos físicos."
   },
   {
     "id": 10,
@@ -127,7 +127,7 @@
       "Esperando más ambulancias."
     ],
     "answer": "Verbalmente, pidiendo la salida de quienes puedan hacerlo por sus medios (triage).",
-    "explanation": "Permite concentrar recursos en quienes están realmente atrapados o graves[cite: 8676]."
+    "explanation": "Permite concentrar recursos en quienes están realmente atrapados o graves."
   },
   {
     "id": 11,
@@ -140,7 +140,7 @@
       "Usar linternas."
     ],
     "answer": "Los trabajos en el área lateral del paciente.",
-    "explanation": "Para evitar que el paciente gire la cabeza por curiosidad o ruido[cite: 8679]."
+    "explanation": "Para evitar que el paciente gire la cabeza por curiosidad o ruido."
   },
   {
     "id": 12,
@@ -153,7 +153,7 @@
       "Gritar para ver si responde."
     ],
     "answer": "Mantener una comunicación continua recabando información.",
-    "explanation": "El contacto verbal tranquiliza y aporta datos vitales[cite: 8653]."
+    "explanation": "El contacto verbal tranquiliza y aporta datos vitales."
   },
   {
     "id": 13,
@@ -166,7 +166,7 @@
       "Carabineros."
     ],
     "answer": "La Unidad de Trauma (define la extracción), ejecutada por Extricación.",
-    "explanation": "La extracción es una decisión médica/técnica liderada por Trauma[cite: 8633]."
+    "explanation": "La extracción es una decisión médica/técnica liderada por Trauma."
   },
   {
     "id": 14,
@@ -179,7 +179,7 @@
       "La radio."
     ],
     "answer": "Los seguros de las puertas.",
-    "explanation": "Facilita el acceso posterior desde el exterior[cite: 8667]."
+    "explanation": "Facilita el acceso posterior desde el exterior."
   },
   {
     "id": 15,
@@ -192,7 +192,7 @@
       "Esperar al SAMU."
     ],
     "answer": "Agresivo, proponiendo rápidamente un plan de extricación.",
-    "explanation": "La inconsciencia implica riesgo vital inminente[cite: 8657]."
+    "explanation": "La inconsciencia implica riesgo vital inminente."
   },
   {
     "id": 16,
@@ -205,7 +205,7 @@
       "No se sabe qué pasará."
     ],
     "answer": "Un segundo operador se acercará (ej. por la ventana) para que no se asuste.",
-    "explanation": "Evita reacciones de sobresalto que puedan mover la columna[cite: 8648]."
+    "explanation": "Evita reacciones de sobresalto que puedan mover la columna."
   },
   {
     "id": 17,
@@ -218,7 +218,7 @@
       "El uso de extintores."
     ],
     "answer": "La desconexión de la batería (tras revisar lo eléctrico).",
-    "explanation": "Para no cortar la energía antes de mover asientos o bajar vidrios[cite: 8675]."
+    "explanation": "Para no cortar la energía antes de mover asientos o bajar vidrios."
   },
   {
     "id": 18,
@@ -231,7 +231,7 @@
       "El paciente lo autoriza."
     ],
     "answer": "Se han asegurado todos los posibles riesgos presentes en la escena.",
-    "explanation": "Principio de seguridad antes de operar[cite: 8674]."
+    "explanation": "Principio de seguridad antes de operar."
   },
   {
     "id": 19,
@@ -244,7 +244,7 @@
       "Se ponen los conos."
     ],
     "answer": "La Unidad de Seguridad verifica la escena.",
-    "explanation": "Permite ganar tiempo y calmar al paciente desde el segundo cero[cite: 8647]."
+    "explanation": "Permite ganar tiempo y calmar al paciente desde el segundo cero."
   },
   {
     "id": 20,
@@ -257,6 +257,6 @@
       "Buscar su celular."
     ],
     "answer": "Preparar su salida.",
-    "explanation": "Cada acción (mover asientos, desbloquear puertas) facilita la extracción final[cite: 8681]."
+    "explanation": "Cada acción (mover asientos, desbloquear puertas) facilita la extracción final."
   }
 ]

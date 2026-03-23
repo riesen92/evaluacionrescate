@@ -10,7 +10,7 @@
       "Estructura exclusiva de camiones."
     ],
     "answer": "Estructura donde el chasis y la carrocería son una sola pieza, rígida y liviana.",
-    "explanation": "Es la construcción más común en vehículos modernos, formada por chapas soldadas[cite: 835]."
+    "explanation": "Es la construcción más común en vehículos modernos, formada por chapas soldadas."
   },
   {
     "id": 2,
@@ -23,7 +23,7 @@
       "La zona de deformación programada."
     ],
     "answer": "El módulo central de alta resistencia y reforzado destinado a proteger a los pasajeros.",
-    "explanation": "Es la 'jaula' de seguridad diseñada para no deformarse y proteger a los ocupantes[cite: 850, 851]."
+    "explanation": "Es la 'jaula' de seguridad diseñada para no deformarse y proteger a los ocupantes."
   },
   {
     "id": 3,
@@ -36,7 +36,7 @@
       "Alfa, Beta, Gamma."
     ],
     "answer": "A, B, C, D, etc.",
-    "explanation": "Nomenclatura estándar: Pilar A (delantero), Pilar B (medio), Pilar C (trasero)[cite: 863, 866, 868]."
+    "explanation": "Nomenclatura estándar: Pilar A (delantero), Pilar B (medio), Pilar C (trasero)."
   },
   {
     "id": 4,
@@ -49,7 +49,7 @@
       "Aleación ligera para el motor."
     ],
     "answer": "Altísima resistencia, usado en pilares y barras anti-intrusión (difícil de cortar).",
-    "explanation": "Su extrema dureza representa un desafío para las herramientas de rescate[cite: 972, 973]."
+    "explanation": "Su extrema dureza representa un desafío para las herramientas de rescate."
   },
   {
     "id": 5,
@@ -62,7 +62,7 @@
       "Falla del chasis."
     ],
     "answer": "Zonas diseñadas para deformarse y absorber la energía del impacto antes de que llegue al habitáculo.",
-    "explanation": "Transforma la energía cinética en deformación mecánica fuera de la cabina[cite: 983]."
+    "explanation": "Transforma la energía cinética en deformación mecánica fuera de la cabina."
   },
   {
     "id": 6,
@@ -75,7 +75,7 @@
       "Son de plástico."
     ],
     "answer": "Al romperse se fragmentan en múltiples y pequeñas piezas poco cortantes.",
-    "explanation": "Usualmente en ventanas laterales y lunetas[cite: 1014]."
+    "explanation": "Usualmente en ventanas laterales y lunetas."
   },
   {
     "id": 7,
@@ -88,7 +88,7 @@
       "Se deshacen con el agua."
     ],
     "answer": "Poseen una lámina adhesiva transparente entre dos capas que mantiene los fragmentos unidos.",
-    "explanation": "Usualmente en el parabrisas delantero[cite: 1013]."
+    "explanation": "Usualmente en el parabrisas delantero."
   },
   {
     "id": 8,
@@ -101,7 +101,7 @@
       "No tienen riesgos especiales."
     ],
     "answer": "Alta tensión almacenada en baterías y cableado (riesgo de electrocución).",
-    "explanation": "El voltaje almacenado en el sistema de propulsión es el peligro crítico[cite: 911]."
+    "explanation": "El voltaje almacenado en el sistema de propulsión es el peligro crítico."
   },
   {
     "id": 9,
@@ -114,7 +114,7 @@
       "Cortar los cables con hacha."
     ],
     "answer": "Primero el cable NEGATIVO, luego el POSITIVO.",
-    "explanation": "Si se corta el positivo primero, la herramienta puede hacer arco eléctrico con el chasis[cite: 924, 926]."
+    "explanation": "Si se corta el positivo primero, la herramienta puede hacer arco eléctrico con el chasis."
   },
   {
     "id": 10,
@@ -127,7 +127,7 @@
       "Son lo mismo."
     ],
     "answer": "Activa previene el accidente (ej. ABS); Pasiva minimiza lesiones tras el impacto (ej. Airbag).",
-    "explanation": "Definición conceptual de los tipos de seguridad vehicular[cite: 933, 956]."
+    "explanation": "Definición conceptual de los tipos de seguridad vehicular."
   },
   {
     "id": 11,
@@ -140,7 +140,7 @@
       "Ajustar la altura del asiento."
     ],
     "answer": "Tensar el cinturón en fracciones de segundo para pegar al ocupante al asiento en un impacto.",
-    "explanation": "Compensa la elongación y la ropa suelta[cite: 1142]."
+    "explanation": "Compensa la elongación y la ropa suelta."
   },
   {
     "id": 12,
@@ -153,7 +153,7 @@
       "Puede bloquear la puerta."
     ],
     "answer": "Puede activarse accidentalmente al cortar el pilar o el mecanismo.",
-    "explanation": "Contiene carga explosiva y comparte sistema con los airbags[cite: 1143]."
+    "explanation": "Contiene carga explosiva y comparte sistema con los airbags."
   },
   {
     "id": 13,
@@ -166,7 +166,7 @@
       "Solo Rescate Seguro."
     ],
     "answer": "Sistema de Retención Suplementario (Airbags y Pretensores).",
-    "explanation": "Sigla que identifica la presencia de airbags y dispositivos asociados[cite: 1062, 1063]."
+    "explanation": "Sigla que identifica la presencia de airbags y dispositivos asociados."
   },
   {
     "id": 14,
@@ -179,7 +179,7 @@
       "30 cm (conductor), 60 cm (acompañante), 90 cm (cortina)."
     ],
     "answer": "10 cm (cortina/lateral), 25 cm (conductor), 50 cm (acompañante).",
-    "explanation": "Regla de seguridad vital: 10-25-50[cite: 1129, 1130]."
+    "explanation": "Regla de seguridad vital: 10-25-50."
   },
   {
     "id": 15,
@@ -192,7 +192,7 @@
       "Protege a dos personas."
     ],
     "answer": "Puede inflarse parcialmente en un impacto menor y tener una segunda carga activa peligrosa.",
-    "explanation": "Un airbag ya desplegado puede volver a detonar su segunda carga[cite: 1059, 1060]."
+    "explanation": "Un airbag ya desplegado puede volver a detonar su segunda carga."
   },
   {
     "id": 16,
@@ -205,7 +205,7 @@
       "Control de estabilidad."
     ],
     "answer": "Sistema de Protección Antivuelco (barras que se despliegan tras la cabeza).",
-    "explanation": "Barras rígidas que saltan para proteger en caso de vuelco[cite: 1151, 1152]."
+    "explanation": "Barras rígidas que saltan para proteger en caso de vuelco."
   },
   {
     "id": 17,
@@ -218,7 +218,7 @@
       "No hacer nada."
     ],
     "answer": "Desvestir (retirar plásticos) para ver actuadores de airbag y cilindros.",
-    "explanation": "Para identificar cilindros de gas comprimido o detonadores ocultos[cite: 1064]."
+    "explanation": "Para identificar cilindros de gas comprimido o detonadores ocultos."
   },
   {
     "id": 18,
@@ -231,7 +231,7 @@
       "Sí, si se corta el cable positivo."
     ],
     "answer": "No, minimiza el riesgo pero no lo elimina (condensadores/energía residual).",
-    "explanation": "Los sistemas pueden mantener energía residual[cite: 1126]."
+    "explanation": "Los sistemas pueden mantener energía residual."
   },
   {
     "id": 19,
@@ -244,7 +244,7 @@
       "Pincharlo."
     ],
     "answer": "Instalar protector (cubre volante), señalizarlo y no trabajar en su zona de proyección.",
-    "explanation": "Protocolo de seguridad ante SRS activos[cite: 1125, 1127]."
+    "explanation": "Protocolo de seguridad ante SRS activos."
   },
   {
     "id": 20,
@@ -257,6 +257,6 @@
       "PELIGRO."
     ],
     "answer": "AIRBAG (Alto, Inspeccionar, Retirar, Buscar, Asegurar, Garantizar).",
-    "explanation": "Estrategia para recordar los pasos de seguridad [cite: 1133-1139]."
+    "explanation": "Estrategia para recordar los pasos de seguridad ."
   }
 ]

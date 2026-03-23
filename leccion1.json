@@ -10,7 +10,7 @@
       "La estabilización de vehículos volcados."
     ],
     "answer": "La remoción de pacientes atrapados en un vehículo o maquinaria.",
-    "explanation": "Definición textual citada en la introducción[cite: 381]."
+    "explanation": "Definición textual citada en la introducción."
   },
   {
     "id": 2,
@@ -23,7 +23,7 @@
       "Cuidado de las herramientas."
     ],
     "answer": "Rescate centrado en el paciente.",
-    "explanation": "El estado inicial y evolutivo del paciente define las decisiones de intervención[cite: 389, 393]."
+    "explanation": "El estado inicial y evolutivo del paciente define las decisiones de intervención."
   },
   {
     "id": 3,
@@ -36,7 +36,7 @@
       "Los primeros 5 minutos."
     ],
     "answer": "Los primeros 3 minutos.",
-    "explanation": "El texto indica que un buen trabajo durante los primeros 3 minutos conlleva alta probabilidad de éxito[cite: 396]."
+    "explanation": "El texto indica que un buen trabajo durante los primeros 3 minutos conlleva alta probabilidad de éxito."
   },
   {
     "id": 4,
@@ -49,7 +49,7 @@
       "Llamada a la central."
     ],
     "answer": "Designación de Unidades de Trabajo (POE-RV).",
-    "explanation": "Se define intencionalmente como Etapa 0 dado que se realiza antes de ocurrida la emergencia[cite: 416]."
+    "explanation": "Se define intencionalmente como Etapa 0 dado que se realiza antes de ocurrida la emergencia."
   },
   {
     "id": 5,
@@ -62,7 +62,7 @@
       "Médica, Policial, Bomberil y Civil."
     ],
     "answer": "Seguridad, Trauma, Equipos y Extricación.",
-    "explanation": "Las funciones generales comunes son Seguridad, Trauma, Equipos y Extricación[cite: 419]."
+    "explanation": "Las funciones generales comunes son Seguridad, Trauma, Equipos y Extricación."
   },
   {
     "id": 6,
@@ -75,7 +75,7 @@
       "Zona de exclusión total."
     ],
     "answer": "Zona de despliegue de recursos y espera de equipos.",
-    "explanation": "Corresponde a una zona de despliegue de recursos y espera para los equipos[cite: 453]."
+    "explanation": "Corresponde a una zona de despliegue de recursos y espera para los equipos."
   },
   {
     "id": 7,
@@ -88,7 +88,7 @@
       "Área de descanso, Área de comida y Baños."
     ],
     "answer": "Área de equipos, Área de escombros y Área de concentración de víctimas.",
-    "explanation": "Son las tres áreas específicas mencionadas en la organización de la escena[cite: 456]."
+    "explanation": "Son las tres áreas específicas mencionadas en la organización de la escena."
   },
   {
     "id": 8,
@@ -101,7 +101,7 @@
       "El cuartel de bomberos."
     ],
     "answer": "Área que rodea el vehículo y pacientes (trabajo directo).",
-    "explanation": "Es aquel que rodea el vehículo y pacientes, correspondiendo al área directa de trabajo[cite: 472]."
+    "explanation": "Es aquel que rodea el vehículo y pacientes, correspondiendo al área directa de trabajo."
   },
   {
     "id": 9,
@@ -114,7 +114,7 @@
       "Habilitar Operación."
     ],
     "answer": "Estabilización Horizontal.",
-    "explanation": "Parte de la nemotecnia HO-VE-STOR...[cite: 494]."
+    "explanation": "Parte de la nemotecnia HO-VE-STOR...."
   },
   {
     "id": 10,
@@ -127,7 +127,7 @@
       "Llamar a Carabineros."
     ],
     "answer": "Una evaluación global de la situación del paciente y sus requerimientos.",
-    "explanation": "Se refiere a la evaluación del paciente y los requerimientos para su atención[cite: 511]."
+    "explanation": "Se refiere a la evaluación del paciente y los requerimientos para su atención."
   },
   {
     "id": 11,
@@ -140,7 +140,7 @@
       "Posición, Aire, Temperatura, Espacio, Riesgo."
     ],
     "answer": "Paciente, Atrapamiento, Técnica, Extracción, Recursos.",
-    "explanation": "Desglose oficial del acrónimo en el manual[cite: 513]."
+    "explanation": "Desglose oficial del acrónimo en el manual."
   },
   {
     "id": 12,
@@ -153,7 +153,7 @@
       "Solo los oficiales."
     ],
     "answer": "Miembros de las unidades de Seguridad, Trauma y Extricación.",
-    "explanation": "A esta reunión asistirán los miembros de estas tres unidades operativas[cite: 528]."
+    "explanation": "A esta reunión asistirán los miembros de estas tres unidades operativas."
   },
   {
     "id": 13,
@@ -166,7 +166,7 @@
       "Sacar al paciente inmediatamente sin inmovilizar."
     ],
     "answer": "Una vía simple de extracción usada solo en caso de PCR o agravamiento.",
-    "explanation": "Busca maximizar la rapidez ante riesgo vital inminente[cite: 535]."
+    "explanation": "Busca maximizar la rapidez ante riesgo vital inminente."
   },
   {
     "id": 14,
@@ -179,7 +179,7 @@
       "Cuando se rompe el vidrio."
     ],
     "answer": "La voz de mando: '¡Mando traspasado al Jefe de Trauma!'.",
-    "explanation": "Marca el traspaso de liderazgo para la remoción física del paciente[cite: 553]."
+    "explanation": "Marca el traspaso de liderazgo para la remoción física del paciente."
   },
   {
     "id": 15,
@@ -192,7 +192,7 @@
       "Solo si hay grúa."
     ],
     "answer": "Coordinado con Carabineros y bajo la dirección de éstos.",
-    "explanation": "La entrega de la zona segura se coordina con la autoridad policial[cite: 562]."
+    "explanation": "La entrega de la zona segura se coordina con la autoridad policial."
   },
   {
     "id": 16,
@@ -205,7 +205,7 @@
       "Limpiar las herramientas."
     ],
     "answer": "Realizar un análisis de procedimientos y desempeño del equipo.",
-    "explanation": "Instancia para analizar el desempeño individual y colectivo[cite: 564]."
+    "explanation": "Instancia para analizar el desempeño individual y colectivo."
   },
   {
     "id": 17,
@@ -218,7 +218,7 @@
       "Etapa 11: Debriefing."
     ],
     "answer": "Etapa 1: Evaluación de la escena.",
-    "explanation": "Corresponde a la evaluación inicial de necesidades y riesgos[cite: 429]."
+    "explanation": "Corresponde a la evaluación inicial de necesidades y riesgos."
   },
   {
     "id": 18,
@@ -231,7 +231,7 @@
       "Pedir comida."
     ],
     "answer": "Confirmar o modificar las unidades asignadas según las necesidades reales de la escena.",
-    "explanation": "El Jefe de Operaciones ajusta los recursos tras la evaluación inicial[cite: 487]."
+    "explanation": "El Jefe de Operaciones ajusta los recursos tras la evaluación inicial."
   },
   {
     "id": 19,
@@ -244,7 +244,7 @@
       "Apagarlos siempre."
     ],
     "answer": "Disponerlos lo más alejados de los pacientes para evitar contaminación.",
-    "explanation": "Para evitar contaminación acústica y por gases[cite: 459]."
+    "explanation": "Para evitar contaminación acústica y por gases."
   },
   {
     "id": 20,
@@ -257,6 +257,6 @@
       "El plan que no corta el auto."
     ],
     "answer": "El plan donde se maximiza la seguridad y la calidad de vida (extracción ideal).",
-    "explanation": "Es la estrategia principal a menos que el paciente empeore[cite: 534]."
+    "explanation": "Es la estrategia principal a menos que el paciente empeore."
   }
 ]
